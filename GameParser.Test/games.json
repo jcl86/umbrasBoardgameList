@@ -1,0 +1,5838 @@
+﻿{
+  "EsCorrecto": true,
+  "ListaJuegos": [
+    {
+      "Id": 192,
+      "TheGame": {
+        "Id": 0,
+        "Name": "¡No Gracias!",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 0,
+        "Years": 8,
+        "PlayerMin": 3,
+        "PlayerMax": 7,
+        "Difficulty": 1,
+        "Duration": 30,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4-5"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 191,
+      "TheGame": {
+        "Id": 1,
+        "Name": "¡Si, Padrino Oscuro!",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 2,
+        "Years": 8,
+        "PlayerMin": 5,
+        "PlayerMax": 11,
+        "Difficulty": 1,
+        "Duration": 25,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 8-11"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 85,
+      "TheGame": {
+        "Id": 2,
+        "Name": "7 Wonders",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 3,
+        "Years": 10,
+        "PlayerMin": 2,
+        "PlayerMax": 7,
+        "Difficulty": 2,
+        "Duration": 30,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 147,
+      "TheGame": {
+        "Id": 4,
+        "Name": "Agra",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 3,
+        "Years": 14,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 3,
+        "Duration": 120,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 114,
+      "TheGame": {
+        "Id": 6,
+        "Name": "Alquimistas",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 3,
+        "Years": 12,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 3,
+        "Duration": 120,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 138,
+      "TheGame": {
+        "Id": 8,
+        "Name": "Arkham Horror",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 5,
+        "Years": 14,
+        "PlayerMin": 1,
+        "PlayerMax": 8,
+        "Difficulty": 3,
+        "Duration": 240,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 72,
+      "TheGame": {
+        "Id": 10,
+        "Name": "BANG! La Bala!",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 0,
+        "Years": 8,
+        "PlayerMin": 3,
+        "PlayerMax": 8,
+        "Difficulty": 1,
+        "Duration": 30,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 6-7"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 174,
+      "TheGame": {
+        "Id": 11,
+        "Name": "Black Stories",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 5,
+        "Years": 12,
+        "PlayerMin": 2,
+        "PlayerMax": 15,
+        "Difficulty": 1,
+        "Duration": 20,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4-6"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 146,
+      "TheGame": {
+        "Id": 12,
+        "Name": "Block & Block",
+        "Editorial": "",
+        "Family": 1,
+        "Type": 2,
+        "Years": 8,
+        "PlayerMin": 1,
+        "PlayerMax": 10,
+        "Difficulty": 1,
+        "Duration": 15,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 2-4"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 143,
+      "TheGame": {
+        "Id": 14,
+        "Name": "Blood Bowl: Team Manager",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 5,
+        "Years": 12,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 2,
+        "Duration": 90,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 121,
+      "TheGame": {
+        "Id": 17,
+        "Name": "Cacao",
+        "Editorial": "",
+        "Family": 1,
+        "Type": 0,
+        "Years": 8,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 1,
+        "Duration": 45,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 3"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 75,
+      "TheGame": {
+        "Id": 19,
+        "Name": "Cartcassonne",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 0,
+        "Years": 8,
+        "PlayerMin": 2,
+        "PlayerMax": 5,
+        "Difficulty": 1,
+        "Duration": 45,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 205,
+      "TheGame": {
+        "Id": 20,
+        "Name": "Cartas contra la humanidad",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 2,
+        "Years": 16,
+        "PlayerMin": 3,
+        "PlayerMax": 15,
+        "Difficulty": 1,
+        "Duration": 60,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: "
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 130,
+      "TheGame": {
+        "Id": 21,
+        "Name": "Castellers",
+        "Editorial": "",
+        "Family": 1,
+        "Type": 2,
+        "Years": 8,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 1,
+        "Duration": 30,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: "
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 101,
+      "TheGame": {
+        "Id": 25,
+        "Name": "Civilization de Sid Meier",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 3,
+        "Years": 14,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 3,
+        "Duration": 160,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 129,
+      "TheGame": {
+        "Id": 28,
+        "Name": "Concept",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 2,
+        "Years": 10,
+        "PlayerMin": 4,
+        "PlayerMax": 12,
+        "Difficulty": 1,
+        "Duration": 40,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 6-8"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 185,
+      "TheGame": {
+        "Id": 29,
+        "Name": "Coup: Ciudad Corrupta",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 2,
+        "Years": 10,
+        "PlayerMin": 2,
+        "PlayerMax": 6,
+        "Difficulty": 1,
+        "Duration": 15,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 5"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 125,
+      "TheGame": {
+        "Id": 30,
+        "Name": "Creationary",
+        "Editorial": "",
+        "Family": 1,
+        "Type": 0,
+        "Years": 6,
+        "PlayerMin": 3,
+        "PlayerMax": 8,
+        "Difficulty": 1,
+        "Duration": 30,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4-6"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 189,
+      "TheGame": {
+        "Id": 31,
+        "Name": "Criaturas y Cultistas",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 5,
+        "Years": 8,
+        "PlayerMin": 2,
+        "PlayerMax": 5,
+        "Difficulty": 1,
+        "Duration": 30,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: "
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 150,
+      "TheGame": {
+        "Id": 33,
+        "Name": "Dead of Winter: Un juego de encrucijadas",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 5,
+        "Years": 12,
+        "PlayerMin": 2,
+        "PlayerMax": 5,
+        "Difficulty": 2,
+        "Duration": 100,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 83,
+      "TheGame": {
+        "Id": 34,
+        "Name": "Dice Forge",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 0,
+        "Years": 8,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 2,
+        "Duration": 40,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 131,
+      "TheGame": {
+        "Id": 35,
+        "Name": "Dino Race",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 0,
+        "Years": 6,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 1,
+        "Duration": 30,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 87,
+      "TheGame": {
+        "Id": 36,
+        "Name": "Dixit",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 2,
+        "Years": 8,
+        "PlayerMin": 3,
+        "PlayerMax": 6,
+        "Difficulty": 1,
+        "Duration": 30,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 5-6"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 84,
+      "TheGame": {
+        "Id": 38,
+        "Name": "Dominion: Intriga",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 3,
+        "Years": 10,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 2,
+        "Duration": 30,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 3"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 90,
+      "TheGame": {
+        "Id": 40,
+        "Name": "Dungeon Twister",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 3,
+        "Years": 12,
+        "PlayerMin": 2,
+        "PlayerMax": 2,
+        "Difficulty": 2,
+        "Duration": 60,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 2"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 98,
+      "TheGame": {
+        "Id": 42,
+        "Name": "Identik (Duplik)",
+        "Editorial": "",
+        "Family": 4,
+        "Type": 2,
+        "Years": 8,
+        "PlayerMin": 3,
+        "PlayerMax": 10,
+        "Difficulty": 1,
+        "Duration": 45,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 5-6"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 173,
+      "TheGame": {
+        "Id": 45,
+        "Name": "El Gran Dalmuti",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 2,
+        "Years": 8,
+        "PlayerMin": 4,
+        "PlayerMax": 8,
+        "Difficulty": 1,
+        "Duration": 60,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 6-7"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 132,
+      "TheGame": {
+        "Id": 46,
+        "Name": "El juego de los huevos (Dancing Egg)",
+        "Editorial": "",
+        "Family": 1,
+        "Type": 2,
+        "Years": 5,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 1,
+        "Duration": 10,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 115,
+      "TheGame": {
+        "Id": 47,
+        "Name": "El mundo del smog: al servicio de su majestad",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 3,
+        "Years": 12,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 2,
+        "Duration": 60,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 69,
+      "TheGame": {
+        "Id": 48,
+        "Name": "El Espía (que se perdió)",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 2,
+        "Years": 12,
+        "PlayerMin": 3,
+        "PlayerMax": 8,
+        "Difficulty": 1,
+        "Duration": 15,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 6"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 106,
+      "TheGame": {
+        "Id": 49,
+        "Name": "El Rey de los Enanos",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 0,
+        "Years": 10,
+        "PlayerMin": 3,
+        "PlayerMax": 5,
+        "Difficulty": 1,
+        "Duration": 40,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 186,
+      "TheGame": {
+        "Id": 51,
+        "Name": "El Señor de los Anillos: el viaje a Mordor",
+        "Editorial": "",
+        "Family": 1,
+        "Type": 5,
+        "Years": 8,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 2,
+        "Duration": 20,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 187,
+      "TheGame": {
+        "Id": 52,
+        "Name": "España 1936",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 7,
+        "Years": 12,
+        "PlayerMin": 2,
+        "PlayerMax": 2,
+        "Difficulty": 3,
+        "Duration": 180,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 2"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 194,
+      "TheGame": {
+        "Id": 53,
+        "Name": "Fairy Tale",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 3,
+        "Years": 10,
+        "PlayerMin": 2,
+        "PlayerMax": 5,
+        "Difficulty": 2,
+        "Duration": 30,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 81,
+      "TheGame": {
+        "Id": 55,
+        "Name": "Firefly: El Juego",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 5,
+        "Years": 12,
+        "PlayerMin": 1,
+        "PlayerMax": 5,
+        "Difficulty": 2,
+        "Duration": 120,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 3"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 107,
+      "TheGame": {
+        "Id": 57,
+        "Name": "Fuga de Colditz",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 5,
+        "Years": 12,
+        "PlayerMin": 2,
+        "PlayerMax": 6,
+        "Difficulty": 2,
+        "Duration": 180,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 79,
+      "TheGame": {
+        "Id": 59,
+        "Name": "Gaia Project",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 3,
+        "Years": 14,
+        "PlayerMin": 1,
+        "PlayerMax": 4,
+        "Difficulty": 3,
+        "Duration": 100,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 3-4"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 120,
+      "TheGame": {
+        "Id": 60,
+        "Name": "Galaxy Trucker",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 5,
+        "Years": 10,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 2,
+        "Duration": 60,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 213,
+      "TheGame": {
+        "Id": 61,
+        "Name": "Hanabi",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 0,
+        "Years": 10,
+        "PlayerMin": 2,
+        "PlayerMax": 5,
+        "Difficulty": 1,
+        "Duration": 25,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 181,
+      "TheGame": {
+        "Id": 65,
+        "Name": "Hombres Lobo de Castronegro",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 2,
+        "Years": 10,
+        "PlayerMin": 8,
+        "PlayerMax": 18,
+        "Difficulty": 1,
+        "Duration": 30,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 11, 12, 13, 14, 15"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 182,
+      "TheGame": {
+        "Id": 65,
+        "Name": "Hombres Lobo de Castronegro",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 2,
+        "Years": 10,
+        "PlayerMin": 8,
+        "PlayerMax": 18,
+        "Difficulty": 1,
+        "Duration": 30,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 11, 12, 13, 14, 15"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 179,
+      "TheGame": {
+        "Id": 66,
+        "Name": "Illuminati",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 3,
+        "Years": 12,
+        "PlayerMin": 2,
+        "PlayerMax": 6,
+        "Difficulty": 2,
+        "Duration": 80,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4-5"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 109,
+      "TheGame": {
+        "Id": 67,
+        "Name": "Inkognito",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 0,
+        "Years": 10,
+        "PlayerMin": 3,
+        "PlayerMax": 5,
+        "Difficulty": 2,
+        "Duration": 90,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 209,
+      "TheGame": {
+        "Id": 70,
+        "Name": "Jungle Speed",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 2,
+        "Years": 6,
+        "PlayerMin": 2,
+        "PlayerMax": 8,
+        "Difficulty": 1,
+        "Duration": 10,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 5-6"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 210,
+      "TheGame": {
+        "Id": 70,
+        "Name": "Jungle Speed",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 2,
+        "Years": 6,
+        "PlayerMin": 2,
+        "PlayerMax": 8,
+        "Difficulty": 1,
+        "Duration": 10,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 5-6"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 211,
+      "TheGame": {
+        "Id": 71,
+        "Name": "Jungle Speed: expansión",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 2,
+        "Years": 6,
+        "PlayerMin": 2,
+        "PlayerMax": 8,
+        "Difficulty": 1,
+        "Duration": 10,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 5-6"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 95,
+      "TheGame": {
+        "Id": 74,
+        "Name": "King of New York",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 0,
+        "Years": 8,
+        "PlayerMin": 2,
+        "PlayerMax": 6,
+        "Difficulty": 2,
+        "Duration": 40,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 135,
+      "TheGame": {
+        "Id": 75,
+        "Name": "Kingdomino",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 0,
+        "Years": 6,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 1,
+        "Duration": 20,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 2, 4"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 71,
+      "TheGame": {
+        "Id": 76,
+        "Name": "Kragmortha",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 2,
+        "Years": 6,
+        "PlayerMin": 2,
+        "PlayerMax": 8,
+        "Difficulty": 1,
+        "Duration": 30,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 5-6"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 68,
+      "TheGame": {
+        "Id": 78,
+        "Name": "La Isla Prohibida",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 0,
+        "Years": 8,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 1,
+        "Duration": 30,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 116,
+      "TheGame": {
+        "Id": 80,
+        "Name": "Las Leyendas de Andor",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 5,
+        "Years": 10,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 2,
+        "Duration": 90,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 151,
+      "TheGame": {
+        "Id": 84,
+        "Name": "Los viajes de Marco Polo",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 3,
+        "Years": 12,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 3,
+        "Duration": 70,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 156,
+      "TheGame": {
+        "Id": 90,
+        "Name": "Minotaurus LEGo",
+        "Editorial": "",
+        "Family": 1,
+        "Type": 1,
+        "Years": 5,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 1,
+        "Duration": 25,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 215,
+      "TheGame": {
+        "Id": 91,
+        "Name": "Mixmo",
+        "Editorial": "",
+        "Family": 1,
+        "Type": 2,
+        "Years": 8,
+        "PlayerMin": 2,
+        "PlayerMax": 6,
+        "Difficulty": 1,
+        "Duration": 15,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 216,
+      "TheGame": {
+        "Id": 93,
+        "Name": "Munchkin 2: Hacha Descomunal",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 5,
+        "Years": 12,
+        "PlayerMin": 3,
+        "PlayerMax": 6,
+        "Difficulty": 1,
+        "Duration": 90,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4--5"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 199,
+      "TheGame": {
+        "Id": 94,
+        "Name": "Munchkin 4: ¡Qué locura de montura!",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 5,
+        "Years": 12,
+        "PlayerMin": 3,
+        "PlayerMax": 6,
+        "Difficulty": 1,
+        "Duration": 90,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4--5"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 166,
+      "TheGame": {
+        "Id": 96,
+        "Name": "Munchkin Cthulhu",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 5,
+        "Years": 12,
+        "PlayerMin": 3,
+        "PlayerMax": 6,
+        "Difficulty": 1,
+        "Duration": 90,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4--5"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 144,
+      "TheGame": {
+        "Id": 100,
+        "Name": "Noviembre Rojo",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 3,
+        "Years": 10,
+        "PlayerMin": 1,
+        "PlayerMax": 8,
+        "Difficulty": 2,
+        "Duration": 120,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 145,
+      "TheGame": {
+        "Id": 102,
+        "Name": "Pandemia",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 3,
+        "Years": 10,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 2,
+        "Duration": 45,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 212,
+      "TheGame": {
+        "Id": 103,
+        "Name": "Perudo",
+        "Editorial": "",
+        "Family": 5,
+        "Type": 0,
+        "Years": 8,
+        "PlayerMin": 2,
+        "PlayerMax": 6,
+        "Difficulty": 1,
+        "Duration": 30,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 5-6"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 188,
+      "TheGame": {
+        "Id": 104,
+        "Name": "Polilla Tramposa",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 2,
+        "Years": 6,
+        "PlayerMin": 3,
+        "PlayerMax": 5,
+        "Difficulty": 1,
+        "Duration": 30,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 5"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 204,
+      "TheGame": {
+        "Id": 105,
+        "Name": "Populi Turolii",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 5,
+        "Years": 8,
+        "PlayerMin": 3,
+        "PlayerMax": 8,
+        "Difficulty": 1,
+        "Duration": 20,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: Ninguno en especial"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 155,
+      "TheGame": {
+        "Id": 106,
+        "Name": "Potion Explosion",
+        "Editorial": "",
+        "Family": 1,
+        "Type": 0,
+        "Years": 8,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 1,
+        "Duration": 60,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: Ninguno en especial"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 180,
+      "TheGame": {
+        "Id": 108,
+        "Name": "Raj",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 0,
+        "Years": 6,
+        "PlayerMin": 2,
+        "PlayerMax": 5,
+        "Difficulty": 1,
+        "Duration": 20,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 5"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 152,
+      "TheGame": {
+        "Id": 110,
+        "Name": "Room-25",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 5,
+        "Years": 10,
+        "PlayerMin": 1,
+        "PlayerMax": 6,
+        "Difficulty": 2,
+        "Duration": 30,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 5-6"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 175,
+      "TheGame": {
+        "Id": 111,
+        "Name": "Saboteur",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 0,
+        "Years": 8,
+        "PlayerMin": 3,
+        "PlayerMax": 10,
+        "Difficulty": 1,
+        "Duration": 30,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 7-8"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 165,
+      "TheGame": {
+        "Id": 112,
+        "Name": "Samurai Sword",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 0,
+        "Years": 8,
+        "PlayerMin": 3,
+        "PlayerMax": 7,
+        "Difficulty": 1,
+        "Duration": 40,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 7"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 103,
+      "TheGame": {
+        "Id": 113,
+        "Name": "Samurai Sword: Sol Naciente",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 0,
+        "Years": 10,
+        "PlayerMin": 3,
+        "PlayerMax": 8,
+        "Difficulty": 1,
+        "Duration": 40,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 5, 7"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 168,
+      "TheGame": {
+        "Id": 115,
+        "Name": "Scape",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 3,
+        "Years": 8,
+        "PlayerMin": 3,
+        "PlayerMax": 14,
+        "Difficulty": 1,
+        "Duration": 20,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 5"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 100,
+      "TheGame": {
+        "Id": 117,
+        "Name": "Small World",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 3,
+        "Years": 8,
+        "PlayerMin": 2,
+        "PlayerMax": 5,
+        "Difficulty": 2,
+        "Duration": 80,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 193,
+      "TheGame": {
+        "Id": 118,
+        "Name": "Small World: Cuentos y Leyendas",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 3,
+        "Years": 10,
+        "PlayerMin": 2,
+        "PlayerMax": 5,
+        "Difficulty": 2,
+        "Duration": 80,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4--5"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 104,
+      "TheGame": {
+        "Id": 121,
+        "Name": "Sombras sobre Londres (Letters from Whitechapel)",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 3,
+        "Years": 12,
+        "PlayerMin": 2,
+        "PlayerMax": 6,
+        "Difficulty": 2,
+        "Duration": 120,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 2"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 141,
+      "TheGame": {
+        "Id": 123,
+        "Name": "Spartacus: Un Juego de Sangre Y Tración",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 5,
+        "Years": 14,
+        "PlayerMin": 3,
+        "PlayerMax": 4,
+        "Difficulty": 2,
+        "Duration": 150,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 136,
+      "TheGame": {
+        "Id": 124,
+        "Name": "Speed Cups",
+        "Editorial": "",
+        "Family": 1,
+        "Type": 2,
+        "Years": 5,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 1,
+        "Duration": 15,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 133,
+      "TheGame": {
+        "Id": 125,
+        "Name": "Star Munchkin",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 5,
+        "Years": 12,
+        "PlayerMin": 3,
+        "PlayerMax": 6,
+        "Difficulty": 1,
+        "Duration": 90,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4-5"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 172,
+      "TheGame": {
+        "Id": 126,
+        "Name": "Star Munchkin 2: Las Guerras Clown",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 5,
+        "Years": 12,
+        "PlayerMin": 3,
+        "PlayerMax": 6,
+        "Difficulty": 1,
+        "Duration": 90,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4--5"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 92,
+      "TheGame": {
+        "Id": 127,
+        "Name": "Star Realms",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 3,
+        "Years": 8,
+        "PlayerMin": 2,
+        "PlayerMax": 2,
+        "Difficulty": 1,
+        "Duration": 20,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 2"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 105,
+      "TheGame": {
+        "Id": 129,
+        "Name": "Star Wars: El Juego de Cartas",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 5,
+        "Years": 12,
+        "PlayerMin": 2,
+        "PlayerMax": 2,
+        "Difficulty": 2,
+        "Duration": 60,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 2"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 177,
+      "TheGame": {
+        "Id": 130,
+        "Name": "String Railway",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 0,
+        "Years": 8,
+        "PlayerMin": 2,
+        "PlayerMax": 5,
+        "Difficulty": 1,
+        "Duration": 30,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 176,
+      "TheGame": {
+        "Id": 131,
+        "Name": "Sushi Go!",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 0,
+        "Years": 6,
+        "PlayerMin": 2,
+        "PlayerMax": 5,
+        "Difficulty": 1,
+        "Duration": 15,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 80,
+      "TheGame": {
+        "Id": 132,
+        "Name": "Taberna",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 3,
+        "Years": 12,
+        "PlayerMin": 2,
+        "PlayerMax": 5,
+        "Difficulty": 2,
+        "Duration": 90,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 77,
+      "TheGame": {
+        "Id": 134,
+        "Name": "Takenoko",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 0,
+        "Years": 8,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 2,
+        "Duration": 45,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 3"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 1,
+      "TheGame": {
+        "Id": 136,
+        "Name": "Terraforming Mars",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 3,
+        "Years": 12,
+        "PlayerMin": 1,
+        "PlayerMax": 5,
+        "Difficulty": 2,
+        "Duration": 120,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 3-4"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 117,
+      "TheGame": {
+        "Id": 137,
+        "Name": "The Castle of Burgundy (Die burgen von burgund) (Los castillos de Borgoña)",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 3,
+        "Years": 12,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 2,
+        "Duration": 90,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 82,
+      "TheGame": {
+        "Id": 140,
+        "Name": "Ticket to ride: Nordic Countries",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 0,
+        "Years": 8,
+        "PlayerMin": 2,
+        "PlayerMax": 3,
+        "Difficulty": 2,
+        "Duration": 60,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 3"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 112,
+      "TheGame": {
+        "Id": 141,
+        "Name": "Tigris y Eufrates",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 3,
+        "Years": 12,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 2,
+        "Duration": 90,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 184,
+      "TheGame": {
+        "Id": 143,
+        "Name": "Tiro al pato",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 0,
+        "Years": 8,
+        "PlayerMin": 3,
+        "PlayerMax": 6,
+        "Difficulty": 1,
+        "Duration": 20,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 6"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 94,
+      "TheGame": {
+        "Id": 147,
+        "Name": "Ubongo",
+        "Editorial": "",
+        "Family": 1,
+        "Type": 0,
+        "Years": 6,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 1,
+        "Duration": 25,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 73,
+      "TheGame": {
+        "Id": 148,
+        "Name": "Un imperio en 8 minutos",
+        "Editorial": "",
+        "Family": 1,
+        "Type": 3,
+        "Years": 8,
+        "PlayerMin": 2,
+        "PlayerMax": 5,
+        "Difficulty": 1,
+        "Duration": 20,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 3-4"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 178,
+      "TheGame": {
+        "Id": 149,
+        "Name": "Urban Explorers: Teruel",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 0,
+        "Years": 8,
+        "PlayerMin": 2,
+        "PlayerMax": 5,
+        "Difficulty": 1,
+        "Duration": 60,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: "
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 206,
+      "TheGame": {
+        "Id": 151,
+        "Name": "Wazabi",
+        "Editorial": "",
+        "Family": 7,
+        "Type": 2,
+        "Years": 8,
+        "PlayerMin": 2,
+        "PlayerMax": 6,
+        "Difficulty": 1,
+        "Duration": 20,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 190,
+      "TheGame": {
+        "Id": 152,
+        "Name": "Wizard",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 0,
+        "Years": 10,
+        "PlayerMin": 3,
+        "PlayerMax": 6,
+        "Difficulty": 1,
+        "Duration": 45,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4-5"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 128,
+      "TheGame": {
+        "Id": 155,
+        "Name": "XCOM: El juego de tablero",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 5,
+        "Years": 12,
+        "PlayerMin": 1,
+        "PlayerMax": 4,
+        "Difficulty": 3,
+        "Duration": 90,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 99,
+      "TheGame": {
+        "Id": 156,
+        "Name": "Zombicide: Black Plague",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 5,
+        "Years": 10,
+        "PlayerMin": 1,
+        "PlayerMax": 6,
+        "Difficulty": 2,
+        "Duration": 180,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 3"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 137,
+      "TheGame": {
+        "Id": 161,
+        "Name": "Monster Mix",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 1,
+        "Years": 4,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 1,
+        "Duration": 10,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: "
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 86,
+      "TheGame": {
+        "Id": 164,
+        "Name": "Villa Paletti",
+        "Editorial": "",
+        "Family": 1,
+        "Type": 0,
+        "Years": 6,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 1,
+        "Duration": 30,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 170,
+      "TheGame": {
+        "Id": 181,
+        "Name": "Loco!",
+        "Editorial": "",
+        "Family": 7,
+        "Type": 8,
+        "Years": 5,
+        "PlayerMin": 0,
+        "PlayerMax": 999,
+        "Difficulty": 0,
+        "Duration": 60,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: "
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 171,
+      "TheGame": {
+        "Id": 196,
+        "Name": "Bonanza de las galaxias",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 0,
+        "Years": 10,
+        "PlayerMin": 2,
+        "PlayerMax": 6,
+        "Difficulty": 1,
+        "Duration": 0,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 200,
+      "TheGame": {
+        "Id": 198,
+        "Name": "Cthulhu realms",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 0,
+        "Years": 14,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 1,
+        "Duration": 30,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 5,
+      "TheGame": {
+        "Id": 202,
+        "Name": "Smallword Underground",
+        "Editorial": "Days of wonder",
+        "Family": 0,
+        "Type": 0,
+        "Years": 8,
+        "PlayerMin": 2,
+        "PlayerMax": 5,
+        "Difficulty": 0,
+        "Duration": 30,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 207,
+      "TheGame": {
+        "Id": 204,
+        "Name": "Times up!",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 0,
+        "Years": 0,
+        "PlayerMin": 0,
+        "PlayerMax": 0,
+        "Difficulty": 0,
+        "Duration": 0,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 214,
+      "TheGame": {
+        "Id": 204,
+        "Name": "Times up!",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 0,
+        "Years": 0,
+        "PlayerMin": 0,
+        "PlayerMax": 0,
+        "Difficulty": 0,
+        "Duration": 0,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 167,
+      "TheGame": {
+        "Id": 214,
+        "Name": "Black stories Edición vacaciones",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 0,
+        "Years": 0,
+        "PlayerMin": 0,
+        "PlayerMax": 0,
+        "Difficulty": 0,
+        "Duration": 0,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 89,
+      "TheGame": {
+        "Id": 227,
+        "Name": "Magic Maze",
+        "Editorial": "2 Tomatoes",
+        "Family": 2,
+        "Type": 0,
+        "Years": 8,
+        "PlayerMin": 1,
+        "PlayerMax": 8,
+        "Difficulty": 1,
+        "Duration": 15,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 108,
+      "TheGame": {
+        "Id": 238,
+        "Name": "Capitan sonar",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 0,
+        "Years": 14,
+        "PlayerMin": 2,
+        "PlayerMax": 8,
+        "Difficulty": 0,
+        "Duration": 45,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 140,
+      "TheGame": {
+        "Id": 356,
+        "Name": "The Island",
+        "Editorial": "Asmodee",
+        "Family": 2,
+        "Type": 0,
+        "Years": 8,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 0,
+        "Duration": 45,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 58,
+      "TheGame": {
+        "Id": 367,
+        "Name": "Sagrada",
+        "Editorial": "",
+        "Family": 1,
+        "Type": 5,
+        "Years": 13,
+        "PlayerMin": 1,
+        "PlayerMax": 4,
+        "Difficulty": 2,
+        "Duration": 30,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 149,
+      "TheGame": {
+        "Id": 368,
+        "Name": "Twilight Struggle",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 3,
+        "Years": 14,
+        "PlayerMin": 2,
+        "PlayerMax": 2,
+        "Difficulty": 3,
+        "Duration": 180,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 97,
+      "TheGame": {
+        "Id": 377,
+        "Name": "Arriba y Abajo",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 3,
+        "Years": 13,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 0,
+        "Duration": 90,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 154,
+      "TheGame": {
+        "Id": 390,
+        "Name": "Ricochet Robots",
+        "Editorial": "Devir",
+        "Family": 2,
+        "Type": 4,
+        "Years": 10,
+        "PlayerMin": 1,
+        "PlayerMax": 10,
+        "Difficulty": 0,
+        "Duration": 30,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 183,
+      "TheGame": {
+        "Id": 394,
+        "Name": "Port Royal",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 0,
+        "Years": 0,
+        "PlayerMin": 0,
+        "PlayerMax": 0,
+        "Difficulty": 0,
+        "Duration": 0,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 123,
+      "TheGame": {
+        "Id": 428,
+        "Name": "Onus",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 0,
+        "Years": 0,
+        "PlayerMin": 0,
+        "PlayerMax": 0,
+        "Difficulty": 0,
+        "Duration": 0,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 122,
+      "TheGame": {
+        "Id": 429,
+        "Name": "2GM TWG",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 0,
+        "Years": 0,
+        "PlayerMin": 0,
+        "PlayerMax": 0,
+        "Difficulty": 0,
+        "Duration": 0,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 2,
+      "TheGame": {
+        "Id": 431,
+        "Name": "Size Up",
+        "Editorial": "Helvetiq",
+        "Family": 0,
+        "Type": 2,
+        "Years": 7,
+        "PlayerMin": 2,
+        "PlayerMax": 10,
+        "Difficulty": 0,
+        "Duration": 15,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 3,
+      "TheGame": {
+        "Id": 432,
+        "Name": "Dungeon Riders",
+        "Editorial": "Devir",
+        "Family": 0,
+        "Type": 2,
+        "Years": 8,
+        "PlayerMin": 3,
+        "PlayerMax": 5,
+        "Difficulty": 0,
+        "Duration": 34,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 4,
+      "TheGame": {
+        "Id": 433,
+        "Name": "7 Wonders Duel",
+        "Editorial": "Repos Producion",
+        "Family": 2,
+        "Type": 3,
+        "Years": 10,
+        "PlayerMin": 2,
+        "PlayerMax": 2,
+        "Difficulty": 2,
+        "Duration": 30,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 29,
+      "TheGame": {
+        "Id": 434,
+        "Name": "Speed Monsters",
+        "Editorial": "Cayro Games",
+        "Family": 0,
+        "Type": 1,
+        "Years": 8,
+        "PlayerMin": 2,
+        "PlayerMax": 6,
+        "Difficulty": 1,
+        "Duration": 15,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 28,
+      "TheGame": {
+        "Id": 435,
+        "Name": "Frenetic Village",
+        "Editorial": "Cayro Games",
+        "Family": 0,
+        "Type": 1,
+        "Years": 8,
+        "PlayerMin": 2,
+        "PlayerMax": 8,
+        "Difficulty": 0,
+        "Duration": 20,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 19,
+      "TheGame": {
+        "Id": 436,
+        "Name": "Virus 2",
+        "Editorial": "Tranjis Games",
+        "Family": 0,
+        "Type": 2,
+        "Years": 8,
+        "PlayerMin": 2,
+        "PlayerMax": 6,
+        "Difficulty": 0,
+        "Duration": 20,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 23,
+      "TheGame": {
+        "Id": 438,
+        "Name": "Steam Park",
+        "Editorial": "Edge",
+        "Family": 2,
+        "Type": 2,
+        "Years": 10,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 0,
+        "Duration": 60,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 6,
+      "TheGame": {
+        "Id": 439,
+        "Name": "Altiplano",
+        "Editorial": "Arrakis Games",
+        "Family": 3,
+        "Type": 6,
+        "Years": 12,
+        "PlayerMin": 2,
+        "PlayerMax": 5,
+        "Difficulty": 0,
+        "Duration": 90,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 20,
+      "TheGame": {
+        "Id": 440,
+        "Name": "Dungeon WC",
+        "Editorial": "Last Level Games",
+        "Family": 0,
+        "Type": 2,
+        "Years": 7,
+        "PlayerMin": 1,
+        "PlayerMax": 5,
+        "Difficulty": 0,
+        "Duration": 5,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 18,
+      "TheGame": {
+        "Id": 441,
+        "Name": "Batalla por el Olimpo",
+        "Editorial": "Maldito Games",
+        "Family": 0,
+        "Type": 3,
+        "Years": 12,
+        "PlayerMin": 2,
+        "PlayerMax": 2,
+        "Difficulty": 0,
+        "Duration": 30,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 7,
+      "TheGame": {
+        "Id": 442,
+        "Name": "Chuches",
+        "Editorial": "Atomo Games",
+        "Family": 0,
+        "Type": 1,
+        "Years": 4,
+        "PlayerMin": 2,
+        "PlayerMax": 6,
+        "Difficulty": 1,
+        "Duration": 15,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 16,
+      "TheGame": {
+        "Id": 443,
+        "Name": "Alice",
+        "Editorial": "Crazy Pawn Games",
+        "Family": 0,
+        "Type": 3,
+        "Years": 12,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 0,
+        "Duration": 30,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 8,
+      "TheGame": {
+        "Id": 444,
+        "Name": "Sherlock 13 rehenes",
+        "Editorial": "GDM",
+        "Family": 0,
+        "Type": 0,
+        "Years": 8,
+        "PlayerMin": 1,
+        "PlayerMax": 8,
+        "Difficulty": 1,
+        "Duration": 60,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 27,
+      "TheGame": {
+        "Id": 445,
+        "Name": "Speed Colors",
+        "Editorial": "Mercurio",
+        "Family": 4,
+        "Type": 1,
+        "Years": 5,
+        "PlayerMin": 2,
+        "PlayerMax": 5,
+        "Difficulty": 0,
+        "Duration": 15,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 9,
+      "TheGame": {
+        "Id": 446,
+        "Name": "Sherlock propagación",
+        "Editorial": "GDM",
+        "Family": 0,
+        "Type": 0,
+        "Years": 8,
+        "PlayerMin": 1,
+        "PlayerMax": 8,
+        "Difficulty": 3,
+        "Duration": 60,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 24,
+      "TheGame": {
+        "Id": 447,
+        "Name": "Dobble",
+        "Editorial": "Asmodee",
+        "Family": 0,
+        "Type": 2,
+        "Years": 6,
+        "PlayerMin": 2,
+        "PlayerMax": 8,
+        "Difficulty": 0,
+        "Duration": 15,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 25,
+      "TheGame": {
+        "Id": 448,
+        "Name": "Virus",
+        "Editorial": "Tranjis Games",
+        "Family": 0,
+        "Type": 2,
+        "Years": 8,
+        "PlayerMin": 2,
+        "PlayerMax": 6,
+        "Difficulty": 0,
+        "Duration": 20,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 10,
+      "TheGame": {
+        "Id": 449,
+        "Name": "Sherlock paradero desconocido",
+        "Editorial": "GDM",
+        "Family": 0,
+        "Type": 0,
+        "Years": 8,
+        "PlayerMin": 1,
+        "PlayerMax": 8,
+        "Difficulty": 2,
+        "Duration": 60,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 15,
+      "TheGame": {
+        "Id": 450,
+        "Name": "Rising for the Throne",
+        "Editorial": "Txarly Factory",
+        "Family": 0,
+        "Type": 3,
+        "Years": 8,
+        "PlayerMin": 1,
+        "PlayerMax": 6,
+        "Difficulty": 0,
+        "Duration": 30,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 22,
+      "TheGame": {
+        "Id": 451,
+        "Name": "Songbirds",
+        "Editorial": "GenX Games",
+        "Family": 0,
+        "Type": 2,
+        "Years": 8,
+        "PlayerMin": 1,
+        "PlayerMax": 4,
+        "Difficulty": 0,
+        "Duration": 20,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 11,
+      "TheGame": {
+        "Id": 452,
+        "Name": "Codigo secreto duo",
+        "Editorial": "Devir",
+        "Family": 6,
+        "Type": 0,
+        "Years": 11,
+        "PlayerMin": 2,
+        "PlayerMax": 100,
+        "Difficulty": 2,
+        "Duration": 15,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 14,
+      "TheGame": {
+        "Id": 453,
+        "Name": "Crazy Food",
+        "Editorial": "Cayro Games",
+        "Family": 2,
+        "Type": 1,
+        "Years": 6,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 0,
+        "Duration": 20,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 13,
+      "TheGame": {
+        "Id": 454,
+        "Name": "Bed Bugs",
+        "Editorial": "Cayro Games",
+        "Family": 7,
+        "Type": 1,
+        "Years": 5,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 0,
+        "Duration": 15,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 12,
+      "TheGame": {
+        "Id": 455,
+        "Name": "Scrawl",
+        "Editorial": "Mercurio",
+        "Family": 4,
+        "Type": 2,
+        "Years": 17,
+        "PlayerMin": 4,
+        "PlayerMax": 8,
+        "Difficulty": 1,
+        "Duration": 30,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 17,
+      "TheGame": {
+        "Id": 456,
+        "Name": "Panic mansion",
+        "Editorial": "Mas que oca",
+        "Family": 2,
+        "Type": 0,
+        "Years": 6,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 1,
+        "Duration": 20,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 21,
+      "TheGame": {
+        "Id": 457,
+        "Name": "Reef",
+        "Editorial": "Next Move",
+        "Family": 2,
+        "Type": 3,
+        "Years": 8,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 0,
+        "Duration": 45,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 26,
+      "TheGame": {
+        "Id": 458,
+        "Name": "Codigo secreto",
+        "Editorial": "Devir",
+        "Family": 6,
+        "Type": 0,
+        "Years": 10,
+        "PlayerMin": 2,
+        "PlayerMax": 100,
+        "Difficulty": 1,
+        "Duration": 15,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 30,
+      "TheGame": {
+        "Id": 459,
+        "Name": "Codigo Secreto",
+        "Editorial": "Devir",
+        "Family": 6,
+        "Type": 0,
+        "Years": 14,
+        "PlayerMin": 2,
+        "PlayerMax": 100,
+        "Difficulty": 1,
+        "Duration": 15,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 40,
+      "TheGame": {
+        "Id": 460,
+        "Name": "Coimbra",
+        "Editorial": "Eggert Spiele",
+        "Family": 2,
+        "Type": 3,
+        "Years": 14,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 0,
+        "Duration": 75,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 31,
+      "TheGame": {
+        "Id": 461,
+        "Name": "Imagine",
+        "Editorial": "Cocktail Games",
+        "Family": 0,
+        "Type": 0,
+        "Years": 12,
+        "PlayerMin": 3,
+        "PlayerMax": 8,
+        "Difficulty": 0,
+        "Duration": 30,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 39,
+      "TheGame": {
+        "Id": 462,
+        "Name": "Civilization Un nuevo amanecer",
+        "Editorial": "Fantay Flight Games",
+        "Family": 2,
+        "Type": 3,
+        "Years": 14,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 0,
+        "Duration": 60,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 32,
+      "TheGame": {
+        "Id": 463,
+        "Name": "Fiesta de regalos",
+        "Editorial": "Zacatrus",
+        "Family": 0,
+        "Type": 0,
+        "Years": 5,
+        "PlayerMin": 2,
+        "PlayerMax": 5,
+        "Difficulty": 0,
+        "Duration": 10,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 33,
+      "TheGame": {
+        "Id": 465,
+        "Name": "Mi pequeño Scythe",
+        "Editorial": "Maldito Games",
+        "Family": 2,
+        "Type": 3,
+        "Years": 8,
+        "PlayerMin": 1,
+        "PlayerMax": 6,
+        "Difficulty": 0,
+        "Duration": 45,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 34,
+      "TheGame": {
+        "Id": 467,
+        "Name": "US telegraph",
+        "Editorial": "Maldito Games",
+        "Family": 2,
+        "Type": 6,
+        "Years": 10,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 0,
+        "Duration": 60,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 37,
+      "TheGame": {
+        "Id": 469,
+        "Name": "Pulsar 2849",
+        "Editorial": "Devir",
+        "Family": 2,
+        "Type": 3,
+        "Years": 14,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 0,
+        "Duration": 60,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 35,
+      "TheGame": {
+        "Id": 470,
+        "Name": "Mia",
+        "Editorial": "Taranjis Games",
+        "Family": 0,
+        "Type": 0,
+        "Years": 6,
+        "PlayerMin": 1,
+        "PlayerMax": 6,
+        "Difficulty": 0,
+        "Duration": 10,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 36,
+      "TheGame": {
+        "Id": 471,
+        "Name": "Master of the Galaxy",
+        "Editorial": "Last Level Games",
+        "Family": 2,
+        "Type": 3,
+        "Years": 13,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 0,
+        "Duration": 60,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 38,
+      "TheGame": {
+        "Id": 472,
+        "Name": "Dobble Waterproof",
+        "Editorial": "Asmode",
+        "Family": 0,
+        "Type": 0,
+        "Years": 4,
+        "PlayerMin": 2,
+        "PlayerMax": 5,
+        "Difficulty": 0,
+        "Duration": 10,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 41,
+      "TheGame": {
+        "Id": 473,
+        "Name": "Just One",
+        "Editorial": "Repos Production",
+        "Family": 7,
+        "Type": 2,
+        "Years": 8,
+        "PlayerMin": 3,
+        "PlayerMax": 7,
+        "Difficulty": 0,
+        "Duration": 20,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 42,
+      "TheGame": {
+        "Id": 474,
+        "Name": "La viña",
+        "Editorial": "Devir",
+        "Family": 2,
+        "Type": 6,
+        "Years": 8,
+        "PlayerMin": 2,
+        "PlayerMax": 5,
+        "Difficulty": 0,
+        "Duration": 45,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 54,
+      "TheGame": {
+        "Id": 475,
+        "Name": "Piedra papel hechizo",
+        "Editorial": "SD Games",
+        "Family": 0,
+        "Type": 2,
+        "Years": 14,
+        "PlayerMin": 3,
+        "PlayerMax": 6,
+        "Difficulty": 0,
+        "Duration": 30,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 43,
+      "TheGame": {
+        "Id": 476,
+        "Name": "Impact la batalla de los elementos",
+        "Editorial": "Maldito Games",
+        "Family": 5,
+        "Type": 0,
+        "Years": 8,
+        "PlayerMin": 2,
+        "PlayerMax": 5,
+        "Difficulty": 0,
+        "Duration": 15,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 55,
+      "TheGame": {
+        "Id": 477,
+        "Name": "CuBirds",
+        "Editorial": "Maldito Games",
+        "Family": 0,
+        "Type": 0,
+        "Years": 8,
+        "PlayerMin": 2,
+        "PlayerMax": 5,
+        "Difficulty": 0,
+        "Duration": 20,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 59,
+      "TheGame": {
+        "Id": 478,
+        "Name": "Trapwords",
+        "Editorial": "Devir",
+        "Family": 7,
+        "Type": 2,
+        "Years": 8,
+        "PlayerMin": 4,
+        "PlayerMax": 8,
+        "Difficulty": 0,
+        "Duration": 30,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 44,
+      "TheGame": {
+        "Id": 479,
+        "Name": "Decrypto transmision segura",
+        "Editorial": "Scorpion Masque",
+        "Family": 6,
+        "Type": 5,
+        "Years": 12,
+        "PlayerMin": 3,
+        "PlayerMax": 8,
+        "Difficulty": 0,
+        "Duration": 30,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 45,
+      "TheGame": {
+        "Id": 480,
+        "Name": "El tesoro de los dragones",
+        "Editorial": "Tranjis Games",
+        "Family": 0,
+        "Type": 2,
+        "Years": 8,
+        "PlayerMin": 3,
+        "PlayerMax": 6,
+        "Difficulty": 0,
+        "Duration": 30,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 46,
+      "TheGame": {
+        "Id": 481,
+        "Name": "Railroad ink Edicion azul profundo",
+        "Editorial": "Horrible Games",
+        "Family": 4,
+        "Type": 3,
+        "Years": 8,
+        "PlayerMin": 1,
+        "PlayerMax": 6,
+        "Difficulty": 0,
+        "Duration": 30,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 47,
+      "TheGame": {
+        "Id": 483,
+        "Name": "Gold West",
+        "Editorial": "2tomatoes",
+        "Family": 2,
+        "Type": 6,
+        "Years": 14,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 0,
+        "Duration": 60,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 48,
+      "TheGame": {
+        "Id": 484,
+        "Name": "Escuela de punguinos 2",
+        "Editorial": "SD games",
+        "Family": 2,
+        "Type": 1,
+        "Years": 6,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 0,
+        "Duration": 30,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 49,
+      "TheGame": {
+        "Id": 485,
+        "Name": "Bang! el juego de dados",
+        "Editorial": "Edge",
+        "Family": 5,
+        "Type": 2,
+        "Years": 8,
+        "PlayerMin": 3,
+        "PlayerMax": 8,
+        "Difficulty": 0,
+        "Duration": 15,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 50,
+      "TheGame": {
+        "Id": 486,
+        "Name": "Clank! ",
+        "Editorial": "Devir",
+        "Family": 2,
+        "Type": 2,
+        "Years": 12,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 0,
+        "Duration": 60,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 57,
+      "TheGame": {
+        "Id": 487,
+        "Name": "Entre dos castillos del rey loco Ludwig",
+        "Editorial": "Maldito Games",
+        "Family": 2,
+        "Type": 3,
+        "Years": 10,
+        "PlayerMin": 3,
+        "PlayerMax": 7,
+        "Difficulty": 0,
+        "Duration": 45,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 51,
+      "TheGame": {
+        "Id": 488,
+        "Name": "El laberinto magico",
+        "Editorial": "Devir",
+        "Family": 2,
+        "Type": 1,
+        "Years": 6,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 0,
+        "Duration": 30,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 56,
+      "TheGame": {
+        "Id": 489,
+        "Name": "Azul Vitrales de Sintra",
+        "Editorial": "Next Move",
+        "Family": 1,
+        "Type": 3,
+        "Years": 8,
+        "PlayerMin": 3,
+        "PlayerMax": 4,
+        "Difficulty": 0,
+        "Duration": 30,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 52,
+      "TheGame": {
+        "Id": 490,
+        "Name": "Cash and guns 2nd",
+        "Editorial": "Repos Production",
+        "Family": 0,
+        "Type": 2,
+        "Years": 10,
+        "PlayerMin": 4,
+        "PlayerMax": 8,
+        "Difficulty": 0,
+        "Duration": 30,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 53,
+      "TheGame": {
+        "Id": 491,
+        "Name": "Stone Age Junior",
+        "Editorial": "Devir",
+        "Family": 2,
+        "Type": 6,
+        "Years": 5,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 0,
+        "Duration": 15,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 60,
+      "TheGame": {
+        "Id": 492,
+        "Name": "Santorini",
+        "Editorial": "Roxley",
+        "Family": 2,
+        "Type": 0,
+        "Years": 8,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 0,
+        "Duration": 20,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 61,
+      "TheGame": {
+        "Id": 493,
+        "Name": "Magic Maze Kids",
+        "Editorial": "2Tomatoes",
+        "Family": 2,
+        "Type": 2,
+        "Years": 5,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 0,
+        "Duration": 15,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 66,
+      "TheGame": {
+        "Id": 494,
+        "Name": "Pocimas y brebajes",
+        "Editorial": "Devir",
+        "Family": 2,
+        "Type": 3,
+        "Years": 10,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 0,
+        "Duration": 45,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 65,
+      "TheGame": {
+        "Id": 495,
+        "Name": "Princesa Jing",
+        "Editorial": "Tranjis Games",
+        "Family": 2,
+        "Type": 3,
+        "Years": 8,
+        "PlayerMin": 2,
+        "PlayerMax": 2,
+        "Difficulty": 0,
+        "Duration": 25,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 62,
+      "TheGame": {
+        "Id": 496,
+        "Name": "Cronicas del crimen",
+        "Editorial": "last level games",
+        "Family": 7,
+        "Type": 8,
+        "Years": 12,
+        "PlayerMin": 1,
+        "PlayerMax": 4,
+        "Difficulty": 0,
+        "Duration": 90,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 64,
+      "TheGame": {
+        "Id": 497,
+        "Name": "Photosynthesis",
+        "Editorial": "Blue orange",
+        "Family": 2,
+        "Type": 6,
+        "Years": 8,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 0,
+        "Duration": 60,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 63,
+      "TheGame": {
+        "Id": 498,
+        "Name": "Detective Un juego de investigacion moderno",
+        "Editorial": "Maldito Games",
+        "Family": 2,
+        "Type": 5,
+        "Years": 16,
+        "PlayerMin": 1,
+        "PlayerMax": 5,
+        "Difficulty": 0,
+        "Duration": 120,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 76,
+      "TheGame": {
+        "Id": 499,
+        "Name": "Carcassone Star Wars",
+        "Editorial": "Devir",
+        "Family": 1,
+        "Type": 3,
+        "Years": 7,
+        "PlayerMin": 2,
+        "PlayerMax": 5,
+        "Difficulty": 0,
+        "Duration": 35,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 67,
+      "TheGame": {
+        "Id": 501,
+        "Name": "Bienvenido a la mazmorra",
+        "Editorial": "Devir",
+        "Family": 0,
+        "Type": 2,
+        "Years": 10,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 0,
+        "Duration": 30,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 78,
+      "TheGame": {
+        "Id": 502,
+        "Name": "Colt Express",
+        "Editorial": "Asmodee",
+        "Family": 2,
+        "Type": 3,
+        "Years": 10,
+        "PlayerMin": 2,
+        "PlayerMax": 6,
+        "Difficulty": 0,
+        "Duration": 40,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 70,
+      "TheGame": {
+        "Id": 503,
+        "Name": "Los buscaduendes",
+        "Editorial": "Nosolorol",
+        "Family": 2,
+        "Type": 8,
+        "Years": 8,
+        "PlayerMin": 2,
+        "PlayerMax": 5,
+        "Difficulty": 0,
+        "Duration": 60,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 74,
+      "TheGame": {
+        "Id": 504,
+        "Name": "Scythe",
+        "Editorial": "Maldito Games",
+        "Family": 2,
+        "Type": 3,
+        "Years": 14,
+        "PlayerMin": 1,
+        "PlayerMax": 5,
+        "Difficulty": 0,
+        "Duration": 115,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 88,
+      "TheGame": {
+        "Id": 505,
+        "Name": "Azul",
+        "Editorial": "Next Move",
+        "Family": 7,
+        "Type": 3,
+        "Years": 8,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 0,
+        "Duration": 45,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 91,
+      "TheGame": {
+        "Id": 506,
+        "Name": "Codigo Secreto Imagenes",
+        "Editorial": "Devir",
+        "Family": 0,
+        "Type": 0,
+        "Years": 10,
+        "PlayerMin": 2,
+        "PlayerMax": 100,
+        "Difficulty": 0,
+        "Duration": 15,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 124,
+      "TheGame": {
+        "Id": 506,
+        "Name": "Codigo Secreto Imagenes",
+        "Editorial": "Devir",
+        "Family": 0,
+        "Type": 0,
+        "Years": 10,
+        "PlayerMin": 2,
+        "PlayerMax": 100,
+        "Difficulty": 0,
+        "Duration": 15,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 93,
+      "TheGame": {
+        "Id": 507,
+        "Name": "Codigo secreto imagenes",
+        "Editorial": "Devir",
+        "Family": 0,
+        "Type": 0,
+        "Years": 10,
+        "PlayerMin": 2,
+        "PlayerMax": 100,
+        "Difficulty": 0,
+        "Duration": 15,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 96,
+      "TheGame": {
+        "Id": 508,
+        "Name": "Aristeia",
+        "Editorial": "Corvus Belli",
+        "Family": 2,
+        "Type": 3,
+        "Years": 14,
+        "PlayerMin": 2,
+        "PlayerMax": 2,
+        "Difficulty": 0,
+        "Duration": 90,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 102,
+      "TheGame": {
+        "Id": 509,
+        "Name": "Aventureros al tren",
+        "Editorial": "Edge",
+        "Family": 2,
+        "Type": 5,
+        "Years": 8,
+        "PlayerMin": 2,
+        "PlayerMax": 5,
+        "Difficulty": 0,
+        "Duration": 30,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 111,
+      "TheGame": {
+        "Id": 510,
+        "Name": "Codigo Secreto",
+        "Editorial": "Devir",
+        "Family": 0,
+        "Type": 0,
+        "Years": 10,
+        "PlayerMin": 2,
+        "PlayerMax": 100,
+        "Difficulty": 0,
+        "Duration": 15,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 113,
+      "TheGame": {
+        "Id": 511,
+        "Name": "Agricola",
+        "Editorial": "Devir",
+        "Family": 0,
+        "Type": 6,
+        "Years": 12,
+        "PlayerMin": 1,
+        "PlayerMax": 4,
+        "Difficulty": 0,
+        "Duration": 90,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 118,
+      "TheGame": {
+        "Id": 512,
+        "Name": "Dungeon Time",
+        "Editorial": "Ares",
+        "Family": 0,
+        "Type": 2,
+        "Years": 13,
+        "PlayerMin": 1,
+        "PlayerMax": 5,
+        "Difficulty": 0,
+        "Duration": 15,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 119,
+      "TheGame": {
+        "Id": 513,
+        "Name": "Hadara",
+        "Editorial": "Devir",
+        "Family": 2,
+        "Type": 6,
+        "Years": 10,
+        "PlayerMin": 2,
+        "PlayerMax": 5,
+        "Difficulty": 0,
+        "Duration": 45,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 126,
+      "TheGame": {
+        "Id": 514,
+        "Name": "Catan Plus",
+        "Editorial": "Devir",
+        "Family": 2,
+        "Type": 3,
+        "Years": 10,
+        "PlayerMin": 3,
+        "PlayerMax": 6,
+        "Difficulty": 0,
+        "Duration": 75,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 127,
+      "TheGame": {
+        "Id": 515,
+        "Name": "Enseñanza magica obligatoria",
+        "Editorial": "Ehtio htpublishers",
+        "Family": 7,
+        "Type": 8,
+        "Years": 8,
+        "PlayerMin": 2,
+        "PlayerMax": 10,
+        "Difficulty": 0,
+        "Duration": 60,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 134,
+      "TheGame": {
+        "Id": 516,
+        "Name": "Rising Sun",
+        "Editorial": "Edge CMON",
+        "Family": 2,
+        "Type": 3,
+        "Years": 14,
+        "PlayerMin": 3,
+        "PlayerMax": 5,
+        "Difficulty": 0,
+        "Duration": 120,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 148,
+      "TheGame": {
+        "Id": 517,
+        "Name": "Times up kids",
+        "Editorial": "",
+        "Family": 6,
+        "Type": 2,
+        "Years": 5,
+        "PlayerMin": 2,
+        "PlayerMax": 100,
+        "Difficulty": 0,
+        "Duration": 30,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 139,
+      "TheGame": {
+        "Id": 518,
+        "Name": "Incomodos Invitados",
+        "Editorial": "Megacorpin Games",
+        "Family": 0,
+        "Type": 3,
+        "Years": 12,
+        "PlayerMin": 2,
+        "PlayerMax": 8,
+        "Difficulty": 0,
+        "Duration": 60,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 142,
+      "TheGame": {
+        "Id": 519,
+        "Name": "The Gardens of the alambra",
+        "Editorial": "Queen Games",
+        "Family": 2,
+        "Type": 3,
+        "Years": 10,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 0,
+        "Duration": 60,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 153,
+      "TheGame": {
+        "Id": 520,
+        "Name": "Lords of Xidit",
+        "Editorial": "Libellua",
+        "Family": 2,
+        "Type": 8,
+        "Years": 14,
+        "PlayerMin": 3,
+        "PlayerMax": 5,
+        "Difficulty": 0,
+        "Duration": 90,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 157,
+      "TheGame": {
+        "Id": 521,
+        "Name": "Battlestar Galactica",
+        "Editorial": "Edge Fantasy Flight Games",
+        "Family": 2,
+        "Type": 3,
+        "Years": 13,
+        "PlayerMin": 3,
+        "PlayerMax": 6,
+        "Difficulty": 0,
+        "Duration": 180,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 158,
+      "TheGame": {
+        "Id": 522,
+        "Name": "Transilvania",
+        "Editorial": "Zacatrus",
+        "Family": 0,
+        "Type": 0,
+        "Years": 6,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 0,
+        "Duration": 15,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 164,
+      "TheGame": {
+        "Id": 523,
+        "Name": "Belfort",
+        "Editorial": "2 Tomatoes",
+        "Family": 2,
+        "Type": 6,
+        "Years": 14,
+        "PlayerMin": 2,
+        "PlayerMax": 5,
+        "Difficulty": 0,
+        "Duration": 90,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 159,
+      "TheGame": {
+        "Id": 524,
+        "Name": "Musa",
+        "Editorial": "Fractal Juegos",
+        "Family": 0,
+        "Type": 2,
+        "Years": 10,
+        "PlayerMin": 2,
+        "PlayerMax": 12,
+        "Difficulty": 0,
+        "Duration": 30,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 163,
+      "TheGame": {
+        "Id": 525,
+        "Name": "Patchwork doodle",
+        "Editorial": "Maldito Games",
+        "Family": 4,
+        "Type": 2,
+        "Years": 8,
+        "PlayerMin": 1,
+        "PlayerMax": 6,
+        "Difficulty": 0,
+        "Duration": 20,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 160,
+      "TheGame": {
+        "Id": 526,
+        "Name": "Ponzi scheme",
+        "Editorial": "2tomatoes",
+        "Family": 2,
+        "Type": 5,
+        "Years": 12,
+        "PlayerMin": 3,
+        "PlayerMax": 5,
+        "Difficulty": 0,
+        "Duration": 90,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 161,
+      "TheGame": {
+        "Id": 527,
+        "Name": "Dice Hospital",
+        "Editorial": "Maldito Games",
+        "Family": 5,
+        "Type": 5,
+        "Years": 10,
+        "PlayerMin": 1,
+        "PlayerMax": 4,
+        "Difficulty": 0,
+        "Duration": 90,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 162,
+      "TheGame": {
+        "Id": 528,
+        "Name": "Aventureros al tren - El primer viaje",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 1,
+        "Years": 6,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 0,
+        "Duration": 15,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 169,
+      "TheGame": {
+        "Id": 529,
+        "Name": "Dogfight I Guerra Mundial",
+        "Editorial": "Devir",
+        "Family": 0,
+        "Type": 3,
+        "Years": 8,
+        "PlayerMin": 2,
+        "PlayerMax": 2,
+        "Difficulty": 0,
+        "Duration": 15,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 202,
+      "TheGame": {
+        "Id": 531,
+        "Name": "Munchkin Destruye la navidad",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 2,
+        "Years": 8,
+        "PlayerMin": 2,
+        "PlayerMax": 10,
+        "Difficulty": 0,
+        "Duration": 30,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 201,
+      "TheGame": {
+        "Id": 532,
+        "Name": "Multiuniversum",
+        "Editorial": "Last Level Games",
+        "Family": 0,
+        "Type": 3,
+        "Years": 12,
+        "PlayerMin": 1,
+        "PlayerMax": 5,
+        "Difficulty": 0,
+        "Duration": 20,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 198,
+      "TheGame": {
+        "Id": 533,
+        "Name": "No Game Over",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 2,
+        "Years": 10,
+        "PlayerMin": 2,
+        "PlayerMax": 6,
+        "Difficulty": 0,
+        "Duration": 15,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 195,
+      "TheGame": {
+        "Id": 534,
+        "Name": "Saboteur",
+        "Editorial": "Devir",
+        "Family": 0,
+        "Type": 2,
+        "Years": 8,
+        "PlayerMin": 2,
+        "PlayerMax": 8,
+        "Difficulty": 0,
+        "Duration": 30,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 196,
+      "TheGame": {
+        "Id": 535,
+        "Name": "Saboteur",
+        "Editorial": "Devir",
+        "Family": 0,
+        "Type": 2,
+        "Years": 8,
+        "PlayerMin": 2,
+        "PlayerMax": 8,
+        "Difficulty": 0,
+        "Duration": 30,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 197,
+      "TheGame": {
+        "Id": 536,
+        "Name": "Kingz",
+        "Editorial": "Last Level Games",
+        "Family": 0,
+        "Type": 2,
+        "Years": 7,
+        "PlayerMin": 2,
+        "PlayerMax": 5,
+        "Difficulty": 0,
+        "Duration": 15,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 203,
+      "TheGame": {
+        "Id": 537,
+        "Name": "Mag Blast",
+        "Editorial": "Edge",
+        "Family": 0,
+        "Type": 2,
+        "Years": 10,
+        "PlayerMin": 2,
+        "PlayerMax": 8,
+        "Difficulty": 0,
+        "Duration": 20,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 208,
+      "TheGame": {
+        "Id": 538,
+        "Name": "Baraja de Pocker",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 8,
+        "Years": 0,
+        "PlayerMin": 0,
+        "PlayerMax": 0,
+        "Difficulty": 0,
+        "Duration": 0,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 217,
+      "TheGame": {
+        "Id": 539,
+        "Name": "Baraja Española",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 8,
+        "Years": 0,
+        "PlayerMin": 0,
+        "PlayerMax": 0,
+        "Difficulty": 0,
+        "Duration": 0,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    }
+  ],
+  "MensajeError": ""
+}

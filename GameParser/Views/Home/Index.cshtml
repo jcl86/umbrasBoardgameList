@@ -1,0 +1,105 @@
+﻿@model GameViewModel
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+    <div class="text-center">
+
+
+        @using (Html.BeginForm())
+        {
+        <div class="card">
+            <div class="card-body">
+                <h1 class="display-4">¿A qué jugamos?</h1>
+                <hr />
+                <p class="text-muted">En las <strong>Umbras de Paradox</strong></p>
+
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="form-group">
+                            <div class="input-group mb-6">
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text" id="basic-addon3">Somos</span>
+                                </div>
+                                <input asp-for="PlayerNumber" class="form-control" aria-describedby="numeroJugadores" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="form-group">
+                            <div class="input-group mb-6">
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text" id="basic-addon3">Queremos algo</span>
+                                </div>
+                                <select asp-for="Level" asp-items="Html.GetEnumSelectList<GameParser.Core.Dificulty>()" class="form-control">
+                                    <option selected="selected" value="">de cualquier dificultad</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="form-group">
+                            <div class="input-group mb-6">
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text" id="basic-addon3">Tenemos</span>
+                                </div>
+                                <input asp-for="Minutos" class="form-control" aria-describedby="duracion" />
+                                <div class="input-group-append">
+                                    <span class="input-group-text">minutos</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="form-group">
+                            <div class="input-group mb-6">
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text" id="basic-addon3">La persona más joven tiene</span>
+                                </div>
+                                <input asp-for="Edad" class="form-control" aria-describedby="edad" />
+                                <div class="input-group-append">
+                                    <span class="input-group-text">años</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+            <div class="card-footer">
+                <input type="submit" value="Filtrar" class="btn btn-block btn-dark" />
+            </div>
+        </div>
+
+        <p class="text-muted">Hay @Model.Boardgames.Count() juegos con esas características</p>
+    
+                <table class="table table-sm table-striped">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th>Nombre</th>
+                            <th>Jugadores</th>
+                            <th>Tipo</th>
+                            <th>Dificultad</th>
+                            <th>Duración</th>
+                        </tr>
+                    </thead>
+                    @foreach (var item in Model.Boardgames)
+                    {
+                    <tr>
+                        <td>@item.ToString()</td>
+                        <td>@item.PlayerMin - @item.PlayerMax</td>
+                        <td>@item.Type</td>
+                        <td>@item.Dificulty</td>
+                        <td>@item.Duration mins</td>
+
+                    </tr>
+                    }
+                </table>
+   
+            }
+ </div>
