@@ -81,6 +81,7 @@
                 <table class="table table-sm table-striped">
                     <thead class="thead-dark">
                         <tr>
+                            <th></th>
                             <th>Nombre</th>
                             <th>Jugadores</th>
                             <th>Tipo</th>
@@ -91,6 +92,12 @@
                     @foreach (var item in Model.Boardgames)
                     {
                     <tr>
+                        <td>
+                            @if (item.InUse)
+                            {
+                                <i class="fas fa-lock"></i>
+                            }
+                        </td>
                         <td>@item.ToString()</td>
                         <td>@item.PlayerMin - @item.PlayerMax</td>
                         <td>@item.Type</td>

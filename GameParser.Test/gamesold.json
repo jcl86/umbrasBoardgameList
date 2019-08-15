@@ -56,33 +56,6 @@
       "Status": 0
     },
     {
-      "Id": 253,
-      "TheGame": {
-        "Id": 2,
-        "Name": "7 Wonders",
-        "Editorial": "",
-        "Family": 0,
-        "Type": 3,
-        "Years": 10,
-        "PlayerMin": 2,
-        "PlayerMax": 7,
-        "Difficulty": 2,
-        "Duration": 30,
-        "IsExpansion": 0,
-        "Comments": "Jugadores recomendados: 4"
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
       "Id": 85,
       "TheGame": {
         "Id": 2,
@@ -326,33 +299,6 @@
       "Status": 0
     },
     {
-      "Id": 237,
-      "TheGame": {
-        "Id": 17,
-        "Name": "Cacao",
-        "Editorial": "",
-        "Family": 1,
-        "Type": 0,
-        "Years": 8,
-        "PlayerMin": 2,
-        "PlayerMax": 4,
-        "Difficulty": 1,
-        "Duration": 45,
-        "IsExpansion": 0,
-        "Comments": "Jugadores recomendados: 3"
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
       "Id": 75,
       "TheGame": {
         "Id": 19,
@@ -452,33 +398,6 @@
       "Association": {
         "Id": 1,
         "Name": "Alter Paradox",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
-      "Id": 239,
-      "TheGame": {
-        "Id": 25,
-        "Name": "Civilization de Sid Meier",
-        "Editorial": "",
-        "Family": 2,
-        "Type": 3,
-        "Years": 14,
-        "PlayerMin": 2,
-        "PlayerMax": 4,
-        "Difficulty": 3,
-        "Duration": 160,
-        "IsExpansion": 0,
-        "Comments": "Jugadores recomendados: 4"
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
         "Contact": null,
         "Email": null,
         "Phone": null,
@@ -704,33 +623,6 @@
       "Status": 0
     },
     {
-      "Id": 226,
-      "TheGame": {
-        "Id": 37,
-        "Name": "Dixit Odyssey",
-        "Editorial": "",
-        "Family": 2,
-        "Type": 2,
-        "Years": 8,
-        "PlayerMin": 3,
-        "PlayerMax": 12,
-        "Difficulty": 1,
-        "Duration": 30,
-        "IsExpansion": 0,
-        "Comments": "Jugadores recomendados: 6"
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
       "Id": 84,
       "TheGame": {
         "Id": 38,
@@ -785,60 +677,6 @@
       "Status": 0
     },
     {
-      "Id": 273,
-      "TheGame": {
-        "Id": 40,
-        "Name": "Dungeon Twister",
-        "Editorial": "",
-        "Family": 2,
-        "Type": 3,
-        "Years": 12,
-        "PlayerMin": 2,
-        "PlayerMax": 2,
-        "Difficulty": 2,
-        "Duration": 60,
-        "IsExpansion": 0,
-        "Comments": "Jugadores recomendados: 2"
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
-      "Id": 275,
-      "TheGame": {
-        "Id": 41,
-        "Name": "Dungeons & Dragons: La aventura fantástica - El juego de mesa",
-        "Editorial": "",
-        "Family": 2,
-        "Type": 5,
-        "Years": 8,
-        "PlayerMin": 2,
-        "PlayerMax": 5,
-        "Difficulty": 2,
-        "Duration": 60,
-        "IsExpansion": 0,
-        "Comments": "Jugadores recomendados: 5"
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
       "Id": 98,
       "TheGame": {
         "Id": 42,
@@ -866,33 +704,6 @@
       "Status": 0
     },
     {
-      "Id": 260,
-      "TheGame": {
-        "Id": 44,
-        "Name": "El Capitan Alatriste",
-        "Editorial": "",
-        "Family": 2,
-        "Type": 5,
-        "Years": 12,
-        "PlayerMin": 2,
-        "PlayerMax": 6,
-        "Difficulty": 2,
-        "Duration": 90,
-        "IsExpansion": 0,
-        "Comments": "Jugadores recomendados: 4-5"
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
       "Id": 173,
       "TheGame": {
         "Id": 45,
@@ -911,33 +722,6 @@
       "Association": {
         "Id": 1,
         "Name": "Alter Paradox",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
-      "Id": 263,
-      "TheGame": {
-        "Id": 46,
-        "Name": "El juego de los huevos (Dancing Egg)",
-        "Editorial": "",
-        "Family": 1,
-        "Type": 2,
-        "Years": 5,
-        "PlayerMin": 2,
-        "PlayerMax": 4,
-        "Difficulty": 1,
-        "Duration": 10,
-        "IsExpansion": 0,
-        "Comments": "Jugadores recomendados: 4"
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
         "Contact": null,
         "Email": null,
         "Phone": null,
@@ -1136,33 +920,6 @@
       "Status": 0
     },
     {
-      "Id": 251,
-      "TheGame": {
-        "Id": 54,
-        "Name": "Fantasma: Blitz",
-        "Editorial": "",
-        "Family": 0,
-        "Type": 2,
-        "Years": 5,
-        "PlayerMin": 2,
-        "PlayerMax": 8,
-        "Difficulty": 1,
-        "Duration": 20,
-        "IsExpansion": 0,
-        "Comments": "Jugadores recomendados: 4-5"
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
       "Id": 81,
       "TheGame": {
         "Id": 55,
@@ -1208,33 +965,6 @@
       "Association": {
         "Id": 1,
         "Name": "Alter Paradox",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
-      "Id": 227,
-      "TheGame": {
-        "Id": 57,
-        "Name": "Fuga de Colditz",
-        "Editorial": "",
-        "Family": 2,
-        "Type": 5,
-        "Years": 12,
-        "PlayerMin": 2,
-        "PlayerMax": 6,
-        "Difficulty": 2,
-        "Duration": 180,
-        "IsExpansion": 0,
-        "Comments": "Jugadores recomendados: 4"
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
         "Contact": null,
         "Email": null,
         "Phone": null,
@@ -1811,33 +1541,6 @@
       "Status": 0
     },
     {
-      "Id": 224,
-      "TheGame": {
-        "Id": 100,
-        "Name": "Noviembre Rojo",
-        "Editorial": "",
-        "Family": 2,
-        "Type": 3,
-        "Years": 10,
-        "PlayerMin": 1,
-        "PlayerMax": 8,
-        "Difficulty": 2,
-        "Duration": 120,
-        "IsExpansion": 0,
-        "Comments": "Jugadores recomendados: 4"
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
       "Id": 144,
       "TheGame": {
         "Id": 100,
@@ -1883,33 +1586,6 @@
       "Association": {
         "Id": 1,
         "Name": "Alter Paradox",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
-      "Id": 221,
-      "TheGame": {
-        "Id": 102,
-        "Name": "Pandemia",
-        "Editorial": "",
-        "Family": 2,
-        "Type": 3,
-        "Years": 10,
-        "PlayerMin": 2,
-        "PlayerMax": 4,
-        "Difficulty": 2,
-        "Duration": 45,
-        "IsExpansion": 0,
-        "Comments": "Jugadores recomendados: 4"
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
         "Contact": null,
         "Email": null,
         "Phone": null,
@@ -1991,33 +1667,6 @@
       "Association": {
         "Id": 1,
         "Name": "Alter Paradox",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
-      "Id": 219,
-      "TheGame": {
-        "Id": 106,
-        "Name": "Potion Explosion",
-        "Editorial": "",
-        "Family": 1,
-        "Type": 0,
-        "Years": 8,
-        "PlayerMin": 2,
-        "PlayerMax": 4,
-        "Difficulty": 1,
-        "Duration": 60,
-        "IsExpansion": 0,
-        "Comments": "Jugadores recomendados: Ninguno en especial"
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
         "Contact": null,
         "Email": null,
         "Phone": null,
@@ -2162,33 +1811,6 @@
       "Status": 0
     },
     {
-      "Id": 236,
-      "TheGame": {
-        "Id": 112,
-        "Name": "Samurai Sword",
-        "Editorial": "",
-        "Family": 0,
-        "Type": 0,
-        "Years": 8,
-        "PlayerMin": 3,
-        "PlayerMax": 7,
-        "Difficulty": 1,
-        "Duration": 40,
-        "IsExpansion": 0,
-        "Comments": "Jugadores recomendados: 7"
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
       "Id": 103,
       "TheGame": {
         "Id": 113,
@@ -2288,33 +1910,6 @@
       "Association": {
         "Id": 1,
         "Name": "Alter Paradox",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
-      "Id": 228,
-      "TheGame": {
-        "Id": 121,
-        "Name": "Sombras sobre Londres (Letters from Whitechapel)",
-        "Editorial": "",
-        "Family": 2,
-        "Type": 3,
-        "Years": 12,
-        "PlayerMin": 2,
-        "PlayerMax": 6,
-        "Difficulty": 2,
-        "Duration": 120,
-        "IsExpansion": 0,
-        "Comments": "Jugadores recomendados: 2"
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
         "Contact": null,
         "Email": null,
         "Phone": null,
@@ -2648,33 +2243,6 @@
       "Status": 0
     },
     {
-      "Id": 254,
-      "TheGame": {
-        "Id": 136,
-        "Name": "Terraforming Mars",
-        "Editorial": "",
-        "Family": 2,
-        "Type": 3,
-        "Years": 12,
-        "PlayerMin": 1,
-        "PlayerMax": 5,
-        "Difficulty": 2,
-        "Duration": 120,
-        "IsExpansion": 0,
-        "Comments": "Jugadores recomendados: 3-4"
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
       "Id": 117,
       "TheGame": {
         "Id": 137,
@@ -2774,60 +2342,6 @@
       "Association": {
         "Id": 1,
         "Name": "Alter Paradox",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
-      "Id": 220,
-      "TheGame": {
-        "Id": 146,
-        "Name": "Trogloditargh",
-        "Editorial": "",
-        "Family": 2,
-        "Type": 2,
-        "Years": 8,
-        "PlayerMin": 4,
-        "PlayerMax": 8,
-        "Difficulty": 1,
-        "Duration": 45,
-        "IsExpansion": 0,
-        "Comments": "Jugadores recomendados: 4"
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
-      "Id": 222,
-      "TheGame": {
-        "Id": 147,
-        "Name": "Ubongo",
-        "Editorial": "",
-        "Family": 1,
-        "Type": 0,
-        "Years": 6,
-        "PlayerMin": 2,
-        "PlayerMax": 4,
-        "Difficulty": 1,
-        "Duration": 25,
-        "IsExpansion": 0,
-        "Comments": "Jugadores recomendados: 4"
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
         "Contact": null,
         "Email": null,
         "Phone": null,
@@ -3134,33 +2648,6 @@
       "Status": 0
     },
     {
-      "Id": 248,
-      "TheGame": {
-        "Id": 197,
-        "Name": "Ciudadelas",
-        "Editorial": "Edge",
-        "Family": 0,
-        "Type": 3,
-        "Years": 6,
-        "PlayerMin": 2,
-        "PlayerMax": 7,
-        "Difficulty": 0,
-        "Duration": 60,
-        "IsExpansion": 0,
-        "Comments": ""
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
       "Id": 200,
       "TheGame": {
         "Id": 198,
@@ -3179,33 +2666,6 @@
       "Association": {
         "Id": 1,
         "Name": "Alter Paradox",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
-      "Id": 229,
-      "TheGame": {
-        "Id": 200,
-        "Name": "Dungeon Lords",
-        "Editorial": "",
-        "Family": 2,
-        "Type": 3,
-        "Years": 12,
-        "PlayerMin": 2,
-        "PlayerMax": 4,
-        "Difficulty": 0,
-        "Duration": 90,
-        "IsExpansion": 0,
-        "Comments": ""
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
         "Contact": null,
         "Email": null,
         "Phone": null,
@@ -3296,141 +2756,6 @@
       "Status": 0
     },
     {
-      "Id": 242,
-      "TheGame": {
-        "Id": 205,
-        "Name": "Fantasma blitz 2.0",
-        "Editorial": "DEVIR",
-        "Family": 0,
-        "Type": 0,
-        "Years": 8,
-        "PlayerMin": 2,
-        "PlayerMax": 8,
-        "Difficulty": 0,
-        "Duration": 20,
-        "IsExpansion": 0,
-        "Comments": ""
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
-      "Id": 240,
-      "TheGame": {
-        "Id": 206,
-        "Name": "Game of trains",
-        "Editorial": "",
-        "Family": 0,
-        "Type": 0,
-        "Years": 8,
-        "PlayerMin": 2,
-        "PlayerMax": 4,
-        "Difficulty": 0,
-        "Duration": 20,
-        "IsExpansion": 0,
-        "Comments": ""
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
-      "Id": 249,
-      "TheGame": {
-        "Id": 207,
-        "Name": "Sí, señor oscuro",
-        "Editorial": "",
-        "Family": 0,
-        "Type": 0,
-        "Years": 5,
-        "PlayerMin": 4,
-        "PlayerMax": 16,
-        "Difficulty": 0,
-        "Duration": 20,
-        "IsExpansion": 0,
-        "Comments": ""
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
-      "Id": 223,
-      "TheGame": {
-        "Id": 208,
-        "Name": "Cash and guns",
-        "Editorial": "",
-        "Family": 0,
-        "Type": 0,
-        "Years": 10,
-        "PlayerMin": 4,
-        "PlayerMax": 6,
-        "Difficulty": 0,
-        "Duration": 30,
-        "IsExpansion": 0,
-        "Comments": ""
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
-      "Id": 268,
-      "TheGame": {
-        "Id": 210,
-        "Name": "Sherif de Nottingham",
-        "Editorial": "",
-        "Family": 0,
-        "Type": 0,
-        "Years": 14,
-        "PlayerMin": 3,
-        "PlayerMax": 5,
-        "Difficulty": 0,
-        "Duration": 60,
-        "IsExpansion": 0,
-        "Comments": ""
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
       "Id": 167,
       "TheGame": {
         "Id": 214,
@@ -3449,114 +2774,6 @@
       "Association": {
         "Id": 1,
         "Name": "Alter Paradox",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
-      "Id": 235,
-      "TheGame": {
-        "Id": 216,
-        "Name": "Splendor",
-        "Editorial": "",
-        "Family": 0,
-        "Type": 0,
-        "Years": 10,
-        "PlayerMin": 2,
-        "PlayerMax": 4,
-        "Difficulty": 0,
-        "Duration": 30,
-        "IsExpansion": 0,
-        "Comments": ""
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
-      "Id": 246,
-      "TheGame": {
-        "Id": 221,
-        "Name": "La posada sangrienta",
-        "Editorial": "",
-        "Family": 0,
-        "Type": 0,
-        "Years": 14,
-        "PlayerMin": 1,
-        "PlayerMax": 4,
-        "Difficulty": 0,
-        "Duration": 45,
-        "IsExpansion": 0,
-        "Comments": ""
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
-      "Id": 255,
-      "TheGame": {
-        "Id": 223,
-        "Name": "Covenant",
-        "Editorial": "",
-        "Family": 0,
-        "Type": 0,
-        "Years": 10,
-        "PlayerMin": 3,
-        "PlayerMax": 5,
-        "Difficulty": 0,
-        "Duration": 30,
-        "IsExpansion": 0,
-        "Comments": ""
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
-      "Id": 225,
-      "TheGame": {
-        "Id": 225,
-        "Name": "Mainframe",
-        "Editorial": "",
-        "Family": 0,
-        "Type": 0,
-        "Years": 14,
-        "PlayerMin": 2,
-        "PlayerMax": 4,
-        "Difficulty": 0,
-        "Duration": 30,
-        "IsExpansion": 0,
-        "Comments": ""
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
         "Contact": null,
         "Email": null,
         "Phone": null,
@@ -3593,168 +2810,6 @@
       "Status": 0
     },
     {
-      "Id": 241,
-      "TheGame": {
-        "Id": 228,
-        "Name": "Pocket invaders",
-        "Editorial": "",
-        "Family": 0,
-        "Type": 0,
-        "Years": 8,
-        "PlayerMin": 2,
-        "PlayerMax": 2,
-        "Difficulty": 0,
-        "Duration": 15,
-        "IsExpansion": 0,
-        "Comments": ""
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
-      "Id": 245,
-      "TheGame": {
-        "Id": 229,
-        "Name": "Fluxx cthulhu",
-        "Editorial": "",
-        "Family": 0,
-        "Type": 0,
-        "Years": 14,
-        "PlayerMin": 2,
-        "PlayerMax": 6,
-        "Difficulty": 0,
-        "Duration": 10,
-        "IsExpansion": 0,
-        "Comments": ""
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
-      "Id": 238,
-      "TheGame": {
-        "Id": 232,
-        "Name": "Fresco",
-        "Editorial": "",
-        "Family": 0,
-        "Type": 0,
-        "Years": 10,
-        "PlayerMin": 2,
-        "PlayerMax": 4,
-        "Difficulty": 0,
-        "Duration": 60,
-        "IsExpansion": 0,
-        "Comments": ""
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
-      "Id": 257,
-      "TheGame": {
-        "Id": 234,
-        "Name": "Pilares de la tierra",
-        "Editorial": "",
-        "Family": 0,
-        "Type": 0,
-        "Years": 12,
-        "PlayerMin": 2,
-        "PlayerMax": 4,
-        "Difficulty": 0,
-        "Duration": 90,
-        "IsExpansion": 0,
-        "Comments": ""
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
-      "Id": 233,
-      "TheGame": {
-        "Id": 235,
-        "Name": "La era del carbón",
-        "Editorial": "",
-        "Family": 0,
-        "Type": 0,
-        "Years": 10,
-        "PlayerMin": 2,
-        "PlayerMax": 4,
-        "Difficulty": 0,
-        "Duration": 60,
-        "IsExpansion": 0,
-        "Comments": ""
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
-      "Id": 218,
-      "TheGame": {
-        "Id": 238,
-        "Name": "Capitan sonar",
-        "Editorial": "",
-        "Family": 0,
-        "Type": 0,
-        "Years": 14,
-        "PlayerMin": 2,
-        "PlayerMax": 8,
-        "Difficulty": 0,
-        "Duration": 45,
-        "IsExpansion": 0,
-        "Comments": ""
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
       "Id": 108,
       "TheGame": {
         "Id": 238,
@@ -3782,249 +2837,6 @@
       "Status": 0
     },
     {
-      "Id": 256,
-      "TheGame": {
-        "Id": 259,
-        "Name": "La vuelta al mundo el 80 días",
-        "Editorial": "",
-        "Family": 2,
-        "Type": 5,
-        "Years": 10,
-        "PlayerMin": 3,
-        "PlayerMax": 6,
-        "Difficulty": 1,
-        "Duration": 60,
-        "IsExpansion": 0,
-        "Comments": ""
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
-      "Id": 277,
-      "TheGame": {
-        "Id": 273,
-        "Name": "Formula Dé",
-        "Editorial": "",
-        "Family": 2,
-        "Type": 5,
-        "Years": 12,
-        "PlayerMin": 2,
-        "PlayerMax": 10,
-        "Difficulty": 1,
-        "Duration": 120,
-        "IsExpansion": 0,
-        "Comments": ""
-      },
-      "Association": {
-        "Id": 3,
-        "Name": "Ion Calafel",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
-      "Id": 276,
-      "TheGame": {
-        "Id": 279,
-        "Name": "Condottiere",
-        "Editorial": "",
-        "Family": 2,
-        "Type": 3,
-        "Years": 12,
-        "PlayerMin": 2,
-        "PlayerMax": 6,
-        "Difficulty": 2,
-        "Duration": 120,
-        "IsExpansion": 0,
-        "Comments": ""
-      },
-      "Association": {
-        "Id": 3,
-        "Name": "Ion Calafel",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
-      "Id": 258,
-      "TheGame": {
-        "Id": 279,
-        "Name": "Condottiere",
-        "Editorial": "",
-        "Family": 2,
-        "Type": 3,
-        "Years": 12,
-        "PlayerMin": 2,
-        "PlayerMax": 6,
-        "Difficulty": 2,
-        "Duration": 120,
-        "IsExpansion": 0,
-        "Comments": ""
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
-      "Id": 278,
-      "TheGame": {
-        "Id": 280,
-        "Name": "Tikal",
-        "Editorial": "",
-        "Family": 2,
-        "Type": 3,
-        "Years": 19,
-        "PlayerMin": 2,
-        "PlayerMax": 4,
-        "Difficulty": 2,
-        "Duration": 120,
-        "IsExpansion": 0,
-        "Comments": ""
-      },
-      "Association": {
-        "Id": 3,
-        "Name": "Ion Calafel",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
-      "Id": 280,
-      "TheGame": {
-        "Id": 283,
-        "Name": "Puerto Rico",
-        "Editorial": "",
-        "Family": 1,
-        "Type": 6,
-        "Years": 12,
-        "PlayerMin": 3,
-        "PlayerMax": 5,
-        "Difficulty": 2,
-        "Duration": 120,
-        "IsExpansion": 0,
-        "Comments": ""
-      },
-      "Association": {
-        "Id": 3,
-        "Name": "Ion Calafel",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
-      "Id": 281,
-      "TheGame": {
-        "Id": 290,
-        "Name": "Samurai",
-        "Editorial": "",
-        "Family": 2,
-        "Type": 4,
-        "Years": 10,
-        "PlayerMin": 2,
-        "PlayerMax": 4,
-        "Difficulty": 2,
-        "Duration": 45,
-        "IsExpansion": 0,
-        "Comments": "Gana el tercero siempre"
-      },
-      "Association": {
-        "Id": 3,
-        "Name": "Ion Calafel",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
-      "Id": 279,
-      "TheGame": {
-        "Id": 292,
-        "Name": "El Grande",
-        "Editorial": "",
-        "Family": 2,
-        "Type": 3,
-        "Years": 12,
-        "PlayerMin": 2,
-        "PlayerMax": 5,
-        "Difficulty": 2,
-        "Duration": 90,
-        "IsExpansion": 0,
-        "Comments": ""
-      },
-      "Association": {
-        "Id": 3,
-        "Name": "Ion Calafel",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
-      "Id": 244,
-      "TheGame": {
-        "Id": 354,
-        "Name": "Erase una vez",
-        "Editorial": "EDGE",
-        "Family": 0,
-        "Type": 0,
-        "Years": 8,
-        "PlayerMin": 3,
-        "PlayerMax": 6,
-        "Difficulty": 0,
-        "Duration": 60,
-        "IsExpansion": 0,
-        "Comments": ""
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
       "Id": 140,
       "TheGame": {
         "Id": 356,
@@ -4043,33 +2855,6 @@
       "Association": {
         "Id": 1,
         "Name": "Alter Paradox",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
-      "Id": 271,
-      "TheGame": {
-        "Id": 366,
-        "Name": "La isla de Skye",
-        "Editorial": "SD Games",
-        "Family": 1,
-        "Type": 0,
-        "Years": 8,
-        "PlayerMin": 2,
-        "PlayerMax": 5,
-        "Difficulty": 0,
-        "Duration": 60,
-        "IsExpansion": 0,
-        "Comments": ""
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
         "Contact": null,
         "Email": null,
         "Phone": null,
@@ -4124,60 +2909,6 @@
       "Association": {
         "Id": 1,
         "Name": "Alter Paradox",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
-      "Id": 231,
-      "TheGame": {
-        "Id": 369,
-        "Name": "Aventureros al Tren Europa",
-        "Editorial": "",
-        "Family": 2,
-        "Type": 5,
-        "Years": 8,
-        "PlayerMin": 2,
-        "PlayerMax": 5,
-        "Difficulty": 1,
-        "Duration": 30,
-        "IsExpansion": 0,
-        "Comments": ""
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
-      "Id": 247,
-      "TheGame": {
-        "Id": 371,
-        "Name": "Alta tensión",
-        "Editorial": "edge",
-        "Family": 2,
-        "Type": 0,
-        "Years": 12,
-        "PlayerMin": 2,
-        "PlayerMax": 6,
-        "Difficulty": 0,
-        "Duration": 120,
-        "IsExpansion": 0,
-        "Comments": ""
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
         "Contact": null,
         "Email": null,
         "Phone": null,
@@ -4259,33 +2990,6 @@
       "Association": {
         "Id": 1,
         "Name": "Alter Paradox",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
-      "Id": 252,
-      "TheGame": {
-        "Id": 413,
-        "Name": "Ruiz",
-        "Editorial": "",
-        "Family": 0,
-        "Type": 0,
-        "Years": 0,
-        "PlayerMin": 0,
-        "PlayerMax": 0,
-        "Difficulty": 0,
-        "Duration": 0,
-        "IsExpansion": 0,
-        "Comments": ""
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
         "Contact": null,
         "Email": null,
         "Phone": null,
@@ -4421,33 +3125,6 @@
       "Association": {
         "Id": 1,
         "Name": "Alter Paradox",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
-      "Id": 265,
-      "TheGame": {
-        "Id": 433,
-        "Name": "7 Wonders Duel",
-        "Editorial": "Repos Producion",
-        "Family": 2,
-        "Type": 3,
-        "Years": 10,
-        "PlayerMin": 2,
-        "PlayerMax": 2,
-        "Difficulty": 2,
-        "Duration": 30,
-        "IsExpansion": 0,
-        "Comments": ""
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
         "Contact": null,
         "Email": null,
         "Phone": null,
@@ -6698,33 +5375,6 @@
       "Status": 0
     },
     {
-      "Id": 259,
-      "TheGame": {
-        "Id": 521,
-        "Name": "Battlestar Galactica",
-        "Editorial": "Edge Fantasy Flight Games",
-        "Family": 2,
-        "Type": 3,
-        "Years": 13,
-        "PlayerMin": 3,
-        "PlayerMax": 6,
-        "Difficulty": 0,
-        "Duration": 180,
-        "IsExpansion": 0,
-        "Comments": ""
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
       "Id": 158,
       "TheGame": {
         "Id": 522,
@@ -7175,384 +5825,6 @@
       "Association": {
         "Id": 1,
         "Name": "Alter Paradox",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
-      "Id": 234,
-      "TheGame": {
-        "Id": 540,
-        "Name": "Portobello Market",
-        "Editorial": "Schmidt",
-        "Family": 2,
-        "Type": 3,
-        "Years": 8,
-        "PlayerMin": 2,
-        "PlayerMax": 4,
-        "Difficulty": 0,
-        "Duration": 35,
-        "IsExpansion": 0,
-        "Comments": ""
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
-      "Id": 232,
-      "TheGame": {
-        "Id": 542,
-        "Name": "Twister",
-        "Editorial": "MB",
-        "Family": 7,
-        "Type": 0,
-        "Years": 6,
-        "PlayerMin": 2,
-        "PlayerMax": 10,
-        "Difficulty": 0,
-        "Duration": 10,
-        "IsExpansion": 0,
-        "Comments": ""
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
-      "Id": 230,
-      "TheGame": {
-        "Id": 543,
-        "Name": "Aventureros al tren El juego de cartas",
-        "Editorial": "Days of wonder",
-        "Family": 0,
-        "Type": 3,
-        "Years": 8,
-        "PlayerMin": 2,
-        "PlayerMax": 4,
-        "Difficulty": 0,
-        "Duration": 30,
-        "IsExpansion": 0,
-        "Comments": ""
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
-      "Id": 243,
-      "TheGame": {
-        "Id": 544,
-        "Name": "Catan",
-        "Editorial": "Devir",
-        "Family": 2,
-        "Type": 3,
-        "Years": 10,
-        "PlayerMin": 3,
-        "PlayerMax": 4,
-        "Difficulty": 0,
-        "Duration": 75,
-        "IsExpansion": 0,
-        "Comments": ""
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
-      "Id": 250,
-      "TheGame": {
-        "Id": 545,
-        "Name": "Lobo",
-        "Editorial": "",
-        "Family": 1,
-        "Type": 3,
-        "Years": 12,
-        "PlayerMin": 2,
-        "PlayerMax": 4,
-        "Difficulty": 0,
-        "Duration": 30,
-        "IsExpansion": 0,
-        "Comments": ""
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
-      "Id": 262,
-      "TheGame": {
-        "Id": 546,
-        "Name": "Mascarade",
-        "Editorial": "Repos production",
-        "Family": 0,
-        "Type": 2,
-        "Years": 10,
-        "PlayerMin": 2,
-        "PlayerMax": 13,
-        "Difficulty": 1,
-        "Duration": 30,
-        "IsExpansion": 0,
-        "Comments": ""
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
-      "Id": 269,
-      "TheGame": {
-        "Id": 547,
-        "Name": "Chez Geek",
-        "Editorial": "Edge",
-        "Family": 0,
-        "Type": 2,
-        "Years": 18,
-        "PlayerMin": 2,
-        "PlayerMax": 5,
-        "Difficulty": 0,
-        "Duration": 60,
-        "IsExpansion": 0,
-        "Comments": ""
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
-      "Id": 270,
-      "TheGame": {
-        "Id": 548,
-        "Name": "Um krone und kragen",
-        "Editorial": "Amigo",
-        "Family": 0,
-        "Type": 3,
-        "Years": 10,
-        "PlayerMin": 2,
-        "PlayerMax": 5,
-        "Difficulty": 0,
-        "Duration": 45,
-        "IsExpansion": 0,
-        "Comments": ""
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
-      "Id": 261,
-      "TheGame": {
-        "Id": 549,
-        "Name": "Uno",
-        "Editorial": "",
-        "Family": 0,
-        "Type": 0,
-        "Years": 7,
-        "PlayerMin": 2,
-        "PlayerMax": 10,
-        "Difficulty": 1,
-        "Duration": 10,
-        "IsExpansion": 0,
-        "Comments": ""
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
-      "Id": 267,
-      "TheGame": {
-        "Id": 550,
-        "Name": "Feed the farm",
-        "Editorial": "Zacatrus",
-        "Family": 0,
-        "Type": 1,
-        "Years": 4,
-        "PlayerMin": 2,
-        "PlayerMax": 5,
-        "Difficulty": 0,
-        "Duration": 20,
-        "IsExpansion": 0,
-        "Comments": ""
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
-      "Id": 272,
-      "TheGame": {
-        "Id": 551,
-        "Name": "The end of the triumvirate",
-        "Editorial": "Z-man games",
-        "Family": 2,
-        "Type": 3,
-        "Years": 10,
-        "PlayerMin": 2,
-        "PlayerMax": 3,
-        "Difficulty": 0,
-        "Duration": 0,
-        "IsExpansion": 0,
-        "Comments": ""
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
-      "Id": 264,
-      "TheGame": {
-        "Id": 552,
-        "Name": "Yogi",
-        "Editorial": "Gigamic",
-        "Family": 0,
-        "Type": 2,
-        "Years": 8,
-        "PlayerMin": 3,
-        "PlayerMax": 10,
-        "Difficulty": 1,
-        "Duration": 20,
-        "IsExpansion": 0,
-        "Comments": ""
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
-      "Id": 266,
-      "TheGame": {
-        "Id": 553,
-        "Name": "Winners Circle",
-        "Editorial": "Face2Face",
-        "Family": 2,
-        "Type": 3,
-        "Years": 10,
-        "PlayerMin": 2,
-        "PlayerMax": 6,
-        "Difficulty": 0,
-        "Duration": 45,
-        "IsExpansion": 0,
-        "Comments": ""
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
-        "Contact": null,
-        "Email": null,
-        "Phone": null,
-        "Comments": null
-      },
-      "Comments": null,
-      "Status": 0
-    },
-    {
-      "Id": 274,
-      "TheGame": {
-        "Id": 554,
-        "Name": "Identik",
-        "Editorial": "Asmodee",
-        "Family": 4,
-        "Type": 2,
-        "Years": 8,
-        "PlayerMin": 3,
-        "PlayerMax": 99,
-        "Difficulty": 1,
-        "Duration": 45,
-        "IsExpansion": 0,
-        "Comments": ""
-      },
-      "Association": {
-        "Id": 2,
-        "Name": "Atlas",
         "Contact": null,
         "Email": null,
         "Phone": null,

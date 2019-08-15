@@ -48,6 +48,42 @@ namespace GameParser.Controllers
             return View(viewModel);
         }
 
+        public IActionResult Local()
+        {
+            IEnumerable<BoardGame> games = GetLocalGames();
+            var viewModel = new GameViewModel
+            {
+                Boardgames = games.ToList()
+            };
+
+            return View("Index", viewModel);
+        }
+
+        [HttpPost]
+        public IActionResult Local(GameViewModel viewModel)
+        {
+            IEnumerable<BoardGame> boardGames = GetLocalGames();
+
+            var games = boardGames.ToList();
+
+            if (viewModel.PlayerNumber.HasValue)
+                games = games.Where(x => viewModel.PlayerNumber.Value >= x.PlayerMin && viewModel.PlayerNumber.Value <= x.PlayerMax).ToList();
+
+            if (viewModel.Level.HasValue)
+                games = games.Where(x => x.Dificulty.HasValue && viewModel.Level == x.Dificulty).ToList();
+
+            if (viewModel.Minutos.HasValue)
+                games = games.Where(x => viewModel.Minutos.Value >= x.Duration).ToList();
+
+            if (viewModel.Edad.HasValue)
+                games = games.Where(x => x.Years <= viewModel.Edad.Value).ToList();
+
+            viewModel.Boardgames = games;
+
+            return View("Index", viewModel);
+        }
+
+
         private static IEnumerable<BoardGame> GetBoardGames()
         {
 #if DEBUG
@@ -65,10 +101,30 @@ namespace GameParser.Controllers
             }
             catch (Exception)
             {
-                json = json.Substring(0, json.LastIndexOf('}')) + "}],\"MensajeError\": \"\"}";
-                result = JsonConvert.DeserializeObject<RootObject>(json);
+                try
+                {
+                    json = json.Substring(0, json.LastIndexOf('}')) + "}],\"MensajeError\": \"\"}";
+                    result = JsonConvert.DeserializeObject<RootObject>(json);
+                }
+                catch (Exception)
+                {
+                    string localPath = $"{Directory.GetCurrentDirectory()}\\games.json";
+                    json = new Reader(localPath).Read();
+                    result = JsonConvert.DeserializeObject<RootObject>(json);
+                }
             }
             
+            var boardGames = result.Convert();
+            return boardGames;
+        }
+
+        private static IEnumerable<BoardGame> GetLocalGames()
+        {
+            string path = $"{Directory.GetCurrentDirectory()}\\games.json";
+            var json = new Reader(path).Read();
+
+            RootObject result;
+            result = JsonConvert.DeserializeObject<RootObject>(json);
             var boardGames = result.Convert();
             return boardGames;
         }
