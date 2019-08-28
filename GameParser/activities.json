@@ -1,0 +1,5561 @@
+﻿{
+
+  "EsCorrecto": true,
+
+  "ListaActividades": [
+
+    {
+
+      "Id": 80,
+
+      "Organizer": "\r\n",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "",
+
+      "Name": "",
+
+      "ActivityDate": "2019-08-15T08:27:00",
+
+      "Place": "",
+
+      "Type": "",
+
+      "Participants": "",
+
+      "MaxParticipants": 0,
+
+      "Duration": 0,
+
+      "Summary": "",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "",
+
+      "LastModify": "2019-08-07T08:32:40.41"
+
+    },
+
+    {
+
+      "Id": 1,
+
+      "Organizer": "\r\nAlter Paradox",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Alter Paradox",
+
+      "Name": "Apertura de las jornadas",
+
+      "ActivityDate": "2019-08-15T10:00:00",
+
+      "Place": "",
+
+      "Type": "Otros",
+
+      "Participants": "1-100",
+
+      "MaxParticipants": 100,
+
+      "Duration": 30,
+
+      "Summary": "Apertura de las Umbras",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "",
+
+      "LastModify": "2019-08-07T08:32:39.677"
+
+    },
+
+    {
+
+      "Id": 4,
+
+      "Organizer": "\r\nCayro Games",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Cayro Games",
+
+      "Name": "Demos de juegos de mesa",
+
+      "ActivityDate": "2019-08-15T10:00:00",
+
+      "Place": "Zona reservada",
+
+      "Type": "juegos de mesa",
+
+      "Participants": "1-8",
+
+      "MaxParticipants": 10,
+
+      "Duration": 240,
+
+      "Summary": "Demostraciones de juegos de mesa",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "",
+
+      "LastModify": "2019-08-07T08:32:39.747"
+
+    },
+
+    {
+
+      "Id": 5,
+
+      "Organizer": "\r\nDavid Gonzalez",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Learn and Teach",
+
+      "Name": "El enigma de los gatos",
+
+      "ActivityDate": "2019-08-15T10:00:00",
+
+      "Place": "Sala RdM",
+
+      "Type": "Rol de mesa",
+
+      "Participants": "4",
+
+      "MaxParticipants": 4,
+
+      "Duration": 180,
+
+      "Summary": "¿Que hacen los gatos cuando sus dueños no miran?",
+
+      "Comments": "En 'El secreto de los gatos' (mundo FATE) interpretaréis a gatos mágicos cuyo deber es proteger\n a sus pobres y vulnerables humanos —a quienes llaman Cargas— de las muchas\n amenazas que acechan en la oscuridad.\n Los gatos son seres mágicos, entienden el significado del sacrificio ritual y el poder de los nombres.\n Un ratón decapitado en el felpudo de la entrada o en la almohada es un\n poderoso amuleto, y un conjuro recitado por un coro de gatos confiere incluso más protección. Cuando el mal se alza y la seguridad del vecindario peligra, el Parlamento de Gatos está ahí, firme contra la oscuridad.\n \n Nos encontramos en Vado de Plata, un pequeño pueblo situado cerca de una mina de plata abandonada y que hoy vive del turismo. La noche anterior, en Halloween, unos niños entraron en la mina y despertaron por accidente a un\n antiguo mal que allí dormía. Ahora, los gatos del vecindario son los únicos que pueden proteger a sus humanos de lo que acecha en la oscuridad.\n \n EL SECRETO DE LOS GATOS.\n ¡AFILA TUS UÑAS Y PREPÁRATE\n PARA DEFENDER TU TERRITORIO!",
+
+      "Enabled": false,
+
+      "Needs": "Una mesa, al menos 5 sillas, lápices y gomas y la impresión de hojas de pj",
+
+      "LastModify": "2019-08-07T08:32:39.753"
+
+    },
+
+    {
+
+      "Id": 3,
+
+      "Organizer": "\r\nAlter Paradox",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Alter Paradox",
+
+      "Name": "Inicio del concurso de fotografía",
+
+      "ActivityDate": "2019-08-15T10:00:00",
+
+      "Place": "",
+
+      "Type": "Otros",
+
+      "Participants": "1-100",
+
+      "MaxParticipants": 100,
+
+      "Duration": 0,
+
+      "Summary": "Inicio del concurso de fotografía",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "",
+
+      "LastModify": "2019-08-07T08:32:39.737"
+
+    },
+
+    {
+
+      "Id": 2,
+
+      "Organizer": "\r\nAlter Paradox",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Alter Paradox",
+
+      "Name": "Inicio del concurso de relatos",
+
+      "ActivityDate": "2019-08-15T10:00:00",
+
+      "Place": "",
+
+      "Type": "Otros",
+
+      "Participants": "1-100",
+
+      "MaxParticipants": 100,
+
+      "Duration": 0,
+
+      "Summary": "Inicio del concurso de relatos",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "",
+
+      "LastModify": "2019-08-07T08:32:39.73"
+
+    },
+
+    {
+
+      "Id": 6,
+
+      "Organizer": "\r\nPedro Toledo",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "8 Terras",
+
+      "Name": "8 Terras: Conflictos Oktoversales",
+
+      "ActivityDate": "2019-08-15T10:30:00",
+
+      "Place": "Zona reservada",
+
+      "Type": "Rol de mesa",
+
+      "Participants": "1-8",
+
+      "MaxParticipants": 8,
+
+      "Duration": 210,
+
+      "Summary": "Las más diversas aventuras pueden ocurrir en el Oktoversum. Tú decides... ven y pruébalo",
+
+      "Comments": "Las más diversas aventuras pueden ocurrir en el Oktoversum.\n Juega con Romanos, Atlantes, Cruzados, Nazis, Marines (tu eliges) contra Terroristas, Vampiros, Organizaciones Secretas, Dragones, Imperios Alienígenas, Dioses (lo que te toque)... ¡Un módulo distinto y nuevo cada partida!\n \n Tú decides... ven y prueba 8 Terras de la mano de Pedro Toledo, creador del juego.\n \n Partidas continuadas de diversos y originales módulos de 8 TERRAS sin parar todo el finde.\n \n Actividad para mayores de 16 años. Se pueden hacer excepciones para grupos mixtos.",
+
+      "Enabled": false,
+
+      "Needs": "Mesa y sillas. Preferiblemente la misma para todo el fin de semana",
+
+      "LastModify": "2019-08-07T08:32:39.76"
+
+    },
+
+    {
+
+      "Id": 7,
+
+      "Organizer": "\r\nMike",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Alter Paradox",
+
+      "Name": "Apertura zona infantil y familiar",
+
+      "ActivityDate": "2019-08-15T11:00:00",
+
+      "Place": "Zona reservada",
+
+      "Type": "Otros",
+
+      "Participants": "1-20",
+
+      "MaxParticipants": 20,
+
+      "Duration": 180,
+
+      "Summary": "Zona de juegos y actividades para los mas pequeños",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "",
+
+      "LastModify": "2019-08-07T08:32:39.77"
+
+    },
+
+    {
+
+      "Id": 8,
+
+      "Organizer": "\r\nMike",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Alter Paradox",
+
+      "Name": "Cierre zona infantil y familiar",
+
+      "ActivityDate": "2019-08-15T14:00:00",
+
+      "Place": "Zona reservada",
+
+      "Type": "Otros",
+
+      "Participants": "1-20",
+
+      "MaxParticipants": 20,
+
+      "Duration": 180,
+
+      "Summary": "Zona de juegos y actividades para los mas pequeños",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "",
+
+      "LastModify": "2019-08-07T08:32:39.777"
+
+    },
+
+    {
+
+      "Id": 9,
+
+      "Organizer": "\r\nPedro Toledo",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "8 Terras",
+
+      "Name": "8 Terras: Conflictos Oktoversales",
+
+      "ActivityDate": "2019-08-15T16:00:00",
+
+      "Place": "Zona reservada",
+
+      "Type": "Rol de mesa",
+
+      "Participants": "1-8",
+
+      "MaxParticipants": 8,
+
+      "Duration": 240,
+
+      "Summary": "Las más diversas aventuras pueden ocurrir en el Oktoversum. Tú decides... ven y pruébalo",
+
+      "Comments": "Las más diversas aventuras pueden ocurrir en el Oktoversum.\n Juega con Romanos, Atlantes, Cruzados, Nazis, Marines (tu eliges) contra Terroristas, Vampiros, Organizaciones Secretas, Dragones, Imperios Alienígenas, Dioses (lo que te toque)... ¡Un módulo distinto y nuevo cada partida!\n \n Tú decides... ven y prueba 8 Terras de la mano de Pedro Toledo, creador del juego.\n \n Partidas continuadas de diversos y originales módulos de 8 TERRAS sin parar todo el finde.\n \n Actividad para mayores de 16 años. Se pueden hacer excepciones para grupos mixtos.",
+
+      "Enabled": false,
+
+      "Needs": "Mesa y sillas. Preferiblemente la misma para todo el fin de semana",
+
+      "LastModify": "2019-08-07T08:32:39.783"
+
+    },
+
+    {
+
+      "Id": 10,
+
+      "Organizer": "\r\nAritz",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Hezigamer",
+
+      "Name": "Del videojuego al juego de mesa",
+
+      "ActivityDate": "2019-08-15T16:00:00",
+
+      "Place": "Sala REV",
+
+      "Type": "Charla",
+
+      "Participants": "1-100",
+
+      "MaxParticipants": 100,
+
+      "Duration": 60,
+
+      "Summary": "Charla sobre la relación entre el juego de mesa y el videojuego",
+
+      "Comments": "La intención es hacer ver a los oyentes que el juego de mesa y el videojuego están relacionados. Que el juego de video esta basado en la exportacion de conceptos que se has usado previamente en juegos de mesa, rol playing etc. ¿Para que? para acompañar a la juventud a hacer el camino inverso. Muchos menores están expuestos a videojuegos, Pero no juega o no conocen el juego de mesa de manera profunda. Acompañémosles los y las adultas a volver a los juegos de mesa. Que puedan vibrar con el Bang en vez de el Fornite, o que tiren dados de Parchis como nunca lo han hecho.",
+
+      "Enabled": false,
+
+      "Needs": "Un espacio",
+
+      "LastModify": "2019-08-07T08:32:39.79"
+
+    },
+
+    {
+
+      "Id": 11,
+
+      "Organizer": "\r\nZaira Higuera",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Abaco",
+
+      "Name": "Taller de maquillaje FX",
+
+      "ActivityDate": "2019-08-15T16:30:00",
+
+      "Place": "Pabellon",
+
+      "Type": "Otros",
+
+      "Participants": "1-10",
+
+      "MaxParticipants": 10,
+
+      "Duration": 120,
+
+      "Summary": "Taller de maquillaje de efectos especiales",
+
+      "Comments": "Taller de maquillaje de efectos especiales",
+
+      "Enabled": false,
+
+      "Needs": "Mesa, sillas, microondas",
+
+      "LastModify": "2019-08-07T08:32:39.8"
+
+    },
+
+    {
+
+      "Id": 13,
+
+      "Organizer": "\r\nMike",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Alter Paradox",
+
+      "Name": "Apertura zona infantil y familiar",
+
+      "ActivityDate": "2019-08-15T17:00:00",
+
+      "Place": "Zona reservada",
+
+      "Type": "Otros",
+
+      "Participants": "1-20",
+
+      "MaxParticipants": 20,
+
+      "Duration": 180,
+
+      "Summary": "Zona de juegos y actividades para los mas pequeños",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "",
+
+      "LastModify": "2019-08-07T08:32:39.813"
+
+    },
+
+    {
+
+      "Id": 14,
+
+      "Organizer": "\r\nIván Pérez",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "New Age Learning y Alter Paradox",
+
+      "Name": "Demo Belfort",
+
+      "ActivityDate": "2019-08-15T17:00:00",
+
+      "Place": "Zona reservada",
+
+      "Type": "Juegos de mesa",
+
+      "Participants": "4-1",
+
+      "MaxParticipants": 5,
+
+      "Duration": 60,
+
+      "Summary": "Te enseñamos a jugar a Belfort",
+
+      "Comments": "Te enseñamos a jugar a Belfort",
+
+      "Enabled": false,
+
+      "Needs": "Zona de demos",
+
+      "LastModify": "2019-08-07T08:32:39.84"
+
+    },
+
+    {
+
+      "Id": 15,
+
+      "Organizer": "\r\nPanda",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Alter Paradox",
+
+      "Name": "Demo de Cancion de Hielo y Fuego",
+
+      "ActivityDate": "2019-08-15T17:00:00",
+
+      "Place": "Wargames",
+
+      "Type": "Wargames",
+
+      "Participants": "1-10",
+
+      "MaxParticipants": 10,
+
+      "Duration": 120,
+
+      "Summary": "Demostraciones del wargame de Cancion de Hielo y Fuego",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "",
+
+      "LastModify": "2019-08-07T08:32:39.85"
+
+    },
+
+    {
+
+      "Id": 16,
+
+      "Organizer": "\r\nCarlos Perez",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Alter Paradox",
+
+      "Name": "Demo de Infinity",
+
+      "ActivityDate": "2019-08-15T17:00:00",
+
+      "Place": "Wargames",
+
+      "Type": "Wargames",
+
+      "Participants": "1-10",
+
+      "MaxParticipants": 10,
+
+      "Duration": 120,
+
+      "Summary": "Demostraciones del wargame 'Infinity'",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "",
+
+      "LastModify": "2019-08-07T08:32:39.857"
+
+    },
+
+    {
+
+      "Id": 19,
+
+      "Organizer": "\r\nCarlos Pileño",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Txarly Factory",
+
+      "Name": "Demo Jumble Jam",
+
+      "ActivityDate": "2019-08-15T17:00:00",
+
+      "Place": "Pabellon",
+
+      "Type": "Juegos de mesa",
+
+      "Participants": "2-10",
+
+      "MaxParticipants": 10,
+
+      "Duration": 60,
+
+      "Summary": "Partidas demostrativas del juego de mesa Jumble Jam",
+
+      "Comments": "Partidas demostrativas del juego de mesa Jumble Jam",
+
+      "Enabled": false,
+
+      "Needs": "1-2 Mesas y sillas, preferiblemente junto al stand",
+
+      "LastModify": "2019-08-07T08:32:39.887"
+
+    },
+
+    {
+
+      "Id": 12,
+
+      "Organizer": "\r\nIván Pérez",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "New Age Learning y Alter Paradox",
+
+      "Name": "Demo novedades juegos de mesa",
+
+      "ActivityDate": "2019-08-15T17:00:00",
+
+      "Place": "Zona reservada",
+
+      "Type": "Juegos de mesa",
+
+      "Participants": "2-24",
+
+      "MaxParticipants": 24,
+
+      "Duration": 240,
+
+      "Summary": "Enseñamos a jugar novedades de juegos de mesa",
+
+      "Comments": "Un equipo de personas de la asociacion New Age Learning y Alter Paradox se encargaran de hacer demos y tutoriales guiados de novedades de juegos de Mesa (2018-2019) de varias de las entidades patrocinadoras de Umbras de Paradox 2019: 2 Tomatoes, Asmodee, Maldito Games, Tranjis Games y Zacatrus.",
+
+      "Enabled": false,
+
+      "Needs": "6 mesas y 20 sillas",
+
+      "LastModify": "2019-08-07T08:32:39.807"
+
+    },
+
+    {
+
+      "Id": 17,
+
+      "Organizer": "\r\nCayro Games",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Cayro Games",
+
+      "Name": "Demos de juegos de mesa",
+
+      "ActivityDate": "2019-08-15T17:00:00",
+
+      "Place": "Zona reservada",
+
+      "Type": "juegos de mesa",
+
+      "Participants": "1-8",
+
+      "MaxParticipants": 10,
+
+      "Duration": 240,
+
+      "Summary": "Demostraciones de juegos de mesa",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "",
+
+      "LastModify": "2019-08-07T08:32:39.87"
+
+    },
+
+    {
+
+      "Id": 20,
+
+      "Organizer": "\r\nGabriel Montero",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Abaco",
+
+      "Name": "Denboraren Kontseilaritza",
+
+      "ActivityDate": "2019-08-15T17:00:00",
+
+      "Place": "Sala RdM",
+
+      "Type": "Rol de mesa",
+
+      "Participants": "3-5",
+
+      "MaxParticipants": 5,
+
+      "Duration": 210,
+
+      "Summary": "Partida de rol en EUSKERA sobre la serie Ministerio del Tiempo.",
+
+      "Comments": "A cambio del apoyo del PNV en los Presupuestos Generales del Estado de 2017, el ministro del Interior se comprometió en secreto a traspasar al Gobierno Vasco la competencia de la seguridad temporal. Desde entonces la Consejería ha estado reclutando funcionarios con el perfil lingüístico 3, a través de OPEs secretas y de concursos de traslados desde el Ministerio del Tiempo.\n Partida de aventuras y comedia en sistema hitos basada en la serie Ministerio del Tiempo, con la que echar unas risas acerca del hecho diferencial vasco (como hacen Vaya Semanita y demás). Alérgenos: puede contener humor negro y sobre política\n \n La partida se jugará en euskera. Me disculpo de antemano por las patadas que le meteré al idioma, y se anima a cualquiera participar, a pesar de no dominar totalmente el idioma.",
+
+      "Enabled": false,
+
+      "Needs": "Mesa y 6 sillas. Si fuese en un lugar con poco ruido sería genial.",
+
+      "LastModify": "2019-08-07T08:32:39.897"
+
+    },
+
+    {
+
+      "Id": 18,
+
+      "Organizer": "\r\nJuan Miguel Sueiro",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Con Pluma y Pixel",
+
+      "Name": "Proyecto Qadesh: Peregrinos de la Isla de Caos",
+
+      "ActivityDate": "2019-08-15T17:00:00",
+
+      "Place": " en la que habrá un premio",
+
+      "Type": "Rol de mesa",
+
+      "Participants": "4-6",
+
+      "MaxParticipants": 6,
+
+      "Duration": 0,
+
+      "Summary": "Rol en mesa fantástico medieval de ambientación propia",
+
+      "Comments": "'Proyecto Qadesh' es el nombre clave del nuevo juego de rol en proceso de publicación por la editorial 'Con Pluma y Píxel'.\n 'Peregrinos de la Isla de Caos' es una partida original corta",
+
+      "Enabled": false,
+
+      "Needs": " diseñada y dirigida por el autor",
+
+      "LastModify": "2019-08-07T08:32:39.88"
+
+    },
+
+    {
+
+      "Id": 21,
+
+      "Organizer": "\r\nJuan Muerza",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "",
+
+      "Name": "Introducción a juegos de rol PBTA",
+
+      "ActivityDate": "2019-08-15T17:30:00",
+
+      "Place": "Sala REV",
+
+      "Type": "Charla",
+
+      "Participants": "1-100",
+
+      "MaxParticipants": 100,
+
+      "Duration": 90,
+
+      "Summary": "Introducción al mundo de los juegos pbta iniciados por el juego apocalipse world de Vincent Backer",
+
+      "Comments": "Si estas interasdo enn conocer el mundo de los juegos de rol PBTA y andas un poco perdiod este es tu lugar.\n Juegos como Apocalipse world, sombras urbanas, The sprawl, dungeon world, Brujas de la noche, Monsterheart 2, Blades in the dark, Wolrds in peril, The veil, La Lavantedría.\n \n Charla y resolución de dudas de esta linea de juegos salidos de las locas ideas de un foro para creadores de juegos de rol indie como es The Forge.",
+
+      "Enabled": false,
+
+      "Needs": "",
+
+      "LastModify": "2019-08-07T08:32:39.907"
+
+    },
+
+    {
+
+      "Id": 24,
+
+      "Organizer": "\r\nCarlos Perez",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Alter Paradox",
+
+      "Name": "Demo Aristeia!",
+
+      "ActivityDate": "2019-08-15T19:00:00",
+
+      "Place": "Wargames",
+
+      "Type": "Juegos de mesa",
+
+      "Participants": "1-10",
+
+      "MaxParticipants": 10,
+
+      "Duration": 120,
+
+      "Summary": "Demostraciones del juego 'Aristeia'",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "",
+
+      "LastModify": "2019-08-07T08:32:39.933"
+
+    },
+
+    {
+
+      "Id": 22,
+
+      "Organizer": "\r\nCarlos Pileño",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Txarly Factory",
+
+      "Name": "Demo Rising for the Throne",
+
+      "ActivityDate": "2019-08-15T19:00:00",
+
+      "Place": "Pabellon",
+
+      "Type": "Juegos de mesa",
+
+      "Participants": "2-10",
+
+      "MaxParticipants": 10,
+
+      "Duration": 60,
+
+      "Summary": "Partidas demostrativas del juego de mesa Rising for the Throne",
+
+      "Comments": "Partidas demostrativas del juego de mesa Rising for the Throne",
+
+      "Enabled": false,
+
+      "Needs": "1-2 Mesas y sillas, preferiblemente junto al stand",
+
+      "LastModify": "2019-08-07T08:32:39.913"
+
+    },
+
+    {
+
+      "Id": 23,
+
+      "Organizer": "\r\nPanda",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Alter Paradox",
+
+      "Name": "Demo The walking dead: All out war",
+
+      "ActivityDate": "2019-08-15T19:00:00",
+
+      "Place": "Wargames",
+
+      "Type": "Wargames",
+
+      "Participants": "1-10",
+
+      "MaxParticipants": 10,
+
+      "Duration": 60,
+
+      "Summary": "Demostraciones del wargame 'The walking dead: All out war'",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "",
+
+      "LastModify": "2019-08-07T08:32:39.923"
+
+    },
+
+    {
+
+      "Id": 25,
+
+      "Organizer": "\r\nXabi",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Alter Paradox",
+
+      "Name": "Pintxopote",
+
+      "ActivityDate": "2019-08-15T19:00:00",
+
+      "Place": "Exterior",
+
+      "Type": "Otros",
+
+      "Participants": "1-100",
+
+      "MaxParticipants": 100,
+
+      "Duration": 120,
+
+      "Summary": "Pintxo y pote",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "",
+
+      "LastModify": "2019-08-07T08:32:39.94"
+
+    },
+
+    {
+
+      "Id": 26,
+
+      "Organizer": "\r\nDavid Gonzalez",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Learn and Teach (L&T)",
+
+      "Name": "Masterear: Muchos problemas y algunas (pocas) soluciones",
+
+      "ActivityDate": "2019-08-15T19:30:00",
+
+      "Place": "Sala REV",
+
+      "Type": "Charla",
+
+      "Participants": "1-100",
+
+      "MaxParticipants": 100,
+
+      "Duration": 60,
+
+      "Summary": "Charla-coloquio sobre el mastereo de rol de mesa y vivo",
+
+      "Comments": "Nadie te enseña a masterear. Al menos a mi, nadie lo hizo. Vas aprendiendo sistemas, trucos y coges practica, y aunque nadie te enseña, aprendes.\n Hemos recopilado para esta charla algunos de los problemas habituales en partidas de rol, tanto de trama y sistema como de interacciones sociales. Presentaremos algunos trucos que hemos descubierto y probado, y dejaremos un largo turno de debate después, para seguir aprendiendo entre todos.",
+
+      "Enabled": false,
+
+      "Needs": "Sillas para los asistentes y a ser posible un taco de papeles y lápices por si hay preguntas anónimas. Tambien nos gustaría imprimir y recortar un par de materiales (blanco y negro, no más de 10 hojas).",
+
+      "LastModify": "2019-08-07T08:32:39.95"
+
+    },
+
+    {
+
+      "Id": 27,
+
+      "Organizer": "\r\nMike",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Alter Paradox",
+
+      "Name": "Cierre zona infantil y familiar",
+
+      "ActivityDate": "2019-08-15T20:00:00",
+
+      "Place": "Zona reservada",
+
+      "Type": "Otros",
+
+      "Participants": "1-20",
+
+      "MaxParticipants": 20,
+
+      "Duration": 180,
+
+      "Summary": "Zona de juegos y actividades para los mas pequeños",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "",
+
+      "LastModify": "2019-08-07T08:32:39.96"
+
+    },
+
+    {
+
+      "Id": 30,
+
+      "Organizer": "\r\nPedro Toledo",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "8 Terras",
+
+      "Name": "8 Terras: Conflictos Oktoversales",
+
+      "ActivityDate": "2019-08-15T22:00:00",
+
+      "Place": "Zona reservada",
+
+      "Type": "Rol de mesa",
+
+      "Participants": "1-8",
+
+      "MaxParticipants": 8,
+
+      "Duration": 240,
+
+      "Summary": "Las más diversas aventuras pueden ocurrir en el Oktoversum. Tú decides... ven y pruébalo",
+
+      "Comments": "Las más diversas aventuras pueden ocurrir en el Oktoversum.\n Juega con Romanos, Atlantes, Cruzados, Nazis, Marines (tu eliges) contra Terroristas, Vampiros, Organizaciones Secretas, Dragones, Imperios Alienígenas, Dioses (lo que te toque)... ¡Un módulo distinto y nuevo cada partida!\n \n Tú decides... ven y prueba 8 Terras de la mano de Pedro Toledo, creador del juego.\n \n Partidas continuadas de diversos y originales módulos de 8 TERRAS sin parar todo el finde.\n \n Actividad para mayores de 16 años. Se pueden hacer excepciones para grupos mixtos.",
+
+      "Enabled": false,
+
+      "Needs": "Mesa y sillas. Preferiblemente la misma para todo el fin de semana",
+
+      "LastModify": "2019-08-07T08:32:39.983"
+
+    },
+
+    {
+
+      "Id": 29,
+
+      "Organizer": "\r\nAbraham Rivero",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Vortice",
+
+      "Name": "Londres: Sangre y Niebla",
+
+      "ActivityDate": "2019-08-15T22:00:00",
+
+      "Place": "Escalera",
+
+      "Type": "REV",
+
+      "Participants": "12-16",
+
+      "MaxParticipants": 16,
+
+      "Duration": 240,
+
+      "Summary": "Londres: Niebla y Sangre” es una partida de rol en vivo con fuertes trazas históricas, ambientada en los horrendos asesinatos de “Jack el Destripador",
+
+      "Comments": "“Londres: Niebla y Sangre” es una partida de rol en vivo del Grupo Telaraña, con fuertes trazas históricas, ambientada en los horrendos asesinatos de “Jack el Destripador”, tipo “Cluedo”. Los jugadores toman los papeles de los principales personajes implicados en los misteriosos crímenes acontecidos en el Londres de 1888 en el distrito de Whitechapel ... en una fiesta de la alta burguesía y nobleza londinense en casa de Sra. Amanda Crawford, y que realmente ocurrió en esas fechas y a la que asistieron algunos personajes muy señalados por la historia.\n Intrigas, misterio, mezclas de multitud de intereses, actividad sobrenatural... Muchos de los jugadores tienen cosas que ocultar que puede que sean tan graves o más como el rastro de cadáveres que se ha sembrado en la ciudad. Nobles y plebeyos, políticos y gente de bien, todos pueden estar en peligro en esta fría y tenebrosa noche de Londres...",
+
+      "Enabled": false,
+
+      "Needs": "3 salas",
+
+      "LastModify": "2019-08-07T08:32:39.977"
+
+    },
+
+    {
+
+      "Id": 28,
+
+      "Organizer": "\r\nAtidamana Garcia",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Darkcastle",
+
+      "Name": "Torneo de sabacc",
+
+      "ActivityDate": "2019-08-15T22:00:00",
+
+      "Place": "Sala REV",
+
+      "Type": "REV",
+
+      "Participants": "10-11",
+
+      "MaxParticipants": 11,
+
+      "Duration": 210,
+
+      "Summary": "El gran torneo de sabacc de Ord Mantell reúne a los mejores jugadores, tahúres, pilotos, ricachones y empresarios de toda la galaxia. Se trata de un rev ambientado en el universo de star wars, en el período del kotor ( caballeros de la antigua República)",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "Mínimo dos mesas y sillas para todos. Si tenéis altavoces que prestar genial!",
+
+      "LastModify": "2019-08-07T08:32:39.967"
+
+    },
+
+    {
+
+      "Id": 31,
+
+      "Organizer": "\r\nJon Heras",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "",
+
+      "Name": "Vacio espacial",
+
+      "ActivityDate": "2019-08-15T22:30:00",
+
+      "Place": "Sala RdM",
+
+      "Type": "Rol de mesa",
+
+      "Participants": "3-6",
+
+      "MaxParticipants": 6,
+
+      "Duration": 240,
+
+      "Summary": "Partida de rol con sistema de fragmentos (Hitos simplificado)",
+
+      "Comments": "Con necesidad de reparaciones y un buen descanso la tripulación del Lediatan se dirige a la estación espacial del cinturón de asteroides Severn VII. Un extraño mensaje de alerta les hará dudar de si realmente están de descanso o si deberán hacer frente al inmenso vacío del espacio.\n Partida de rol de terror (soft), con sendos tintes de película de serie B americana",
+
+      "Enabled": false,
+
+      "Needs": "Una mesa, siete sillas y unos pocos lapices y goma",
+
+      "LastModify": "2019-08-07T08:32:40.01"
+
+    },
+
+    {
+
+      "Id": 32,
+
+      "Organizer": "\r\nIñigo Arrieta",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Atlas",
+
+      "Name": "Rol - Cuatro ratas",
+
+      "ActivityDate": "2019-08-15T23:00:00",
+
+      "Place": "Sala RdM",
+
+      "Type": "Rol de mesa",
+
+      "Participants": "4",
+
+      "MaxParticipants": 4,
+
+      "Duration": 150,
+
+      "Summary": "Rol de mesa para cuatro personas, interpretativo, sistema propio",
+
+      "Comments": "Cathia, con eso de ser una de las metrópolis más grandes de por ahí, no es un mal sitio para vivir (incluso si tu casa es un zulo que compartes con otras tres personas). Se dice que, si algo existe, se puede comprar en sus mercados; pero para eso hay que tener el bolsillo lleno. El bolsillo vacío nos lleva al quid de la cuestión: no tenéis un duro, para variar.\n Las bulliciosas calles llenas de gente pueden ser un peñazo a ratos, pero os permite robarle la bolsa de monedas a gente que, en fin. ¿Les habéis visto la caras de superioridad con la que miran al resto? Pues eso.\n Pero de calderilla no se puede vivir eternamente. Ha llegado la hora de dar el golpe definitivo, ese que hará que podáis dejar las calles. Os ha llegado información jugosa sobre una piedra preciosa aún más jugosa que no podéis dejar pasar. El problema es que, para agarrarla y largarse con ella, hay que bajar a los desagües y galerías que frecuenta el submundo criminal. Ese del que se supone que sois parte, vaya. No suena ideal, pero es lo que es.\n \n Sois cuatro cabezas pensantes (unas un poquito más pensantes que otras, pero bueno), así que todo saldrá bien, ¿verdad? ¡¿Verdad?!\n \n Rol de mesa para 4 personas jugadoras.\n Personajes perfilados con margen a personalización.\n Rol de carácter interpretativo, de sistema ligero (propio).\n Partida llevada por 2 personas (Iñigo y Nahikari).\n 2 horas y media aproximadamente",
+
+      "Enabled": false,
+
+      "Needs": "Mesa y sillas",
+
+      "LastModify": "2019-08-07T08:32:40.017"
+
+    },
+
+    {
+
+      "Id": 33,
+
+      "Organizer": "\r\nIvan Gonzalez",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "",
+
+      "Name": "DANCÚ. Las crónicas de Lissandria",
+
+      "ActivityDate": "2019-08-16T10:00:00",
+
+      "Place": "Zona reservada",
+
+      "Type": "Rol de mesa",
+
+      "Participants": "1-5",
+
+      "MaxParticipants": 5,
+
+      "Duration": 240,
+
+      "Summary": "Partida a Dancú, juego de rol de fantasía épica. EL HUARGO / EL SINO DE EGEASAH",
+
+      "Comments": "Dancú es el nuevo juego de fantasía épica, con cierto aroma a veja escuela, de Suseya Ediciones. Su trama principal gira alrededor de una legendaria armadura que tiempo atrás casi provoca la destrucción del mundo y que tuvo como consecuencia la apertura de portales dimensionales por donde llegaron numerosas y nuevas civilizaciones. Sin embargo, aunque esa sea la trama principal, Dancú ofrece una infinidad de trasfondos de todo tipo que hace posible que tanto directores y directoras como jugadores y jugadoras puedan vivir aventuras de muy diversa naturaleza.\n Y precisamente es aquí donde se encuentra el principal valor de este juego de rol. En la narrativa informativa y de trasfondo que ofrece en comparación con otros juegos de temática similar. Estamos ante un universo que describe con todo lujo de detalles: reinos, imperios, territorios, soberanías, personajes singulares, eventos, lugares de interés, historietas del mundo, rumores, criaturas, la magia y su Dogmas, subtramas.... y un largo etcétera para conformar un universo rico y diverso. Además, en él podréis encontrar referencias cinematográficas, roleras y frikis que harán las delicias de los roleros y roleras que se animen con Dancú.\n \n PARTIDAS. Habrá dos aventuras para elegir:\n \n 1. EL HUARGO. El grupo de aventureros y aventureras se encuentra en la ciudad enjaulada de Zortia, desde donde son enviados a investigar un incidente en las Tierras Nómadas. Cuando llegan al lugar, se encuentran con una dantesca escena bañada en sangre y crueldad. El único rastro de vida proviene de un desesperado llanto tras unas rocas. Un llanto que convertirá lo que parecía un simple ataque a una caravana de viajeros, en una trepidante aventura llena de tramas ocultas y misterios por resolver. Los personajes tendrán que enfrentarse a una decisión que marcará el resto de sus días…\n \n 2. EL SINO DE EGEASAH. Se trata de la aventura publicada en el Kit de Inicio de Dancú. Los jugadores acuden a uno de los múltiples torneos de lucha de la ciudad de Kabúr. Sin embargo, una vez allí, se darán cuenta que su visita responde a un propósito mucho mayor que les obligará a tomar las decisiones más importantes y peligrosas de su vida. Convirtiéndose así, quizás, en los elegidos de una remota profecía.",
+
+      "Enabled": false,
+
+      "Needs": "1 mesa y 5 sillas",
+
+      "LastModify": "2019-08-07T08:32:40.023"
+
+    },
+
+    {
+
+      "Id": 37,
+
+      "Organizer": "\r\nCayro Games",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Cayro Games",
+
+      "Name": "Demos de juegos de mesa",
+
+      "ActivityDate": "2019-08-16T10:00:00",
+
+      "Place": "Zona reservada",
+
+      "Type": "juegos de mesa",
+
+      "Participants": "1-8",
+
+      "MaxParticipants": 10,
+
+      "Duration": 240,
+
+      "Summary": "Demostraciones de juegos de mesa",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "",
+
+      "LastModify": "2019-08-07T08:32:40.057"
+
+    },
+
+    {
+
+      "Id": 34,
+
+      "Organizer": "\r\nAndres",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Abaco",
+
+      "Name": "Las aventuras del capitán Lars",
+
+      "ActivityDate": "2019-08-16T10:00:00",
+
+      "Place": "Sala RdM",
+
+      "Type": "Rol de mesa",
+
+      "Participants": "3-5",
+
+      "MaxParticipants": 5,
+
+      "Duration": 180,
+
+      "Summary": "Partida de rol de Steven universe",
+
+      "Comments": "El capitan Lars y su tripulación se enfrentan a increibles aventuras en el espacio. Únete!",
+
+      "Enabled": false,
+
+      "Needs": "mesa y sillas",
+
+      "LastModify": "2019-08-07T08:32:40.033"
+
+    },
+
+    {
+
+      "Id": 35,
+
+      "Organizer": "\r\nEduardo Moler",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Runa G.C",
+
+      "Name": "Realidad Virtual",
+
+      "ActivityDate": "2019-08-16T10:00:00",
+
+      "Place": "Pabellon",
+
+      "Type": "Otros",
+
+      "Participants": "1-48",
+
+      "MaxParticipants": 48,
+
+      "Duration": 0,
+
+      "Summary": "Juegos y experiencias de Realidad Virtual",
+
+      "Comments": "Con motivo de la próxima apertura del nuevo Gaming Centre de Pamplona, queremos acercar la realidad virtual a todos aquellos que no tienen en casa y quieren probarla.\n Habrá una pequeña selección de juegos y experiencias para que la gente elija la que prefiera. Por motivos de tiempo y que no puede estar más de una persona a la vez, se harán cada día 24 turnos de media hora cada uno",
+
+      "Enabled": false,
+
+      "Needs": "Una mesa cercana a un enchufe (importante) 5 sillas, un enchufe libre para conectar la tv y los aparatos.",
+
+      "LastModify": "2019-08-07T08:32:40.04"
+
+    },
+
+    {
+
+      "Id": 36,
+
+      "Organizer": "\r\nJosue Lopez",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Aventum Dinamizacion",
+
+      "Name": "Torneo de Carcassonne",
+
+      "ActivityDate": "2019-08-16T10:00:00",
+
+      "Place": "Pabellon",
+
+      "Type": "Torneo",
+
+      "Participants": "8-20",
+
+      "MaxParticipants": 20,
+
+      "Duration": 180,
+
+      "Summary": "Torneo de Carcassonne, dos rondas y final.",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "5 mesas con 4 sillas",
+
+      "LastModify": "2019-08-07T08:32:40.047"
+
+    },
+
+    {
+
+      "Id": 40,
+
+      "Organizer": "\r\nPedro Toledo",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "8 Terras",
+
+      "Name": "8 Terras: Conflictos Oktoversales",
+
+      "ActivityDate": "2019-08-16T10:30:00",
+
+      "Place": "Zona reservada",
+
+      "Type": "Rol de mesa",
+
+      "Participants": "1-8",
+
+      "MaxParticipants": 8,
+
+      "Duration": 210,
+
+      "Summary": "Las más diversas aventuras pueden ocurrir en el Oktoversum. Tú decides... ven y pruébalo",
+
+      "Comments": "Las más diversas aventuras pueden ocurrir en el Oktoversum.\n Juega con Romanos, Atlantes, Cruzados, Nazis, Marines (tu eliges) contra Terroristas, Vampiros, Organizaciones Secretas, Dragones, Imperios Alienígenas, Dioses (lo que te toque)... ¡Un módulo distinto y nuevo cada partida!\n \n Tú decides... ven y prueba 8 Terras de la mano de Pedro Toledo, creador del juego.\n \n Partidas continuadas de diversos y originales módulos de 8 TERRAS sin parar todo el finde.\n \n Actividad para mayores de 16 años. Se pueden hacer excepciones para grupos mixtos.",
+
+      "Enabled": false,
+
+      "Needs": "Mesa y sillas. Preferiblemente la misma para todo el fin de semana",
+
+      "LastModify": "2019-08-07T08:32:40.08"
+
+    },
+
+    {
+
+      "Id": 38,
+
+      "Organizer": "\r\nIon Calafel",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "",
+
+      "Name": "La colección Tortuga del Mississippi",
+
+      "ActivityDate": "2019-08-16T10:30:00",
+
+      "Place": "Sala REV",
+
+      "Type": "REV",
+
+      "Participants": "16",
+
+      "MaxParticipants": 16,
+
+      "Duration": 180,
+
+      "Summary": "La famosa colección india conocida como Tortuga del Mississippi va a ser donada a un museo. ¿Cuál será el afortunado?",
+
+      "Comments": "La famosa colección india conocida como Tortuga del Mississippi va a ser donada a un museo. La familia que ha sido dueña de estas piezas de origen indio norteamericano durante varias generaciones, pero repentinamente el cabeza de familia ha decidido donarlos para que puedan ser disfrutadas por el público. Varias instituciones de han interesado por estas extrañas piezas, cubiertas de misticismo e historias de extraños poderes. ¿Cuál de ellas conseguirá hacerse con el preciado botín?\n Rol en vivo de negociación donde no todo es lo que parece.",
+
+      "Enabled": false,
+
+      "Needs": "",
+
+      "LastModify": "2019-08-07T08:32:40.063"
+
+    },
+
+    {
+
+      "Id": 39,
+
+      "Organizer": "\r\nJuan Miguel Sueiro",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Con Pluma y Pixel",
+
+      "Name": "Proyecto Qadesh: Peregrinos de la Isla de Caos",
+
+      "ActivityDate": "2019-08-16T10:30:00",
+
+      "Place": " en la que habrá un premio",
+
+      "Type": "Rol de mesa",
+
+      "Participants": "4-6",
+
+      "MaxParticipants": 6,
+
+      "Duration": 0,
+
+      "Summary": "Rol en mesa fantástico medieval de ambientación propia",
+
+      "Comments": "'Proyecto Qadesh' es el nombre clave del nuevo juego de rol en proceso de publicación por la editorial 'Con Pluma y Píxel'.\n 'Peregrinos de la Isla de Caos' es una partida original corta",
+
+      "Enabled": false,
+
+      "Needs": " diseñada y dirigida por el autor",
+
+      "LastModify": "2019-08-07T08:32:40.07"
+
+    },
+
+    {
+
+      "Id": 41,
+
+      "Organizer": "\r\nMike",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Alter Paradox",
+
+      "Name": "Apertura zona infantil y familiar",
+
+      "ActivityDate": "2019-08-16T11:00:00",
+
+      "Place": "Zona reservada",
+
+      "Type": "Otros",
+
+      "Participants": "1-20",
+
+      "MaxParticipants": 20,
+
+      "Duration": 180,
+
+      "Summary": "Zona de juegos y actividades para los mas pequeños",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "",
+
+      "LastModify": "2019-08-07T08:32:40.087"
+
+    },
+
+    {
+
+      "Id": 46,
+
+      "Organizer": "\r\nGuillermo Matia",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "",
+
+      "Name": "Demo Memoir 44",
+
+      "ActivityDate": "2019-08-16T11:00:00",
+
+      "Place": "Wargames",
+
+      "Type": "Wargames",
+
+      "Participants": "1-2",
+
+      "MaxParticipants": 2,
+
+      "Duration": 180,
+
+      "Summary": "Memoir 44; un juego para introducirse a los wargames desde la juventud. Juega en partidas de 2 según disponibilidad. Te enseñaremos como se juega.",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "",
+
+      "LastModify": "2019-08-07T08:32:40.13"
+
+    },
+
+    {
+
+      "Id": 44,
+
+      "Organizer": "\r\nFrancisco Tapia",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Con Pluma y Pixel",
+
+      "Name": "Demo Rescate en Remsis VII (space opera)",
+
+      "ActivityDate": "2019-08-16T11:00:00",
+
+      "Place": "Stand de 'Con pluma y pixel'",
+
+      "Type": "Juegos de mesa",
+
+      "Participants": "1-6",
+
+      "MaxParticipants": 6,
+
+      "Duration": 60,
+
+      "Summary": "Demo jugable del librojuego 'Rescate en Remsis VII', a cargo de su autor",
+
+      "Comments": "¡Viaja con nosotros y explora la galaxia! Salta a hiperespacio, visita mundos exóticos y conoce a misteriosos alienígenas en una aventura en la que disfrutarás de la emocionante vida de un mercenario espacial. ¡Los mundos de la Federación de Sistemas Terraformados te esperan!\n Francisco Tapia-Fuentes, educador de tiempo libre, gamificador, editor de Con Pluma y Píxel y escritor (Mundos Fantásticos, Hijos de la destrucción, Lucha Final, Sombras Demoniacas) presenta una demo jugable de los librojuegos de “La saga del Merc”, con una alucinante aventura cooperativa de ciencia ficción basada en el universo de “Rescate en Remsis VII”.",
+
+      "Enabled": false,
+
+      "Needs": "Sillas. Lo haran en el propio stand de con pluma y pixel",
+
+      "LastModify": "2019-08-07T08:32:40.113"
+
+    },
+
+    {
+
+      "Id": 42,
+
+      "Organizer": "\r\nCarlos Miguelez",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Games Workshop",
+
+      "Name": "Taller de montaje y pintura de Warhammer Age of Sigmar",
+
+      "ActivityDate": "2019-08-16T11:00:00",
+
+      "Place": "Wargames",
+
+      "Type": "Wargames",
+
+      "Participants": "10",
+
+      "MaxParticipants": 10,
+
+      "Duration": 75,
+
+      "Summary": "Taller de montaje y pintura de Warhammer Age of Sigmar",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "2 mesas",
+
+      "LastModify": "2019-08-07T08:32:40.097"
+
+    },
+
+    {
+
+      "Id": 43,
+
+      "Organizer": "\r\nLedia",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Tarasu",
+
+      "Name": "Taller de origami/papiroflexia",
+
+      "ActivityDate": "2019-08-16T11:00:00",
+
+      "Place": "Pabellon",
+
+      "Type": "Otros",
+
+      "Participants": "1-8",
+
+      "MaxParticipants": 8,
+
+      "Duration": 90,
+
+      "Summary": "Doblar hojas de papel de forma guiada hasta lograr una figura",
+
+      "Comments": "Doblar hojas de papel de forma guiada hasta lograr una figura",
+
+      "Enabled": false,
+
+      "Needs": "Mesa y sillas",
+
+      "LastModify": "2019-08-07T08:32:40.103"
+
+    },
+
+    {
+
+      "Id": 45,
+
+      "Organizer": "\r\nJon Heras",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "",
+
+      "Name": "Torneo de softcombat",
+
+      "ActivityDate": "2019-08-16T11:00:00",
+
+      "Place": "Exterior",
+
+      "Type": "Torneo",
+
+      "Participants": "8-64",
+
+      "MaxParticipants": 64,
+
+      "Duration": 90,
+
+      "Summary": "Competición 1v1 con espadas de gomaespuma",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "nada, se realizará junto al aparcamiento",
+
+      "LastModify": "2019-08-07T08:32:40.12"
+
+    },
+
+    {
+
+      "Id": 47,
+
+      "Organizer": "\r\nMike",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Alter Paradox",
+
+      "Name": "Infantil. Mocos alien.",
+
+      "ActivityDate": "2019-08-16T11:30:00",
+
+      "Place": "Zona reservada",
+
+      "Type": "Otros",
+
+      "Participants": "1-20",
+
+      "MaxParticipants": 20,
+
+      "Duration": 180,
+
+      "Summary": "Zona de juegos y actividades para los mas pequeños",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "",
+
+      "LastModify": "2019-08-07T08:32:40.137"
+
+    },
+
+    {
+
+      "Id": 48,
+
+      "Organizer": "\r\nAritz Cintora Martin",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Learn and Teach (L&T)",
+
+      "Name": "Flick'em up",
+
+      "ActivityDate": "2019-08-16T12:00:00",
+
+      "Place": "Pabellon",
+
+      "Type": "Juegos de mesa",
+
+      "Participants": "2-10",
+
+      "MaxParticipants": 10,
+
+      "Duration": 120,
+
+      "Summary": "Demostración del juego de mesa Flick'em Up. El oeste es un lugar duro, sobre todo si eres de cartón y mides 5cm.",
+
+      "Comments": "Embárcate en una partida llena de duelos, forajidos y balas perdidas, donde a veces es más fácil disparar que dar un paso.",
+
+      "Enabled": false,
+
+      "Needs": "Mesa y sillas",
+
+      "LastModify": "2019-08-07T08:32:40.143"
+
+    },
+
+    {
+
+      "Id": 49,
+
+      "Organizer": "\r\nCarlos Miguelez",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Games Workshop",
+
+      "Name": "Demo Warhammer Age of Sigmar",
+
+      "ActivityDate": "2019-08-16T12:30:00",
+
+      "Place": "Wargames",
+
+      "Type": "Wargames",
+
+      "Participants": "10",
+
+      "MaxParticipants": 10,
+
+      "Duration": 75,
+
+      "Summary": "Aprende a jugar a Warhammer Age of Sigmar",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "2 mesas",
+
+      "LastModify": "2019-08-07T08:32:40.15"
+
+    },
+
+    {
+
+      "Id": 50,
+
+      "Organizer": "\r\nMike",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Alter Paradox",
+
+      "Name": "Cierre zona infantil y familiar",
+
+      "ActivityDate": "2019-08-16T14:00:00",
+
+      "Place": "Zona reservada",
+
+      "Type": "Otros",
+
+      "Participants": "1-20",
+
+      "MaxParticipants": 20,
+
+      "Duration": 180,
+
+      "Summary": "Zona de juegos y actividades para los mas pequeños",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "",
+
+      "LastModify": "2019-08-07T08:32:40.157"
+
+    },
+
+    {
+
+      "Id": 52,
+
+      "Organizer": "\r\nPedro Toledo",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "8 Terras",
+
+      "Name": "8 Terras: Conflictos Oktoversales",
+
+      "ActivityDate": "2019-08-16T16:00:00",
+
+      "Place": "Zona reservada",
+
+      "Type": "Rol de mesa",
+
+      "Participants": "1-8",
+
+      "MaxParticipants": 8,
+
+      "Duration": 240,
+
+      "Summary": "Las más diversas aventuras pueden ocurrir en el Oktoversum. Tú decides... ven y pruébalo",
+
+      "Comments": "Las más diversas aventuras pueden ocurrir en el Oktoversum.\n Juega con Romanos, Atlantes, Cruzados, Nazis, Marines (tu eliges) contra Terroristas, Vampiros, Organizaciones Secretas, Dragones, Imperios Alienígenas, Dioses (lo que te toque)... ¡Un módulo distinto y nuevo cada partida!\n \n Tú decides... ven y prueba 8 Terras de la mano de Pedro Toledo, creador del juego.\n \n Partidas continuadas de diversos y originales módulos de 8 TERRAS sin parar todo el finde.\n \n Actividad para mayores de 16 años. Se pueden hacer excepciones para grupos mixtos.",
+
+      "Enabled": false,
+
+      "Needs": "Mesa y sillas. Preferiblemente la misma para todo el fin de semana",
+
+      "LastModify": "2019-08-07T08:32:40.173"
+
+    },
+
+    {
+
+      "Id": 51,
+
+      "Organizer": "\r\nIvan Gonzalez",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "",
+
+      "Name": "DANCÚ. Las crónicas de Lissandria",
+
+      "ActivityDate": "2019-08-16T16:00:00",
+
+      "Place": "Zona reservada",
+
+      "Type": "Rol de mesa",
+
+      "Participants": "1-5",
+
+      "MaxParticipants": 5,
+
+      "Duration": 240,
+
+      "Summary": "Partida a Dancú, juego de rol de fantasía épica. EL HUARGO / EL SINO DE EGEASAH",
+
+      "Comments": "Dancú es el nuevo juego de fantasía épica, con cierto aroma a veja escuela, de Suseya Ediciones. Su trama principal gira alrededor de una legendaria armadura que tiempo atrás casi provoca la destrucción del mundo y que tuvo como consecuencia la apertura de portales dimensionales por donde llegaron numerosas y nuevas civilizaciones. Sin embargo, aunque esa sea la trama principal, Dancú ofrece una infinidad de trasfondos de todo tipo que hace posible que tanto directores y directoras como jugadores y jugadoras puedan vivir aventuras de muy diversa naturaleza.\n Y precisamente es aquí donde se encuentra el principal valor de este juego de rol. En la narrativa informativa y de trasfondo que ofrece en comparación con otros juegos de temática similar. Estamos ante un universo que describe con todo lujo de detalles: reinos, imperios, territorios, soberanías, personajes singulares, eventos, lugares de interés, historietas del mundo, rumores, criaturas, la magia y su Dogmas, subtramas.... y un largo etcétera para conformar un universo rico y diverso. Además, en él podréis encontrar referencias cinematográficas, roleras y frikis que harán las delicias de los roleros y roleras que se animen con Dancú.\n \n PARTIDAS. Habrá dos aventuras para elegir:\n \n 1. EL HUARGO. El grupo de aventureros y aventureras se encuentra en la ciudad enjaulada de Zortia, desde donde son enviados a investigar un incidente en las Tierras Nómadas. Cuando llegan al lugar, se encuentran con una dantesca escena bañada en sangre y crueldad. El único rastro de vida proviene de un desesperado llanto tras unas rocas. Un llanto que convertirá lo que parecía un simple ataque a una caravana de viajeros, en una trepidante aventura llena de tramas ocultas y misterios por resolver. Los personajes tendrán que enfrentarse a una decisión que marcará el resto de sus días…\n \n 2. EL SINO DE EGEASAH. Se trata de la aventura publicada en el Kit de Inicio de Dancú. Los jugadores acuden a uno de los múltiples torneos de lucha de la ciudad de Kabúr. Sin embargo, una vez allí, se darán cuenta que su visita responde a un propósito mucho mayor que les obligará a tomar las decisiones más importantes y peligrosas de su vida. Convirtiéndose así, quizás, en los elegidos de una remota profecía.",
+
+      "Enabled": false,
+
+      "Needs": "1 mesa y 5 sillas",
+
+      "LastModify": "2019-08-07T08:32:40.163"
+
+    },
+
+    {
+
+      "Id": 53,
+
+      "Organizer": "\r\nAlvaro Aragoneses",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "",
+
+      "Name": "Vieja Escuela: JDR (Fantasía Urbana o Nuestro Último Verano)",
+
+      "ActivityDate": "2019-08-16T16:00:00",
+
+      "Place": "Sala RdM",
+
+      "Type": "Rol de mesa",
+
+      "Participants": "3-5",
+
+      "MaxParticipants": 5,
+
+      "Duration": 300,
+
+      "Summary": "One-Shot del juego de rol Vieja Escuela",
+
+      "Comments": "Vieja Escuela es un juego de rol minimalista que busca recuperar las sensaciones de jugar a los juegos de rol de antaño, pero sin la absurda cantidad de reglas que había (y que sigue habiendo en algunos juegos)\n Se jugará o bien en una ambientación de fantasía urbana, un universo inspirado en el decadente mundo actual con la presencia de Vampiros, Hombres Lobo, Magos y otras criaturas sobrenaturales (en fase beta) o bien a Nuestro Último Verano, una versión inspirada en los clásicos de los 80 como Los Goonies o E.T.",
+
+      "Enabled": false,
+
+      "Needs": "Una mesa, seis sillas, folios, lápices y gomas de borrar.",
+
+      "LastModify": "2019-08-07T08:32:40.18"
+
+    },
+
+    {
+
+      "Id": 55,
+
+      "Organizer": "\r\nMike",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Alter Paradox",
+
+      "Name": "Apertura zona infantil y familiar",
+
+      "ActivityDate": "2019-08-16T17:00:00",
+
+      "Place": "Zona reservada",
+
+      "Type": "Otros",
+
+      "Participants": "1-20",
+
+      "MaxParticipants": 20,
+
+      "Duration": 180,
+
+      "Summary": "Zona de juegos y actividades para los mas pequeños",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "",
+
+      "LastModify": "2019-08-07T08:32:40.197"
+
+    },
+
+    {
+
+      "Id": 58,
+
+      "Organizer": "\r\nPanda",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Alter Paradox",
+
+      "Name": "Demo Cancion de Hielo y Fuego",
+
+      "ActivityDate": "2019-08-16T17:00:00",
+
+      "Place": "Wargames",
+
+      "Type": "Wargames",
+
+      "Participants": "1-10",
+
+      "MaxParticipants": 10,
+
+      "Duration": 120,
+
+      "Summary": "Demostraciones del wargame de Cancion de Hielo y Fuego",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "",
+
+      "LastModify": "2019-08-07T08:32:40.22"
+
+    },
+
+    {
+
+      "Id": 56,
+
+      "Organizer": "\r\nIván Pérez",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "New Age Learning y Alter Paradox",
+
+      "Name": "Demo Gold West",
+
+      "ActivityDate": "2019-08-16T17:00:00",
+
+      "Place": "Zona reservada",
+
+      "Type": "Juegos de mesa",
+
+      "Participants": "4",
+
+      "MaxParticipants": 4,
+
+      "Duration": 60,
+
+      "Summary": "Te enseñamos a jugar a Gold West",
+
+      "Comments": "Te enseñamos a jugar a Gold West",
+
+      "Enabled": false,
+
+      "Needs": "Zona de demo",
+
+      "LastModify": "2019-08-07T08:32:40.203"
+
+    },
+
+    {
+
+      "Id": 59,
+
+      "Organizer": "\r\nCarlos Perez",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Alter Paradox",
+
+      "Name": "Demo Infinity",
+
+      "ActivityDate": "2019-08-16T17:00:00",
+
+      "Place": "Wargames",
+
+      "Type": "Wargames",
+
+      "Participants": "1-10",
+
+      "MaxParticipants": 10,
+
+      "Duration": 120,
+
+      "Summary": "Demostraciones del wargame 'Infinity'",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "",
+
+      "LastModify": "2019-08-07T08:32:40.23"
+
+    },
+
+    {
+
+      "Id": 63,
+
+      "Organizer": "\r\nCarlos Pileño",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Txarly Factory",
+
+      "Name": "Demo Jumble Jam",
+
+      "ActivityDate": "2019-08-16T17:00:00",
+
+      "Place": "Pabellon",
+
+      "Type": "Juegos de mesa",
+
+      "Participants": "2-10",
+
+      "MaxParticipants": 10,
+
+      "Duration": 60,
+
+      "Summary": "Partidas demostrativas del juego de mesa Jumble Jam",
+
+      "Comments": "Partidas demostrativas del juego de mesa Jumble Jam",
+
+      "Enabled": false,
+
+      "Needs": "1-2 Mesas y sillas, preferiblemente junto al stand",
+
+      "LastModify": "2019-08-07T08:32:40.27"
+
+    },
+
+    {
+
+      "Id": 64,
+
+      "Organizer": "\r\nFernando Lafuente",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Con Pluma y Pixel",
+
+      "Name": "Demo Metalmanía",
+
+      "ActivityDate": "2019-08-16T17:00:00",
+
+      "Place": "Pabellon",
+
+      "Type": "Juegos de mesa",
+
+      "Participants": "1-5",
+
+      "MaxParticipants": 5,
+
+      "Duration": 60,
+
+      "Summary": "Demostración de Metalmanía, a cargo de su autor.",
+
+      "Comments": "¡Crea tu propia Banda con los mejores músicos de la Historia y conquista el trono del Metal!\n Fernando Lafuente, locutor de radio (Metalmanía, Radio MAI Zaragoza), escritor (Expediente Z, La margen incierta, Cuenta Atrás), traductor (Outsider!), cofundador de librojuegos.org y diseñador de juegos de mesa (Essentia, Racing Dwarfs) nos presenta una trepidante carrera por conquistar la fama. Elige tu banda entre 50 leyendas del Rock, haz conciertos, audiciones y fiestas desquiciadas y deja tu huella en los anales del Metal. ¡Conquista el trono del Heavy Rock o húndete en el abismo de los perdedores! ¡Sé una leyenda! Esto es Metalmanía, lo demás es solo ruido..",
+
+      "Enabled": false,
+
+      "Needs": "Mesa y sillas",
+
+      "LastModify": "2019-08-07T08:32:40.277"
+
+    },
+
+    {
+
+      "Id": 54,
+
+      "Organizer": "\r\nIván Pérez",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "New Age Learning y Alter Paradox",
+
+      "Name": "Demo novedades juegos de mesa",
+
+      "ActivityDate": "2019-08-16T17:00:00",
+
+      "Place": "Zona reservada",
+
+      "Type": "Juegos de mesa",
+
+      "Participants": "2-24",
+
+      "MaxParticipants": 24,
+
+      "Duration": 240,
+
+      "Summary": "Enseñamos a jugar novedades de juegos de mesa",
+
+      "Comments": "Un equipo de personas de la asociacion New Age Learning y Alter Paradox se encargaran de hacer demos y tutoriales guiados de novedades de juegos de Mesa (2018-2019) de varias de las entidades patrocinadoras de Umbras de Paradox 2019: 2 Tomatoes, Asmodee, Maldito Games, Tranjis Games y Zacatrus.",
+
+      "Enabled": false,
+
+      "Needs": "6 mesas y 20 sillas",
+
+      "LastModify": "2019-08-07T08:32:40.187"
+
+    },
+
+    {
+
+      "Id": 60,
+
+      "Organizer": "\r\nCayro Games",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Cayro Games",
+
+      "Name": "Demos de juegos de mesa",
+
+      "ActivityDate": "2019-08-16T17:00:00",
+
+      "Place": "Zona reservada",
+
+      "Type": "juegos de mesa",
+
+      "Participants": "1-8",
+
+      "MaxParticipants": 10,
+
+      "Duration": 240,
+
+      "Summary": "Demostraciones de juegos de mesa",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "",
+
+      "LastModify": "2019-08-07T08:32:40.24"
+
+    },
+
+    {
+
+      "Id": 62,
+
+      "Organizer": "\r\niñigo",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Atlas",
+
+      "Name": "El caso del samurai",
+
+      "ActivityDate": "2019-08-16T17:00:00",
+
+      "Place": "Gradas",
+
+      "Type": "REV",
+
+      "Participants": "8-1",
+
+      "MaxParticipants": 9,
+
+      "Duration": 120,
+
+      "Summary": "Rol en vivo sobre un caso de asesinato basado en la popular serie animada de ace attorney",
+
+      "Comments": "Rol en vivo sobre un caso de asesinato basado en la popular serie animada de ace attorney",
+
+      "Enabled": false,
+
+      "Needs": "4 mesas y 10 sillas ",
+
+      "LastModify": "2019-08-07T08:32:40.26"
+
+    },
+
+    {
+
+      "Id": 65,
+
+      "Organizer": "\r\nMiguel Albors",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "",
+
+      "Name": "El rastro de Cthulhu: ¿han atracado el banco?",
+
+      "ActivityDate": "2019-08-16T17:00:00",
+
+      "Place": "Sala RdM",
+
+      "Type": "Rol de mesa",
+
+      "Participants": "3-5",
+
+      "MaxParticipants": 5,
+
+      "Duration": 270,
+
+      "Summary": "los investigadores deberán investigar un atraco a un banco",
+
+      "Comments": "En la localidad gipuzkoana de Donostia, han atracado un banco; aunque nadie parece recordarlo.\n Los investigadores pertenecen a un grupo llamado 'La nueva orden' que trata de buscar pistas que revelen la existencia de Lo Desconocido™.\n \n Es una partida de rol de mesa enfocada a jugadores novatos; aunque también es muy disfrutable por aquellos más experimentados.",
+
+      "Enabled": false,
+
+      "Needs": "Mesa y sillas",
+
+      "LastModify": "2019-08-07T08:32:40.283"
+
+    },
+
+    {
+
+      "Id": 66,
+
+      "Organizer": "\r\nSergio Dominguez",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Alter Paradox",
+
+      "Name": "El rey del pecado",
+
+      "ActivityDate": "2019-08-16T17:00:00",
+
+      "Place": "Sala RdM",
+
+      "Type": "Rol de mesa",
+
+      "Participants": "3",
+
+      "MaxParticipants": 3,
+
+      "Duration": 180,
+
+      "Summary": "Partida de cultos innombrables",
+
+      "Comments": "Partida de cultos innombrables",
+
+      "Enabled": false,
+
+      "Needs": "Mesa y sillas",
+
+      "LastModify": "2019-08-07T08:32:40.293"
+
+    },
+
+    {
+
+      "Id": 57,
+
+      "Organizer": "\r\nMike",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Alter Paradox",
+
+      "Name": "Infantil. Pintacaras",
+
+      "ActivityDate": "2019-08-16T17:00:00",
+
+      "Place": "Zona reservada",
+
+      "Type": "Otros",
+
+      "Participants": "1-20",
+
+      "MaxParticipants": 20,
+
+      "Duration": 180,
+
+      "Summary": "Pintacaras según demanda, sin inscripción",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "",
+
+      "LastModify": "2019-08-07T08:32:40.213"
+
+    },
+
+    {
+
+      "Id": 61,
+
+      "Organizer": "\r\nPablo Valencia",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Abaco",
+
+      "Name": "La noche de las varitas rotas",
+
+      "ActivityDate": "2019-08-16T17:00:00",
+
+      "Place": "Sala REV",
+
+      "Type": "REV",
+
+      "Participants": "15-1",
+
+      "MaxParticipants": 16,
+
+      "Duration": 180,
+
+      "Summary": "Rol en vivo ambientado en el mundo de Harry Potter, en la batalla de Hogwarts.",
+
+      "Comments": "La guerra ha estallado. Niños que hace 3 años corrían por los pasillos con una sonrisa ahora corten por su vida... La muerte acecha en cada esquina y el castillo está a punto de colapsarse. Un grupo de estudiantes se refugian en la sala de menesteres de la guerra que se está librando fuera.",
+
+      "Enabled": false,
+
+      "Needs": "Una sala",
+
+      "LastModify": "2019-08-07T08:32:40.25"
+
+    },
+
+    {
+
+      "Id": 67,
+
+      "Organizer": "\r\nJosue Lopez",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Aventum Dinamizacion",
+
+      "Name": "Torneo de Virus!",
+
+      "ActivityDate": "2019-08-16T17:00:00",
+
+      "Place": "Pabellon",
+
+      "Type": "Torneo",
+
+      "Participants": "8-30",
+
+      "MaxParticipants": 30,
+
+      "Duration": 120,
+
+      "Summary": "Torneo de Virus, dos rondas y final.",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "4 Mesas y 5 sillas por mesa",
+
+      "LastModify": "2019-08-07T08:32:40.307"
+
+    },
+
+    {
+
+      "Id": 70,
+
+      "Organizer": "\r\nJon Heras",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "",
+
+      "Name": "Asalto al castillo",
+
+      "ActivityDate": "2019-08-16T18:00:00",
+
+      "Place": "Exterior",
+
+      "Type": "Otros",
+
+      "Participants": "1-99",
+
+      "MaxParticipants": 99,
+
+      "Duration": 120,
+
+      "Summary": "Juego de capturar la bandera/rey de la colina con armas de gomaespuma",
+
+      "Comments": "En la colina junto al aparcamiento se dividirán dos equipos y se jugará a 'asaltar' y defender la misma. Todo esto con armas de gomaespuma o similares. Se pueden traer armas propias, pero deberán pasar testeo previo del organizador para garantizar la seguridad de las mismas.",
+
+      "Enabled": false,
+
+      "Needs": "Las porras de todos los años",
+
+      "LastModify": "2019-08-07T08:32:40.333"
+
+    },
+
+    {
+
+      "Id": 71,
+
+      "Organizer": "\r\nFernando de las Cuevas",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Alter Paradox",
+
+      "Name": "Demo Bolt Action",
+
+      "ActivityDate": "2019-08-16T18:00:00",
+
+      "Place": "Wargames",
+
+      "Type": "Wargames",
+
+      "Participants": "4",
+
+      "MaxParticipants": 4,
+
+      "Duration": 180,
+
+      "Summary": "Partida introductoria a wargame sobre la segunda guerra mundial ",
+
+      "Comments": " \tBolt Action es un wargame arcade basado en la segunda guerra mundial, en el que se enfrentan dos ejércitos por el dominio de la partida. Las partidas suelen jugarse con unidades de infantería, con apoyo de artillería y carros de combate. Este juego, diseñado por warlord games, trata de meternos en el papel de un oficial de cualquiera de los ejércitos combatientes en este conflicto, teniendo a nuestra disposición gran variedad de unidades con las que poder derrotar a nuestro rival. ",
+
+      "Enabled": false,
+
+      "Needs": "mesa para poder poner una escenografia de 1,20x 1,80 y 4 sillas",
+
+      "LastModify": "2019-08-07T08:32:40.34"
+
+    },
+
+    {
+
+      "Id": 68,
+
+      "Organizer": "\r\nCarlos Miguelez",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Games Workshop",
+
+      "Name": "Demo Warcry",
+
+      "ActivityDate": "2019-08-16T18:00:00",
+
+      "Place": "Wargames",
+
+      "Type": "Wargames",
+
+      "Participants": "10",
+
+      "MaxParticipants": 10,
+
+      "Duration": 90,
+
+      "Summary": "Aprende a jugar a Warcry",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "2 mesas",
+
+      "LastModify": "2019-08-07T08:32:40.317"
+
+    },
+
+    {
+
+      "Id": 69,
+
+      "Organizer": "\r\nKeus Botella",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Dolce Keus",
+
+      "Name": "Taller pulseras Kumihimo",
+
+      "ActivityDate": "2019-08-16T18:00:00",
+
+      "Place": "Pabellon",
+
+      "Type": "Otros",
+
+      "Participants": "1-6",
+
+      "MaxParticipants": 6,
+
+      "Duration": 120,
+
+      "Summary": "Taller de pulseras",
+
+      "Comments": "Taller de pulseras estilo oriental con un disco llamado kumihimo (de ahí su nombre)",
+
+      "Enabled": false,
+
+      "Needs": "1 mesa, 7 sillas y 6 tijeras",
+
+      "LastModify": "2019-08-07T08:32:40.327"
+
+    },
+
+    {
+
+      "Id": 74,
+
+      "Organizer": "\r\nCarlos Perez",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Alter Paradox",
+
+      "Name": "Demo Aristeia!",
+
+      "ActivityDate": "2019-08-16T19:00:00",
+
+      "Place": "Wargames",
+
+      "Type": "Juegos de mesa",
+
+      "Participants": "1-10",
+
+      "MaxParticipants": 10,
+
+      "Duration": 120,
+
+      "Summary": "Demostraciones del juego 'Aristeia'",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "",
+
+      "LastModify": "2019-08-07T08:32:40.363"
+
+    },
+
+    {
+
+      "Id": 72,
+
+      "Organizer": "\r\nCarlos Pileño",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Txarly Factory",
+
+      "Name": "Demo Rising for the Throne",
+
+      "ActivityDate": "2019-08-16T19:00:00",
+
+      "Place": "Pabellon",
+
+      "Type": "Juegos de mesa",
+
+      "Participants": "2-10",
+
+      "MaxParticipants": 10,
+
+      "Duration": 60,
+
+      "Summary": "Partidas demostrativas del juego de mesa Rising for the Throne",
+
+      "Comments": "Partidas demostrativas del juego de mesa Rising for the Throne",
+
+      "Enabled": false,
+
+      "Needs": "1-2 Mesas y sillas, preferiblemente junto al stand",
+
+      "LastModify": "2019-08-07T08:32:40.35"
+
+    },
+
+    {
+
+      "Id": 73,
+
+      "Organizer": "\r\nPanda",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Alter Paradox",
+
+      "Name": "Demo The walking dead: All out war",
+
+      "ActivityDate": "2019-08-16T19:00:00",
+
+      "Place": "Wargames",
+
+      "Type": "Wargames",
+
+      "Participants": "1-10",
+
+      "MaxParticipants": 10,
+
+      "Duration": 60,
+
+      "Summary": "Demostraciones del wargame 'The walking dead: All out war'",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "",
+
+      "LastModify": "2019-08-07T08:32:40.357"
+
+    },
+
+    {
+
+      "Id": 75,
+
+      "Organizer": "\r\nIñaki Ibañez",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "",
+
+      "Name": "REV Cthulhu: La isla",
+
+      "ActivityDate": "2019-08-16T19:30:00",
+
+      "Place": "Gradas",
+
+      "Type": "REV",
+
+      "Participants": "3-8",
+
+      "MaxParticipants": 8,
+
+      "Duration": 90,
+
+      "Summary": "Unos marineros emprenden un viaje en alta mar en busca de un antiguo compañero del viejo capitán.",
+
+      "Comments": "La noticia de la desaparición de 'Maxwell Way' sorprende a 'Claitus Hale', antiguo compañero pescador y ahora capitán de una tripulación pesquera, que emprende un viaje en su búsqueda.\n 'Jonathan Break', un arqueólogo prestigioso y amigo del capitán Claitus, financia el viaje y los acompaña con la garantía de encontrar tesoros allá a donde van.\n El misterio rodea este viaje y, a pesar de que la tripulación siempre se ha llevado bien, parece que todos ocultan algo.",
+
+      "Enabled": false,
+
+      "Needs": "mesa y sillas (se puede hacer en el pabellón perfectamente)",
+
+      "LastModify": "2019-08-07T08:32:40.37"
+
+    },
+
+    {
+
+      "Id": 76,
+
+      "Organizer": "\r\nMike",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Alter Paradox",
+
+      "Name": "Cierre zona infantil y familiar",
+
+      "ActivityDate": "2019-08-16T20:00:00",
+
+      "Place": "Zona reservada",
+
+      "Type": "Otros",
+
+      "Participants": "1-20",
+
+      "MaxParticipants": 20,
+
+      "Duration": 180,
+
+      "Summary": "Zona de juegos y actividades para los mas pequeños",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "",
+
+      "LastModify": "2019-08-07T08:32:40.38"
+
+    },
+
+    {
+
+      "Id": 79,
+
+      "Organizer": "\r\nPedro Toledo",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "8 Terras",
+
+      "Name": "8 Terras: Conflictos Oktoversales",
+
+      "ActivityDate": "2019-08-16T22:00:00",
+
+      "Place": "Zona reservada",
+
+      "Type": "Rol de mesa",
+
+      "Participants": "1-8",
+
+      "MaxParticipants": 8,
+
+      "Duration": 240,
+
+      "Summary": "Las más diversas aventuras pueden ocurrir en el Oktoversum. Tú decides... ven y pruébalo",
+
+      "Comments": "Las más diversas aventuras pueden ocurrir en el Oktoversum.\n Juega con Romanos, Atlantes, Cruzados, Nazis, Marines (tu eliges) contra Terroristas, Vampiros, Organizaciones Secretas, Dragones, Imperios Alienígenas, Dioses (lo que te toque)... ¡Un módulo distinto y nuevo cada partida!\n \n Tú decides... ven y prueba 8 Terras de la mano de Pedro Toledo, creador del juego.\n \n Partidas continuadas de diversos y originales módulos de 8 TERRAS sin parar todo el finde.\n \n Actividad para mayores de 16 años. Se pueden hacer excepciones para grupos mixtos.",
+
+      "Enabled": false,
+
+      "Needs": "Mesa y sillas. Preferiblemente la misma para todo el fin de semana",
+
+      "LastModify": "2019-08-07T08:32:40.4"
+
+    },
+
+    {
+
+      "Id": 78,
+
+      "Organizer": "\r\nIvan Gonzalez",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "",
+
+      "Name": "DANCÚ. Las crónicas de Lissandria",
+
+      "ActivityDate": "2019-08-16T22:00:00",
+
+      "Place": "Zona reservada",
+
+      "Type": "Rol de mesa",
+
+      "Participants": "1-5",
+
+      "MaxParticipants": 5,
+
+      "Duration": 240,
+
+      "Summary": "Partida a Dancú, juego de rol de fantasía épica. EL HUARGO / EL SINO DE EGEASAH",
+
+      "Comments": "Dancú es el nuevo juego de fantasía épica, con cierto aroma a veja escuela, de Suseya Ediciones. Su trama principal gira alrededor de una legendaria armadura que tiempo atrás casi provoca la destrucción del mundo y que tuvo como consecuencia la apertura de portales dimensionales por donde llegaron numerosas y nuevas civilizaciones. Sin embargo, aunque esa sea la trama principal, Dancú ofrece una infinidad de trasfondos de todo tipo que hace posible que tanto directores y directoras como jugadores y jugadoras puedan vivir aventuras de muy diversa naturaleza.\n Y precisamente es aquí donde se encuentra el principal valor de este juego de rol. En la narrativa informativa y de trasfondo que ofrece en comparación con otros juegos de temática similar. Estamos ante un universo que describe con todo lujo de detalles: reinos, imperios, territorios, soberanías, personajes singulares, eventos, lugares de interés, historietas del mundo, rumores, criaturas, la magia y su Dogmas, subtramas.... y un largo etcétera para conformar un universo rico y diverso. Además, en él podréis encontrar referencias cinematográficas, roleras y frikis que harán las delicias de los roleros y roleras que se animen con Dancú.\n \n PARTIDAS. Habrá dos aventuras para elegir:\n \n 1. EL HUARGO. El grupo de aventureros y aventureras se encuentra en la ciudad enjaulada de Zortia, desde donde son enviados a investigar un incidente en las Tierras Nómadas. Cuando llegan al lugar, se encuentran con una dantesca escena bañada en sangre y crueldad. El único rastro de vida proviene de un desesperado llanto tras unas rocas. Un llanto que convertirá lo que parecía un simple ataque a una caravana de viajeros, en una trepidante aventura llena de tramas ocultas y misterios por resolver. Los personajes tendrán que enfrentarse a una decisión que marcará el resto de sus días…\n \n 2. EL SINO DE EGEASAH. Se trata de la aventura publicada en el Kit de Inicio de Dancú. Los jugadores acuden a uno de los múltiples torneos de lucha de la ciudad de Kabúr. Sin embargo, una vez allí, se darán cuenta que su visita responde a un propósito mucho mayor que les obligará a tomar las decisiones más importantes y peligrosas de su vida. Convirtiéndose así, quizás, en los elegidos de una remota profecía.",
+
+      "Enabled": false,
+
+      "Needs": "1 mesa y 5 sillas",
+
+      "LastModify": "2019-08-07T08:32:40.393"
+
+    },
+
+    {
+
+      "Id": 77,
+
+      "Organizer": "\r\nJokin García",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Abaco",
+
+      "Name": "Pínteme usted esas meninas",
+
+      "ActivityDate": "2019-08-16T22:00:00",
+
+      "Place": "Sala RdM",
+
+      "Type": "REV",
+
+      "Participants": "13",
+
+      "MaxParticipants": 13,
+
+      "Duration": 180,
+
+      "Summary": "Pínteme usted esas meninas es una partida de rol en vivo con un ligero toque humorístico, ambientada en el making of del celebérrimo cuadro.",
+
+      "Comments": "Es el año 1656, y reina en España Felipe IV de Austria, junto con su segunda esposa Mariana de Austria. Es una época convulsa en la que el Imperio español, ya en decadencia, se está desmoronando, con conflictos interiores, como las sublevaciones de Cataluña en 1652 o levantamientos en Andalucía por motivos económicos, o exteriores, como la guerra contra Francia e Inglaterra, que ansiaban repartirse las posesiones españolas.\n En este contexto, el pintor sevillano Diego Rodríguez de Silva y Velázquez, recibe el encargo de pintar a la infanta Margarita Teresa, en ese momento única hija del Rey y su actual esposa, junto con toda su corte, aunque no la única hija viva de Felipe IV, que también tenía a María Teresa, de 18 años, fruto de su anterior matrimonio y a la postre reina de Francia con Luis XIV.\n Este cuadro inmortalizaría para siempre a Margarita Teresa, quien en el futuro sería la esposa de su tío, Leopoldo I de Austria, con quien se concertó muy pronto el matrimonio, incluso puede que para la fecha en la que se pintó el cuadro ya se hubiera concertado.\n En él podemos ver a la propia Margarita Teresa flanqueada por sus meninas\n (muchachas nobles al servicio de una noble de más rango); Isabel de Velasco y María Agustina Sarmiento de Sotomayor; los enanos de la corte María Bárbola y Nicolasito Pertusato, con su perro; la aya de las doncellas Marcela Ulloa y un guardarmas llamado Alberto. También puede verse al propio Velázquez, que parece estar retratando a los reyes, reflejados en un espejo, y de fondo, sin saber si entra o sale de la habitación, el aposentador de la reina, José Nieto.",
+
+      "Enabled": false,
+
+      "Needs": "Una sala más o menos grande. Algo que asemeje un caballete para el cuadro sería genial.Un perro de peluche y una fregona. IMPORTANTE: 6 plazas son de chico y 6 de chica.",
+
+      "LastModify": "2019-08-07T08:32:40.387"
+
+    },
+
+    {
+
+      "Id": 81,
+
+      "Organizer": "\r\n",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Alter Paradox",
+
+      "Name": "Fiesta en el bar de las piscinas",
+
+      "ActivityDate": "2019-08-16T23:30:00",
+
+      "Place": "Bar",
+
+      "Type": "Otros",
+
+      "Participants": "1-100",
+
+      "MaxParticipants": 100,
+
+      "Duration": 270,
+
+      "Summary": "Fiesta en el bar de las piscinas",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "",
+
+      "LastModify": "2019-08-07T08:32:40.44"
+
+    },
+
+
+    {
+
+      "Id": 90,
+
+      "Organizer": "\r\nAndrés Carabantes",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "YoTambiénSoyUnFriki",
+
+      "Name": "1800: Herejía en Puentedey",
+
+      "ActivityDate": "2019-08-17T10:00:00",
+
+      "Place": "Sala RdM",
+
+      "Type": "Rol de mesa",
+
+      "Participants": "3-5",
+
+      "MaxParticipants": 5,
+
+      "Duration": 240,
+
+      "Summary": "Partida introductoria de 1800: El Ocaso de la Humanidad",
+
+      "Comments": "Los jugadores tendrán que entrar en la piel de acólitos de la Inquisición y desentrañar los misterios que se ocultan en la villa de Puentede",
+
+      "Enabled": false,
+
+      "Needs": "Una mesa, 6 sillas, papel y lápices.",
+
+      "LastModify": "2019-08-07T08:32:40.52"
+
+    },
+
+    {
+
+      "Id": 85,
+
+      "Organizer": "\r\nIvan Gonzalez",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "",
+
+      "Name": "DANCÚ. Las crónicas de Lissandria",
+
+      "ActivityDate": "2019-08-17T10:00:00",
+
+      "Place": "Zona reservada",
+
+      "Type": "Rol de mesa",
+
+      "Participants": "1-5",
+
+      "MaxParticipants": 5,
+
+      "Duration": 240,
+
+      "Summary": "Partida a Dancú, juego de rol de fantasía épica. EL HUARGO / EL SINO DE EGEASAH",
+
+      "Comments": "Dancú es el nuevo juego de fantasía épica, con cierto aroma a veja escuela, de Suseya Ediciones. Su trama principal gira alrededor de una legendaria armadura que tiempo atrás casi provoca la destrucción del mundo y que tuvo como consecuencia la apertura de portales dimensionales por donde llegaron numerosas y nuevas civilizaciones. Sin embargo, aunque esa sea la trama principal, Dancú ofrece una infinidad de trasfondos de todo tipo que hace posible que tanto directores y directoras como jugadores y jugadoras puedan vivir aventuras de muy diversa naturaleza.\n Y precisamente es aquí donde se encuentra el principal valor de este juego de rol. En la narrativa informativa y de trasfondo que ofrece en comparación con otros juegos de temática similar. Estamos ante un universo que describe con todo lujo de detalles: reinos, imperios, territorios, soberanías, personajes singulares, eventos, lugares de interés, historietas del mundo, rumores, criaturas, la magia y su Dogmas, subtramas.... y un largo etcétera para conformar un universo rico y diverso. Además, en él podréis encontrar referencias cinematográficas, roleras y frikis que harán las delicias de los roleros y roleras que se animen con Dancú.\n \n PARTIDAS. Habrá dos aventuras para elegir:\n \n 1. EL HUARGO. El grupo de aventureros y aventureras se encuentra en la ciudad enjaulada de Zortia, desde donde son enviados a investigar un incidente en las Tierras Nómadas. Cuando llegan al lugar, se encuentran con una dantesca escena bañada en sangre y crueldad. El único rastro de vida proviene de un desesperado llanto tras unas rocas. Un llanto que convertirá lo que parecía un simple ataque a una caravana de viajeros, en una trepidante aventura llena de tramas ocultas y misterios por resolver. Los personajes tendrán que enfrentarse a una decisión que marcará el resto de sus días…\n \n 2. EL SINO DE EGEASAH. Se trata de la aventura publicada en el Kit de Inicio de Dancú. Los jugadores acuden a uno de los múltiples torneos de lucha de la ciudad de Kabúr. Sin embargo, una vez allí, se darán cuenta que su visita responde a un propósito mucho mayor que les obligará a tomar las decisiones más importantes y peligrosas de su vida. Convirtiéndose así, quizás, en los elegidos de una remota profecía.",
+
+      "Enabled": false,
+
+      "Needs": "1 mesa y 5 sillas",
+
+      "LastModify": "2019-08-07T08:32:40.48"
+
+    },
+
+    {
+
+      "Id": 84,
+
+      "Organizer": "\r\nCayro Games",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Cayro Games",
+
+      "Name": "Demo de juegos de mesa",
+
+      "ActivityDate": "2019-08-17T10:00:00",
+
+      "Place": "Zona reservada",
+
+      "Type": "juegos de mesa",
+
+      "Participants": "1-8",
+
+      "MaxParticipants": 10,
+
+      "Duration": 240,
+
+      "Summary": "Demostraciones de juegos de mesa",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "",
+
+      "LastModify": "2019-08-07T08:32:40.47"
+
+    },
+
+    {
+
+      "Id": 82,
+
+      "Organizer": "\r\nIván Pérez",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "New Age Learning y Alter Paradox",
+
+      "Name": "Demo novedades juegos de mesa",
+
+      "ActivityDate": "2019-08-17T10:00:00",
+
+      "Place": "Zona reservada",
+
+      "Type": "Juegos de mesa",
+
+      "Participants": "2-24",
+
+      "MaxParticipants": 24,
+
+      "Duration": 240,
+
+      "Summary": "Enseñamos a jugar novedades de juegos de mesa",
+
+      "Comments": "Un equipo de personas de la asociacion New Age Learning y Alter Paradox se encargaran de hacer demos y tutoriales guiados de novedades de juegos de Mesa (2018-2019) de varias de las entidades patrocinadoras de Umbras de Paradox 2019: 2 Tomatoes, Asmodee, Maldito Games, Tranjis Games y Zacatrus.",
+
+      "Enabled": false,
+
+      "Needs": "6 mesas y 20 sillas",
+
+      "LastModify": "2019-08-07T08:32:40.45"
+
+    },
+
+    {
+
+      "Id": 83,
+
+      "Organizer": "\r\nIván Pérez",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "New Age Learning y Alter Paradox",
+
+      "Name": "Demo Ponzi Scheme",
+
+      "ActivityDate": "2019-08-17T10:00:00",
+
+      "Place": "Zona reservada",
+
+      "Type": "Juegos de mesa",
+
+      "Participants": "4",
+
+      "MaxParticipants": 4,
+
+      "Duration": 90,
+
+      "Summary": "Aprende a jugar a Ponzi Scheme",
+
+      "Comments": "Aprende a jugar a Ponzi Scheme",
+
+      "Enabled": false,
+
+      "Needs": "Zona de demos",
+
+      "LastModify": "2019-08-07T08:32:40.46"
+
+    },
+
+    {
+
+      "Id": 87,
+
+      "Organizer": "\r\nHector Lacunza",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Alter Paradox",
+
+      "Name": "El resurgir del dragón",
+
+      "ActivityDate": "2019-08-17T10:00:00",
+
+      "Place": "Sala RdM",
+
+      "Type": "Rol de mesa",
+
+      "Participants": "3-5",
+
+      "MaxParticipants": 5,
+
+      "Duration": 240,
+
+      "Summary": "Partida de rol de mazmorreo",
+
+      "Comments": "Juego de rol de mesa con más mazmorra que interpretación",
+
+      "Enabled": false,
+
+      "Needs": "Una mesa, 6 sillas, papeles y lápices",
+
+      "LastModify": "2019-08-07T08:32:40.497"
+
+    },
+
+    {
+
+      "Id": 86,
+
+      "Organizer": "\r\nBorja Sota",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Sanjuu Yori",
+
+      "Name": "Juegos asiáticos tradicionales",
+
+      "ActivityDate": "2019-08-17T10:00:00",
+
+      "Place": "Pabellon",
+
+      "Type": "Juegos de mesa",
+
+      "Participants": "1-10",
+
+      "MaxParticipants": 10,
+
+      "Duration": 240,
+
+      "Summary": "Juegos de mesa tradicionales asiáticos",
+
+      "Comments": "Os enseñaremos a jugar al Shogi, Dou Shou Qi ,Mushi, koi koi, y mas juegos divertidos",
+
+      "Enabled": false,
+
+      "Needs": "2 mesas y 12 sillas",
+
+      "LastModify": "2019-08-07T08:32:40.49"
+
+    },
+
+    {
+
+      "Id": 89,
+
+      "Organizer": "\r\nEduardo Moler",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Runa G.C",
+
+      "Name": "Realidad Virtual",
+
+      "ActivityDate": "2019-08-17T10:00:00",
+
+      "Place": "Pabellon",
+
+      "Type": "Otros",
+
+      "Participants": "1-48",
+
+      "MaxParticipants": 48,
+
+      "Duration": 0,
+
+      "Summary": "Juegos y experiencias de Realidad Virtual",
+
+      "Comments": "Con motivo de la próxima apertura del nuevo Gaming Centre de Pamplona, queremos acercar la realidad virtual a todos aquellos que no tienen en casa y quieren probarla.\n Habrá una pequeña selección de juegos y experiencias para que la gente elija la que prefiera. Por motivos de tiempo y que no puede estar más de una persona a la vez, se harán cada día 24 turnos de media hora cada uno",
+
+      "Enabled": false,
+
+      "Needs": "Una mesa cercana a un enchufe (importante) 5 sillas, un enchufe libre para conectar la tv y los aparatos.",
+
+      "LastModify": "2019-08-07T08:32:40.513"
+
+    },
+
+    {
+
+      "Id": 88,
+
+      "Organizer": "\r\nJosue Lopez",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Aventum Dinamizacion",
+
+      "Name": "Torneo de Catan",
+
+      "ActivityDate": "2019-08-17T10:00:00",
+
+      "Place": "Pabellon",
+
+      "Type": "Torneo",
+
+      "Participants": "8-20",
+
+      "MaxParticipants": 20,
+
+      "Duration": 180,
+
+      "Summary": "Torneo de Catan, dos rondas y final.",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "5 mesas con 4 sillas",
+
+      "LastModify": "2019-08-07T08:32:40.507"
+
+    },
+
+    {
+
+      "Id": 91,
+
+      "Organizer": "\r\nPedro Toledo",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "8 Terras",
+
+      "Name": "8 Terras: Conflictos Oktoversales",
+
+      "ActivityDate": "2019-08-17T10:30:00",
+
+      "Place": "Zona reservada",
+
+      "Type": "Rol de mesa",
+
+      "Participants": "1-8",
+
+      "MaxParticipants": 8,
+
+      "Duration": 210,
+
+      "Summary": "Las más diversas aventuras pueden ocurrir en el Oktoversum. Tú decides... ven y pruébalo",
+
+      "Comments": "Las más diversas aventuras pueden ocurrir en el Oktoversum.\n Juega con Romanos, Atlantes, Cruzados, Nazis, Marines (tu eliges) contra Terroristas, Vampiros, Organizaciones Secretas, Dragones, Imperios Alienígenas, Dioses (lo que te toque)... ¡Un módulo distinto y nuevo cada partida!\n \n Tú decides... ven y prueba 8 Terras de la mano de Pedro Toledo, creador del juego.\n \n Partidas continuadas de diversos y originales módulos de 8 TERRAS sin parar todo el finde.\n \n Actividad para mayores de 16 años. Se pueden hacer excepciones para grupos mixtos.",
+
+      "Enabled": false,
+
+      "Needs": "Mesa y sillas. Preferiblemente la misma para todo el fin de semana",
+
+      "LastModify": "2019-08-07T08:32:40.53"
+
+    },
+
+    {
+
+      "Id": 93,
+
+      "Organizer": "\r\nMaria Teresa Ranz",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Entramando",
+
+      "Name": "12 hombres sin piedad",
+
+      "ActivityDate": "2019-08-17T11:00:00",
+
+      "Place": "Sala REV",
+
+      "Type": "REV",
+
+      "Participants": "8-12",
+
+      "MaxParticipants": 12,
+
+      "Duration": 150,
+
+      "Summary": "Deliberación de un jurado sobre un caso planteado",
+
+      "Comments": "Basado en el universo de Blade Runner, un jurado escogido aleatoriamente habrá de decidir con mayoría absoluta, sobre un dossier que se les entregará, si el acusado es culpable y por tanto se le condenará a muerte, o no culpable.\n Si en las 2 horas de tiempo que se les da, están a punto de decidirse, se les dará media hora extra de tiempo. Si no se deciden, el caso pasará a un nuevo jurado.\n Tendrán la oportunidad de generar preguntas para el acusado, las cuales llevará el alguacil (máster) a éste para contestárselas y les devolverá sus respuestas.",
+
+      "Enabled": false,
+
+      "Needs": "una mesa grande o varias unidas para que se puedan sentar alrededor y 13 sillas. Fotocopias de las fichas (entre 1 y 2 folios a doble cara para cada uno) Aunque llevaremos algunas copias ya hechas.",
+
+      "LastModify": "2019-08-07T08:32:40.547"
+
+    },
+
+    {
+
+      "Id": 92,
+
+      "Organizer": "\r\nMike",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Alter Paradox",
+
+      "Name": "Apertura zona infantil y familiar",
+
+      "ActivityDate": "2019-08-17T11:00:00",
+
+      "Place": "Zona reservada",
+
+      "Type": "Otros",
+
+      "Participants": "1-20",
+
+      "MaxParticipants": 20,
+
+      "Duration": 180,
+
+      "Summary": "Zona de juegos y actividades para los mas pequeños",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "",
+
+      "LastModify": "2019-08-07T08:32:40.537"
+
+    },
+
+    {
+
+      "Id": 102,
+
+      "Organizer": "\r\nMike",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Alter Paradox",
+
+      "Name": "Cierre zona infantil y familiar",
+
+      "ActivityDate": "2019-08-17T11:00:00",
+
+      "Place": "Zona reservada",
+
+      "Type": "Otros",
+
+      "Participants": "1-20",
+
+      "MaxParticipants": 20,
+
+      "Duration": 180,
+
+      "Summary": "Zona de juegos y actividades para los mas pequeños",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "",
+
+      "LastModify": "2019-08-07T08:32:40.64"
+
+    },
+
+    {
+
+      "Id": 95,
+
+      "Organizer": "\r\nFernando Lafuente",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Con Pluma y Pixel",
+
+      "Name": "Demo de Cuenta Atrás",
+
+      "ActivityDate": "2019-08-17T11:00:00",
+
+      "Place": "Stand de 'Con pluma y pixel'",
+
+      "Type": "Juegos de mesa",
+
+      "Participants": "1-8",
+
+      "MaxParticipants": 8,
+
+      "Duration": 60,
+
+      "Summary": "Demo jugable del librojuego 'Cuenta Atrás', a cargo de su autor",
+
+      "Comments": "Fernando Lafuente, locutor de radio (Metalmanía, en Radio MAI Zaragoza), escritor (Expediente Z, La margen incierta, En la feria tenebrosa), traductor (Outsider!), cofundador de librojuegos.org y diseñador de juegos de mesa (Essentia, Racing Dwarfs, Metalmanía) nos presenta Cuenta Atrás, una angustiosa carrera en contra del tiempo para detener a un terrorista. Reúne pistas y explora todas las aulas y dependencias de un instituto para desactivar una bomba antes de que se te acabe el tiempo. ¿Estás dispuesto a aceptar el reto?\\",
+
+      "Enabled": false,
+
+      "Needs": "Mesa y sillas. Usaran un proyector, asi que preferiblemente cerca de un enchufe (traeran alargadera por si acaso)",
+
+      "LastModify": "2019-08-07T08:32:40.563"
+
+    },
+
+    {
+
+      "Id": 98,
+
+      "Organizer": "\r\nBeatriz Grifol",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "TamuzGames",
+
+      "Name": "Demo Dry Bones Aventurero",
+
+      "ActivityDate": "2019-08-17T11:00:00",
+
+      "Place": "Pabellon",
+
+      "Type": "Juegos de mesa",
+
+      "Participants": "1-4",
+
+      "MaxParticipants": 4,
+
+      "Duration": 60,
+
+      "Summary": "Demostraciones del juego de mesa Dry Bones Aventurero y sus modos de juego",
+
+      "Comments": "Conjura al Espíritu de los 4 vientos y ¡vence a la muerte!\n Un juego de mesa de 2 a 4 j ugadores para mas de 10 años con una duracion de partida de 45min donde tendrás que girar los sellos, abrir los portales y dar vida a un montón de esqueletos que te encontraras en tu aventura por el desierto de Rajastan, India. Gana: el que más puntos consigue al revivir a los esqueletos",
+
+      "Enabled": false,
+
+      "Needs": "1mesa grande, 4 sillas",
+
+      "LastModify": "2019-08-07T08:32:40.6"
+
+    },
+
+    {
+
+      "Id": 97,
+
+      "Organizer": "\r\nJosé Antonio Abascal",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Asociación Ludo",
+
+      "Name": "Demo Eccehomo, el juego",
+
+      "ActivityDate": "2019-08-17T11:00:00",
+
+      "Place": "Prototipo de juego de mesa para 3-5 jugadores. De 45 a 60 min.\n Formamos parte de un taller de resta",
+
+      "Type": "Juegos de mesa",
+
+      "Participants": "2-5",
+
+      "MaxParticipants": 5,
+
+      "Duration": 0,
+
+      "Summary": "'Eccehomo",
+
+      "Comments": " el juego'",
+
+      "Enabled": false,
+
+      "Needs": " prototipo de juego de mesa. Formamos parte de un taller de restauración de un famoso museo. Buscamos el máximo reconocimiento restaurando cuadros famosos. Juego entre 3 y 5 jugadores con mecánicas de mayorías",
+
+      "LastModify": "2019-08-07T08:32:40.59"
+
+    },
+
+    {
+
+      "Id": 96,
+
+      "Organizer": "\r\nPeio Soria",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "",
+
+      "Name": "Los laberintos de Krommar",
+
+      "ActivityDate": "2019-08-17T11:00:00",
+
+      "Place": "Pabellon",
+
+      "Type": "Juegos de mesa",
+
+      "Participants": "2-4",
+
+      "MaxParticipants": 4,
+
+      "Duration": 120,
+
+      "Summary": "Testear Juego de cartas familiar",
+
+      "Comments": "Juego de cartas para max. 4 jugadores en el que cada jugador avanza sus 3 héroes por un laberinto para ocupar uno o más tronos. Gana el que más tronos ocupe. Juego competitivo o cooperativo dependiendo de qué quieran los jugadores.",
+
+      "Enabled": false,
+
+      "Needs": "Juego de cartas para max. 4 jugadores en el que cada jugador avanza sus 3 héroes por un laberinto para ocupar uno o más tronos. Gana el que más tronos ocupe. Juego competitivo o cooperativo dependiendo de qué quieran los jugadores.\n \n Para alcanzar la gloria, tu clan debe conquistar por lo menos un trono del mítico laberinto de Krommar. ¡Oh, Krommar, tú que creaste los tronos nosotros los ocuparemos por tu gloria!\n Hay cuatro clanes con tres héroes cada uno. Cada clan que juega debe avanzar a sus héroes por las cuadrículas de laberinto (cada clan tiene su laberinto).\n \n En el medio de la mesa hay un mazo con cartas de acción (con las que ayudar a tus héroes, perjudicar a los de los otros clanes, o a los otros jugadores o para protegerte tú).\n \n Cada jugador tendrá su carta de clan para los combates (porque puedes avanzar a tus héroes por los laberintos de otros jugadores y hacer combates).\n \n La partida termina cuando todos los tronos queden ocupados. ¡Competir o cooperar es decisión tuya!",
+
+      "LastModify": "2019-08-07T08:32:40.573"
+
+    },
+
+    {
+
+      "Id": 94,
+
+      "Organizer": "\r\nCarlos Miguelez",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Games Workshop",
+
+      "Name": "Taller de montaje y pintura de Warhammer 40000",
+
+      "ActivityDate": "2019-08-17T11:00:00",
+
+      "Place": "Wargames",
+
+      "Type": "Wargames",
+
+      "Participants": "10",
+
+      "MaxParticipants": 10,
+
+      "Duration": 75,
+
+      "Summary": "Taller de montaje y pintura de Warhammer 40000",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "2 mesas",
+
+      "LastModify": "2019-08-07T08:32:40.553"
+
+    },
+
+    {
+
+      "Id": 99,
+
+      "Organizer": "\r\nMike",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Alter Paradox",
+
+      "Name": "Infantil. Humanos vs aliens. Gymkana en familia",
+
+      "ActivityDate": "2019-08-17T11:30:00",
+
+      "Place": "Zona reservada",
+
+      "Type": "Otros",
+
+      "Participants": "1-20",
+
+      "MaxParticipants": 20,
+
+      "Duration": 180,
+
+      "Summary": "Gymkana en familia. 4 o 5 familias.",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "",
+
+      "LastModify": "2019-08-07T08:32:40.61"
+
+    },
+
+    {
+
+      "Id": 100,
+
+      "Organizer": "\r\nCarlos Pileño",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Txarly Factory",
+
+      "Name": "Demo Rising for the Throne",
+
+      "ActivityDate": "2019-08-17T12:00:00",
+
+      "Place": "Pabellon",
+
+      "Type": "Juegos de mesa",
+
+      "Participants": "2-10",
+
+      "MaxParticipants": 10,
+
+      "Duration": 60,
+
+      "Summary": "Partidas demostrativas del juego de mesa Rising for the Throne",
+
+      "Comments": "Partidas demostrativas del juego de mesa Rising for the Throne",
+
+      "Enabled": false,
+
+      "Needs": "1-2 Mesas y sillas, preferiblemente junto al stand",
+
+      "LastModify": "2019-08-07T08:32:40.62"
+
+    },
+
+    {
+
+      "Id": 101,
+
+      "Organizer": "\r\nCarlos Miguelez",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Games Workshop",
+
+      "Name": "Demo Warhammer 40000",
+
+      "ActivityDate": "2019-08-17T12:30:00",
+
+      "Place": "Wargames",
+
+      "Type": "Wargames",
+
+      "Participants": "10",
+
+      "MaxParticipants": 10,
+
+      "Duration": 75,
+
+      "Summary": "Aprende a jugar a Warhammer 40000",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "2 mesas",
+
+      "LastModify": "2019-08-07T08:32:40.63"
+
+    },
+
+    {
+
+      "Id": 104,
+
+      "Organizer": "\r\nPedro Toledo",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "8 Terras",
+
+      "Name": "8 Terras: Conflictos Oktoversales",
+
+      "ActivityDate": "2019-08-17T16:00:00",
+
+      "Place": "Zona reservada",
+
+      "Type": "Rol de mesa",
+
+      "Participants": "1-8",
+
+      "MaxParticipants": 8,
+
+      "Duration": 240,
+
+      "Summary": "Las más diversas aventuras pueden ocurrir en el Oktoversum. Tú decides... ven y pruébalo",
+
+      "Comments": "Las más diversas aventuras pueden ocurrir en el Oktoversum.\n Juega con Romanos, Atlantes, Cruzados, Nazis, Marines (tu eliges) contra Terroristas, Vampiros, Organizaciones Secretas, Dragones, Imperios Alienígenas, Dioses (lo que te toque)... ¡Un módulo distinto y nuevo cada partida!\n \n Tú decides... ven y prueba 8 Terras de la mano de Pedro Toledo, creador del juego.\n \n Partidas continuadas de diversos y originales módulos de 8 TERRAS sin parar todo el finde.\n \n Actividad para mayores de 16 años. Se pueden hacer excepciones para grupos mixtos.",
+
+      "Enabled": false,
+
+      "Needs": "Mesa y sillas. Preferiblemente la misma para todo el fin de semana",
+
+      "LastModify": "2019-08-07T08:32:40.677"
+
+    },
+
+    {
+
+      "Id": 103,
+
+      "Organizer": "\r\nIvan Gonzalez",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "",
+
+      "Name": "DANCÚ. Las crónicas de Lissandria",
+
+      "ActivityDate": "2019-08-17T16:00:00",
+
+      "Place": "Zona reservada",
+
+      "Type": "Rol de mesa",
+
+      "Participants": "1-5",
+
+      "MaxParticipants": 5,
+
+      "Duration": 240,
+
+      "Summary": "Partida a Dancú, juego de rol de fantasía épica. EL HUARGO / EL SINO DE EGEASAH",
+
+      "Comments": "Dancú es el nuevo juego de fantasía épica, con cierto aroma a veja escuela, de Suseya Ediciones. Su trama principal gira alrededor de una legendaria armadura que tiempo atrás casi provoca la destrucción del mundo y que tuvo como consecuencia la apertura de portales dimensionales por donde llegaron numerosas y nuevas civilizaciones. Sin embargo, aunque esa sea la trama principal, Dancú ofrece una infinidad de trasfondos de todo tipo que hace posible que tanto directores y directoras como jugadores y jugadoras puedan vivir aventuras de muy diversa naturaleza.\n Y precisamente es aquí donde se encuentra el principal valor de este juego de rol. En la narrativa informativa y de trasfondo que ofrece en comparación con otros juegos de temática similar. Estamos ante un universo que describe con todo lujo de detalles: reinos, imperios, territorios, soberanías, personajes singulares, eventos, lugares de interés, historietas del mundo, rumores, criaturas, la magia y su Dogmas, subtramas.... y un largo etcétera para conformar un universo rico y diverso. Además, en él podréis encontrar referencias cinematográficas, roleras y frikis que harán las delicias de los roleros y roleras que se animen con Dancú.\n \n PARTIDAS. Habrá dos aventuras para elegir:\n \n 1. EL HUARGO. El grupo de aventureros y aventureras se encuentra en la ciudad enjaulada de Zortia, desde donde son enviados a investigar un incidente en las Tierras Nómadas. Cuando llegan al lugar, se encuentran con una dantesca escena bañada en sangre y crueldad. El único rastro de vida proviene de un desesperado llanto tras unas rocas. Un llanto que convertirá lo que parecía un simple ataque a una caravana de viajeros, en una trepidante aventura llena de tramas ocultas y misterios por resolver. Los personajes tendrán que enfrentarse a una decisión que marcará el resto de sus días…\n \n 2. EL SINO DE EGEASAH. Se trata de la aventura publicada en el Kit de Inicio de Dancú. Los jugadores acuden a uno de los múltiples torneos de lucha de la ciudad de Kabúr. Sin embargo, una vez allí, se darán cuenta que su visita responde a un propósito mucho mayor que les obligará a tomar las decisiones más importantes y peligrosas de su vida. Convirtiéndose así, quizás, en los elegidos de una remota profecía.",
+
+      "Enabled": false,
+
+      "Needs": "1 mesa y 5 sillas",
+
+      "LastModify": "2019-08-07T08:32:40.663"
+
+    },
+
+    {
+
+      "Id": 105,
+
+      "Organizer": "\r\nJosé Antonio Abascal",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Asociación Ludo",
+
+      "Name": "Demo Eccehomo, el juego",
+
+      "ActivityDate": "2019-08-17T16:00:00",
+
+      "Place": "Prototipo de juego de mesa para 3-5 jugadores. De 45 a 60 min.\n Formamos parte de un taller de resta",
+
+      "Type": "Juegos de mesa",
+
+      "Participants": "2-5",
+
+      "MaxParticipants": 5,
+
+      "Duration": 0,
+
+      "Summary": "'Eccehomo",
+
+      "Comments": " el juego'",
+
+      "Enabled": false,
+
+      "Needs": " prototipo de juego de mesa. Formamos parte de un taller de restauración de un famoso museo. Buscamos el máximo reconocimiento restaurando cuadros famosos. Juego entre 3 y 5 jugadores con mecánicas de mayorías",
+
+      "LastModify": "2019-08-07T08:32:40.687"
+
+    },
+
+    {
+
+      "Id": 116,
+
+      "Organizer": "\r\nDiego Muñoz",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "YoTambiénSoyUnFriki",
+
+      "Name": "1800: Robespierre",
+
+      "ActivityDate": "2019-08-17T17:00:00",
+
+      "Place": "Sala RdM",
+
+      "Type": "Rol de mesa",
+
+      "Participants": "3-5",
+
+      "MaxParticipants": 5,
+
+      "Duration": 240,
+
+      "Summary": "Partida de 1800: El Ocaso de la Humanidad",
+
+      "Comments": "Los jugadores se pondrán en la piel de los guardaespaldas de Robespierre, uno de los personajes más emblemáticos de Galia, y defenderlo durante un viaje en zepelín desde Versailles hasta Kingston Upon Hill",
+
+      "Enabled": false,
+
+      "Needs": "1 mesa, 6 sillas, papel y lápices",
+
+      "LastModify": "2019-08-07T08:32:40.79"
+
+    },
+
+    {
+
+      "Id": 118,
+
+      "Organizer": "\r\nDavid Gonzalez",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Learn and Teach (L&T)",
+
+      "Name": "460",
+
+      "ActivityDate": "2019-08-17T17:00:00",
+
+      "Place": "Escalera",
+
+      "Type": "REV",
+
+      "Participants": "4-19",
+
+      "MaxParticipants": 19,
+
+      "Duration": 120,
+
+      "Summary": "Pamplona no siempre fue la ciudad que es ahora. Antes fue un hervidero de intrigas entre 3 poblaciones rivales. Se parte de una de esas intrigas y defiende tu burgo.",
+
+      "Comments": "Antes del privilegio de la unión, la actual ciudad de Pamplona estaba dividida en 3 bandos que luchaban por controlar la zona.\n Algunos con ayuda de la Iglesia, otros con aliados franceses, y todos con secretos y planes propios.\n Se parte de una de las pocas situaciones 'pacíficas' en ese clima de batalla constante, y ten cuidado con tus alianzas, un par de horas son más que suficiente para romperse.",
+
+      "Enabled": false,
+
+      "Needs": "Una sala con sillas para los participantes y a ser posible suficiente espacio como para poder tener dos o tres conversaciones separadas sin molestarse unos a otros. Es posible que tengamos que imprimir allí algunas hojas de personaje.",
+
+      "LastModify": "2019-08-07T08:32:40.807"
+
+    },
+
+    {
+
+      "Id": 107,
+
+      "Organizer": "\r\nMike",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Alter Paradox",
+
+      "Name": "Apertura zona infantil y familiar",
+
+      "ActivityDate": "2019-08-17T17:00:00",
+
+      "Place": "Zona reservada",
+
+      "Type": "Otros",
+
+      "Participants": "1-20",
+
+      "MaxParticipants": 20,
+
+      "Duration": 180,
+
+      "Summary": "Zona de juegos y actividades para los mas pequeños",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "",
+
+      "LastModify": "2019-08-07T08:32:40.703"
+
+    },
+
+    {
+
+      "Id": 112,
+
+      "Organizer": "\r\nXabier Landabidea",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "AtopiaRPG",
+
+      "Name": "AtopiaRPG - Sarrera partidak",
+
+      "ActivityDate": "2019-08-17T17:00:00",
+
+      "Place": "Sala RdM",
+
+      "Type": "Rol de mesa",
+
+      "Participants": "6-10",
+
+      "MaxParticipants": 10,
+
+      "Duration": 180,
+
+      "Summary": "AtopiaRPG: Sarrera partidak",
+
+      "Comments": "AtopiaRPG euskaraz sortutako lehen rol jokoa da, eta 2019ko Durangoko Azokan egongo da salgai lehen aldiz. Umbras 2019 jardunaldietan jokoaren mekanika eta mundua ezagutzeko aukera zabalduko dugu. Ez da ezer jakin behar partida hauetara jolastu ahal izateko, eta pertsonaiak ere bertan sortuko ditugu.\n Aldi berean bi partida jokatzea proposatzen da. Ez balego nahikoa jokalaririk partida bakarra egingo genuke.",
+
+      "Enabled": false,
+
+      "Needs": "2 mesas (2 partidas simultaneas)",
+
+      "LastModify": "2019-08-07T08:32:40.753"
+
+    },
+
+    {
+
+      "Id": 109,
+
+      "Organizer": "\r\nPanda",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Alter Paradox",
+
+      "Name": "Demo Cancion de Hielo y Fuego",
+
+      "ActivityDate": "2019-08-17T17:00:00",
+
+      "Place": "Wargames",
+
+      "Type": "Wargames",
+
+      "Participants": "1-10",
+
+      "MaxParticipants": 10,
+
+      "Duration": 120,
+
+      "Summary": "Demostraciones del wargame de Cancion de Hielo y Fuego",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "",
+
+      "LastModify": "2019-08-07T08:32:40.727"
+
+    },
+
+    {
+
+      "Id": 110,
+
+      "Organizer": "\r\nCarlos Perez",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Alter Paradox",
+
+      "Name": "Demo Infinity",
+
+      "ActivityDate": "2019-08-17T17:00:00",
+
+      "Place": "Wargames",
+
+      "Type": "Wargames",
+
+      "Participants": "1-10",
+
+      "MaxParticipants": 10,
+
+      "Duration": 120,
+
+      "Summary": "Demostraciones del wargame 'Infinity'",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "",
+
+      "LastModify": "2019-08-07T08:32:40.737"
+
+    },
+
+    {
+
+      "Id": 111,
+
+      "Organizer": "\r\nCayro Games",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Cayro Games",
+
+      "Name": "Demo juegos de mesa",
+
+      "ActivityDate": "2019-08-17T17:00:00",
+
+      "Place": "Zona reservada",
+
+      "Type": "juegos de mesa",
+
+      "Participants": "1-8",
+
+      "MaxParticipants": 10,
+
+      "Duration": 240,
+
+      "Summary": "Demostraciones de juegos de mesa",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "",
+
+      "LastModify": "2019-08-07T08:32:40.743"
+
+    },
+
+    {
+
+      "Id": 119,
+
+      "Organizer": "\r\nCarlos Pileño",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Txarly Factory",
+
+      "Name": "Demo Jumble Jam",
+
+      "ActivityDate": "2019-08-17T17:00:00",
+
+      "Place": "Pabellon",
+
+      "Type": "Juegos de mesa",
+
+      "Participants": "2-10",
+
+      "MaxParticipants": 10,
+
+      "Duration": 60,
+
+      "Summary": "Partidas demostrativas del juego de mesa Jumble Jam",
+
+      "Comments": "Partidas demostrativas del juego de mesa Jumble Jam",
+
+      "Enabled": false,
+
+      "Needs": "1-2 Mesas y sillas, preferiblemente junto al stand",
+
+      "LastModify": "2019-08-07T08:32:40.817"
+
+    },
+
+    {
+
+      "Id": 106,
+
+      "Organizer": "\r\nIván Pérez",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "New Age Learning y Alter Paradox",
+
+      "Name": "Demo novedades juegos de mesa",
+
+      "ActivityDate": "2019-08-17T17:00:00",
+
+      "Place": "Zona reservada",
+
+      "Type": "Juegos de mesa",
+
+      "Participants": "2-24",
+
+      "MaxParticipants": 24,
+
+      "Duration": 240,
+
+      "Summary": "Enseñamos a jugar novedades de juegos de mesa",
+
+      "Comments": "Un equipo de personas de la asociacion New Age Learning y Alter Paradox se encargaran de hacer demos y tutoriales guiados de novedades de juegos de Mesa (2018-2019) de varias de las entidades patrocinadoras de Umbras de Paradox 2019: 2 Tomatoes, Asmodee, Maldito Games, Tranjis Games y Zacatrus.",
+
+      "Enabled": false,
+
+      "Needs": "6 mesas y 20 sillas",
+
+      "LastModify": "2019-08-07T08:32:40.697"
+
+    },
+
+    {
+
+      "Id": 108,
+
+      "Organizer": "\r\nIván Pérez",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "New Age Learning y Alter Paradox",
+
+      "Name": "Demo US Telegraph",
+
+      "ActivityDate": "2019-08-17T17:00:00",
+
+      "Place": "Zona reservada",
+
+      "Type": "Juegos de mesa",
+
+      "Participants": "4",
+
+      "MaxParticipants": 4,
+
+      "Duration": 60,
+
+      "Summary": "Aprende a jugar a US Telegraph",
+
+      "Comments": "Aprende a jugar a US Telegraph",
+
+      "Enabled": false,
+
+      "Needs": "Zona de demos",
+
+      "LastModify": "2019-08-07T08:32:40.717"
+
+    },
+
+    {
+
+      "Id": 114,
+
+      "Organizer": "\r\nFrancisco Tapia",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Con Pluma y Pixel",
+
+      "Name": "Firma de Luna de Sangre",
+
+      "ActivityDate": "2019-08-17T17:00:00",
+
+      "Place": "Stand de 'Con pluma y pixel'",
+
+      "Type": "Otros",
+
+      "Participants": "1-12",
+
+      "MaxParticipants": 12,
+
+      "Duration": 60,
+
+      "Summary": "Firma de ejemplares de Luna de Sangre a cargo de su autora.",
+
+      "Comments": "La autora Sara Herreras Castel (Destino de hada, Maldición de hada y Chispas de salamadra) dedicará ejemplares de su novela 'Luna de Sangre' en el stand de la editorial Con Pluma y Píxel. De regalo, un bonito punto de libro.\n ¡Descubre a una autora de fantasía con un mundo alucinante!",
+
+      "Enabled": false,
+
+      "Needs": "Nada, lo haran en el propio stand de Con pluma y pixel",
+
+      "LastModify": "2019-08-07T08:32:40.773"
+
+    },
+
+    {
+
+      "Id": 117,
+
+      "Organizer": "\r\nRocío Fernández",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Asociación juvenil Jumandji",
+
+      "Name": "Paradoja cuántica",
+
+      "ActivityDate": "2019-08-17T17:00:00",
+
+      "Place": "Gradas",
+
+      "Type": "REV",
+
+      "Participants": "12-13",
+
+      "MaxParticipants": 13,
+
+      "Duration": 150,
+
+      "Summary": "Rol en vivo de Doctor Who",
+
+      "Comments": "Despiertas y te encuentras de pie en una habitación hecha completamente de madera. Miras a tu alrededor con un poco más de atención y te percatas de que no hay puertas ni ventanas. Tu TARDIS está en una esquina y a parte de ella sólo hay una mesa en mitad de la sala con una bombilla encima. Ves a otras 13 persona exactamente en la misma posición que tú.\n Aunque no te encuentras ni confuso ni desorientado, a penas eres capaz de recordar quién eres y no sabes cómo has llegado hasta ahí",
+
+      "Enabled": false,
+
+      "Needs": "",
+
+      "LastModify": "2019-08-07T08:32:40.8"
+
+    },
+
+    {
+
+      "Id": 113,
+
+      "Organizer": "\r\nRafael Tamayo",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Iberocardio Social",
+
+      "Name": "RCP, tus manos pueden salvar vidas",
+
+      "ActivityDate": "2019-08-17T17:00:00",
+
+      "Place": "Sala REV",
+
+      "Type": "Charla",
+
+      "Participants": "6-24",
+
+      "MaxParticipants": 24,
+
+      "Duration": 90,
+
+      "Summary": "Charla de la importancia de la rcp y rcp práctica",
+
+      "Comments": "Como actuar ante emergencias.\n Como actuar ante el atragantaniento.\n Como realizar la Rcp solo con manos.\n Competición Rcp.\n Actividad muy visual. Con 12 maniquis con chip que valoran en pantalla a tiempo real la efectividad de la rcp.\n \n Se regalara posters a todos los participantes con recomendaciones para la rcp.\n \n IMPORTANTE COORDNIARNOS ANTES DEL 18Julio. O mirarlo con Josue de Aventum por que yo estaré de vaciones hasta antes de la actividad.",
+
+      "Enabled": false,
+
+      "Needs": "Sillas para los participantes y tele o proyector.",
+
+      "LastModify": "2019-08-07T08:32:40.763"
+
+    },
+
+    {
+
+      "Id": 115,
+
+      "Organizer": "\r\nAna Ciantarab",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Laberyn",
+
+      "Name": "Tales from the loop - Movie night",
+
+      "ActivityDate": "2019-08-17T17:00:00",
+
+      "Place": "Sala RdM",
+
+      "Type": "Rol de mesa",
+
+      "Participants": "3-5",
+
+      "MaxParticipants": 5,
+
+      "Duration": 240,
+
+      "Summary": "Grupo de chavales en unos años 80 distopicos",
+
+      "Comments": "Años 80. Un grupo de chavales preparan una noche de pelis de terror que no terminará como pensaban....",
+
+      "Enabled": false,
+
+      "Needs": "Mesa y sillas",
+
+      "LastModify": "2019-08-07T08:32:40.78"
+
+    },
+
+    {
+
+      "Id": 121,
+
+      "Organizer": "\r\nJuan Muerza",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "",
+
+      "Name": "Apocalipse World",
+
+      "ActivityDate": "2019-08-17T17:30:00",
+
+      "Place": "Sala RdM",
+
+      "Type": "Rol de mesa",
+
+      "Participants": "2-5",
+
+      "MaxParticipants": 5,
+
+      "Duration": 240,
+
+      "Summary": "Partida de primera sesión del apocalipse world. Juego PBTA de rol",
+
+      "Comments": "Apocalipse world es el juego de Vincent Backer que inicia la saga de juegos PBTA.\n Si quieres conocer como se juega a este tipo de juegos empieza por el original.\n \n Edad recomendada desde los 15 años en adelante",
+
+      "Enabled": false,
+
+      "Needs": "Mesa y sillas",
+
+      "LastModify": "2019-08-07T08:32:40.843"
+
+    },
+
+    {
+
+      "Id": 120,
+
+      "Organizer": "\r\nMike",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Alter Paradox",
+
+      "Name": "Infantil. Los + buscados, juego de pistas",
+
+      "ActivityDate": "2019-08-17T17:30:00",
+
+      "Place": "Zona reservada",
+
+      "Type": "Otros",
+
+      "Participants": "10",
+
+      "MaxParticipants": 10,
+
+      "Duration": 180,
+
+      "Summary": "'Los + buscados'. Juego de pistas para peques. Con inscripción.",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "",
+
+      "LastModify": "2019-08-07T08:32:40.833"
+
+    },
+
+    {
+
+      "Id": 122,
+
+      "Organizer": "\r\nCarlos Miguelez",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Games Workshop",
+
+      "Name": "Aprende a jugar a Apocalypse",
+
+      "ActivityDate": "2019-08-17T18:00:00",
+
+      "Place": "Wargames",
+
+      "Type": "Wargames",
+
+      "Participants": "10",
+
+      "MaxParticipants": 10,
+
+      "Duration": 90,
+
+      "Summary": "Aprende a jugar a Apocalypse",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "2 mesas",
+
+      "LastModify": "2019-08-07T08:32:40.85"
+
+    },
+
+    {
+
+      "Id": 124,
+
+      "Organizer": "\r\nFernando de las Cuevas",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Alter Paradox",
+
+      "Name": "Demo Bolt Action",
+
+      "ActivityDate": "2019-08-17T18:00:00",
+
+      "Place": "Wargames",
+
+      "Type": "Wargames",
+
+      "Participants": "4",
+
+      "MaxParticipants": 4,
+
+      "Duration": 180,
+
+      "Summary": "Partida introductoria a wargame sobre la segunda guerra mundial ",
+
+      "Comments": " \tBolt Action es un wargame arcade basado en la segunda guerra mundial, en el que se enfrentan dos ejércitos por el dominio de la partida. Las partidas suelen jugarse con unidades de infantería, con apoyo de artillería y carros de combate. Este juego, diseñado por warlord games, trata de meternos en el papel de un oficial de cualquiera de los ejércitos combatientes en este conflicto, teniendo a nuestra disposición gran variedad de unidades con las que poder derrotar a nuestro rival. ",
+
+      "Enabled": false,
+
+      "Needs": "mesa para poder poner una escenografia de 1,20x 1,80 y 4 sillas",
+
+      "LastModify": "2019-08-07T08:32:40.867"
+
+    },
+
+    {
+
+      "Id": 123,
+
+      "Organizer": "\r\nKeus Botella",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Dolce Keus",
+
+      "Name": "Taller pulseras Kumihimo",
+
+      "ActivityDate": "2019-08-17T18:00:00",
+
+      "Place": "Pabellon",
+
+      "Type": "Otros",
+
+      "Participants": "1-6",
+
+      "MaxParticipants": 6,
+
+      "Duration": 120,
+
+      "Summary": "Taller de pulseras",
+
+      "Comments": "Taller de pulseras estilo oriental con un disco llamado kumihimo (de ahí su nombre)",
+
+      "Enabled": false,
+
+      "Needs": "1 mesa, 7 sillas y 6 tijeras",
+
+      "LastModify": "2019-08-07T08:32:40.86"
+
+    },
+
+    {
+
+      "Id": 127,
+
+      "Organizer": "\r\nCarlos Perez",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Alter Paradox",
+
+      "Name": "Demo Aristeia!",
+
+      "ActivityDate": "2019-08-17T19:00:00",
+
+      "Place": "Wargames",
+
+      "Type": "Juegos de mesa",
+
+      "Participants": "1-10",
+
+      "MaxParticipants": 10,
+
+      "Duration": 120,
+
+      "Summary": "Demostraciones del juego 'Aristeia'",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "",
+
+      "LastModify": "2019-08-07T08:32:40.893"
+
+    },
+
+    {
+
+      "Id": 126,
+
+      "Organizer": "\r\nPanda",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Alter Paradox",
+
+      "Name": "Demo The walking dead: All out war",
+
+      "ActivityDate": "2019-08-17T19:00:00",
+
+      "Place": "Wargames",
+
+      "Type": "Wargames",
+
+      "Participants": "1-10",
+
+      "MaxParticipants": 10,
+
+      "Duration": 60,
+
+      "Summary": "Demostraciones del wargame 'The walking dead: All out war'",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "",
+
+      "LastModify": "2019-08-07T08:32:40.887"
+
+    },
+
+    {
+
+      "Id": 125,
+
+      "Organizer": "\r\nCarlos Pileño",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Txarly Factory",
+
+      "Name": "Torneo de Rising for the Throne",
+
+      "ActivityDate": "2019-08-17T19:00:00",
+
+      "Place": "Pabellon",
+
+      "Type": "Torneo",
+
+      "Participants": "3-10",
+
+      "MaxParticipants": 10,
+
+      "Duration": 60,
+
+      "Summary": "Torneo del juego de mesa Rising for the Throne",
+
+      "Comments": "Torneo del juego de mesa Rising for the Throne",
+
+      "Enabled": false,
+
+      "Needs": "1-2 Mesas y sillas, preferiblemente junto al stand",
+
+      "LastModify": "2019-08-07T08:32:40.877"
+
+    },
+
+    {
+
+      "Id": 128,
+
+      "Organizer": "\r\nMike",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Alter Paradox",
+
+      "Name": "Cierre  zona infantil y familiar",
+
+      "ActivityDate": "2019-08-17T20:00:00",
+
+      "Place": "Zona reservada",
+
+      "Type": "Otros",
+
+      "Participants": "1-20",
+
+      "MaxParticipants": 20,
+
+      "Duration": 180,
+
+      "Summary": "Zona de juegos y actividades para los mas pequeños",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "",
+
+      "LastModify": "2019-08-07T08:32:40.9"
+
+    },
+
+    {
+
+      "Id": 130,
+
+      "Organizer": "\r\nAlter Paradox",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Alter Paradox",
+
+      "Name": "Fin del concurso de fotografía",
+
+      "ActivityDate": "2019-08-17T21:00:00",
+
+      "Place": "",
+
+      "Type": "Otros",
+
+      "Participants": "1-100",
+
+      "MaxParticipants": 100,
+
+      "Duration": 0,
+
+      "Summary": "Fin del concurso de fotografía",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "",
+
+      "LastModify": "2019-08-07T08:32:40.917"
+
+    },
+
+    {
+
+      "Id": 129,
+
+      "Organizer": "\r\nAlter Paradox",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Alter Paradox",
+
+      "Name": "Fin del concurso de relatos",
+
+      "ActivityDate": "2019-08-17T21:00:00",
+
+      "Place": "",
+
+      "Type": "Otros",
+
+      "Participants": "1-100",
+
+      "MaxParticipants": 100,
+
+      "Duration": 0,
+
+      "Summary": "Fin del concurso de relatos",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "",
+
+      "LastModify": "2019-08-07T08:32:40.91"
+
+    },
+
+    {
+
+      "Id": 134,
+
+      "Organizer": "\r\nRaziel",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Atlas",
+
+      "Name": "SNATCH Maletines y cirujanos (reunión 20h)",
+
+      "ActivityDate": "2019-08-17T22:00:00",
+
+      "Place": "Exterior",
+
+      "Type": "REV",
+
+      "Participants": "30-60",
+
+      "MaxParticipants": 60,
+
+      "Duration": 300,
+
+      "Summary": "20:00 (reunion). Revisión de un vivo de 2012 basado en SNATCH Cerdos y diamantes",
+
+      "Comments": "20:00 (reunion). En una ciudad consumida por la corrupción y con las mafias campando a sus anchas es normal que cualquier noche pueda pasar algo gordo. Un lugar donde solo la acumulación de cadáveres hace que la policía empiece a preguntar algo es un lugar donde los que tienen la sartén por el mango hacen lo que quieren.\n El problema es el de siempre, ¿Quién domina realmente la ciudad? ¿Quiénes son los nuevos?¿Qué hay en ese maletín?¿Por qué no matamos a todos y listo?",
+
+      "Enabled": false,
+
+      "Needs": "",
+
+      "LastModify": "2019-08-07T08:32:40.95"
+
+    },
+
+
+    {
+
+      "Id": 132,
+
+      "Organizer": "\r\nPedro Toledo",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "8 Terras",
+
+      "Name": "8 Terras: Conflictos Oktoversales",
+
+      "ActivityDate": "2019-08-17T22:00:00",
+
+      "Place": "Zona reservada",
+
+      "Type": "Rol de mesa",
+
+      "Participants": "1-8",
+
+      "MaxParticipants": 8,
+
+      "Duration": 240,
+
+      "Summary": "Las más diversas aventuras pueden ocurrir en el Oktoversum. Tú decides... ven y pruébalo",
+
+      "Comments": "Las más diversas aventuras pueden ocurrir en el Oktoversum.\n Juega con Romanos, Atlantes, Cruzados, Nazis, Marines (tu eliges) contra Terroristas, Vampiros, Organizaciones Secretas, Dragones, Imperios Alienígenas, Dioses (lo que te toque)... ¡Un módulo distinto y nuevo cada partida!\n \n Tú decides... ven y prueba 8 Terras de la mano de Pedro Toledo, creador del juego.\n \n Partidas continuadas de diversos y originales módulos de 8 TERRAS sin parar todo el finde.\n \n Actividad para mayores de 16 años. Se pueden hacer excepciones para grupos mixtos.",
+
+      "Enabled": false,
+
+      "Needs": "Mesa y sillas. Preferiblemente la misma para todo el fin de semana",
+
+      "LastModify": "2019-08-07T08:32:40.933"
+
+    },
+
+    {
+
+      "Id": 131,
+
+      "Organizer": "\r\nIvan Gonzalez",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "",
+
+      "Name": "DANCÚ. Las crónicas de Lissandria",
+
+      "ActivityDate": "2019-08-17T22:00:00",
+
+      "Place": "Zona reservada",
+
+      "Type": "Rol de mesa",
+
+      "Participants": "1-5",
+
+      "MaxParticipants": 5,
+
+      "Duration": 240,
+
+      "Summary": "Partida a Dancú, juego de rol de fantasía épica. EL HUARGO / EL SINO DE EGEASAH",
+
+      "Comments": "Dancú es el nuevo juego de fantasía épica, con cierto aroma a veja escuela, de Suseya Ediciones. Su trama principal gira alrededor de una legendaria armadura que tiempo atrás casi provoca la destrucción del mundo y que tuvo como consecuencia la apertura de portales dimensionales por donde llegaron numerosas y nuevas civilizaciones. Sin embargo, aunque esa sea la trama principal, Dancú ofrece una infinidad de trasfondos de todo tipo que hace posible que tanto directores y directoras como jugadores y jugadoras puedan vivir aventuras de muy diversa naturaleza.\n Y precisamente es aquí donde se encuentra el principal valor de este juego de rol. En la narrativa informativa y de trasfondo que ofrece en comparación con otros juegos de temática similar. Estamos ante un universo que describe con todo lujo de detalles: reinos, imperios, territorios, soberanías, personajes singulares, eventos, lugares de interés, historietas del mundo, rumores, criaturas, la magia y su Dogmas, subtramas.... y un largo etcétera para conformar un universo rico y diverso. Además, en él podréis encontrar referencias cinematográficas, roleras y frikis que harán las delicias de los roleros y roleras que se animen con Dancú.\n \n PARTIDAS. Habrá dos aventuras para elegir:\n \n 1. EL HUARGO. El grupo de aventureros y aventureras se encuentra en la ciudad enjaulada de Zortia, desde donde son enviados a investigar un incidente en las Tierras Nómadas. Cuando llegan al lugar, se encuentran con una dantesca escena bañada en sangre y crueldad. El único rastro de vida proviene de un desesperado llanto tras unas rocas. Un llanto que convertirá lo que parecía un simple ataque a una caravana de viajeros, en una trepidante aventura llena de tramas ocultas y misterios por resolver. Los personajes tendrán que enfrentarse a una decisión que marcará el resto de sus días…\n \n 2. EL SINO DE EGEASAH. Se trata de la aventura publicada en el Kit de Inicio de Dancú. Los jugadores acuden a uno de los múltiples torneos de lucha de la ciudad de Kabúr. Sin embargo, una vez allí, se darán cuenta que su visita responde a un propósito mucho mayor que les obligará a tomar las decisiones más importantes y peligrosas de su vida. Convirtiéndose así, quizás, en los elegidos de una remota profecía.",
+
+      "Enabled": false,
+
+      "Needs": "1 mesa y 5 sillas",
+
+      "LastModify": "2019-08-07T08:32:40.923"
+
+    },
+
+    {
+
+      "Id": 133,
+
+      "Organizer": "\r\nJuan Muerza",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "",
+
+      "Name": "Monsterhearts 2",
+
+      "ActivityDate": "2019-08-17T22:30:00",
+
+      "Place": "Sala RdM",
+
+      "Type": "Rol de mesa",
+
+      "Participants": "2-5",
+
+      "MaxParticipants": 5,
+
+      "Duration": 240,
+
+      "Summary": "Partida de rol del juego Monster heart. Uno de los juegos PBTA de primera generación con contenido Queer",
+
+      "Comments": "Partida de rol del juego Monster heart.\n Extracto de la pagina de la editorial HT publisher.:\n \n Monsterhearts 2 es un juego de angustia adolescente en el que un grupo de monstruos (tanto en sentido literal como figurado) tratarán de comprender y comprenderse a sí mismos mientras se ocultan de un mundo oscuro y hostil. El juego se ha inspirado en sagas como True Blood, Buffy Cazavampiros, Ginger Snaps, Crepúsculo y Jóvenes brujas.\n \n Edad mínima recomendada para apuntarse 18 años.\n \n Dado el contenido del juego se propone el uso de herramientas de seguridad como la tarjeta X y / o el semáforo. Como propone la autora del juego en el propio sistema.",
+
+      "Enabled": false,
+
+      "Needs": "Mesa y sillas",
+
+      "LastModify": "2019-08-07T08:32:40.94"
+
+    },
+
+    {
+
+      "Id": 135,
+
+      "Organizer": "\r\nAndrés Carabantes",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "YoTambiénSoyUnFriki",
+
+      "Name": "1800: El Relojero",
+
+      "ActivityDate": "2019-08-18T09:00:00",
+
+      "Place": "Sala RdM",
+
+      "Type": "Rol de mesa",
+
+      "Participants": "3-5",
+
+      "MaxParticipants": 5,
+
+      "Duration": 240,
+
+      "Summary": "Partida de 1800: El Ocaso de la Humanidad",
+
+      "Comments": "En esta ocasión los jugadores, siempre bajo el mando de la Inquisición, tendrán que infiltrarse en el torneo anual del famoso filántropo y millonario Sir Robers, también conocido como El Relojero, y averiguar si este u otros participantes actúan en contra de los santos mandatos de la Iglesia y de Dios.",
+
+      "Enabled": false,
+
+      "Needs": "1 mesa, 6 sillas, papel y lápices",
+
+      "LastModify": "2019-08-07T08:32:40.957"
+
+    },
+
+    {
+
+      "Id": 136,
+
+      "Organizer": "\r\nIván Pérez",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "New Age Learning y Alter Paradox",
+
+      "Name": "Demo novedades juegos de mesa",
+
+      "ActivityDate": "2019-08-18T10:00:00",
+
+      "Place": "Zona reservada",
+
+      "Type": "Juegos de mesa",
+
+      "Participants": "2-24",
+
+      "MaxParticipants": 24,
+
+      "Duration": 240,
+
+      "Summary": "Enseñamos a jugar novedades de juegos de mesa",
+
+      "Comments": "Un equipo de personas de la asociacion New Age Learning y Alter Paradox se encargaran de hacer demos y tutoriales guiados de novedades de juegos de Mesa (2018-2019) de varias de las entidades patrocinadoras de Umbras de Paradox 2019: 2 Tomatoes, Asmodee, Maldito Games, Tranjis Games y Zacatrus.",
+
+      "Enabled": false,
+
+      "Needs": "6 mesas y 20 sillas",
+
+      "LastModify": "2019-08-07T08:32:40.97"
+
+    },
+
+    {
+
+      "Id": 141,
+
+      "Organizer": "\r\nJesus Guardia",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "La Historia en Guerra",
+
+      "Name": "Demo X-wing 2.0",
+
+      "ActivityDate": "2019-08-18T10:00:00",
+
+      "Place": "pabellon",
+
+      "Type": "Wargames",
+
+      "Participants": "6",
+
+      "MaxParticipants": 6,
+
+      "Duration": 120,
+
+      "Summary": "Demo de la versión 2.0 del wargame X-wing",
+
+      "Comments": "Demostración del wargame de star wars x-wing en el que se enseñara a jugar y se mostraran los cambios de la nueva versión.",
+
+      "Enabled": false,
+
+      "Needs": "meas y sillas",
+
+      "LastModify": "2019-08-07T08:32:41.01"
+
+    },
+
+    {
+
+      "Id": 137,
+
+      "Organizer": "\r\nCayro Games",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Cayro Games",
+
+      "Name": "Demos de juegos de mesa",
+
+      "ActivityDate": "2019-08-18T10:00:00",
+
+      "Place": "Zona reservada",
+
+      "Type": "juegos de mesa",
+
+      "Participants": "1-8",
+
+      "MaxParticipants": 10,
+
+      "Duration": 180,
+
+      "Summary": "Demostraciones de juegos de mesa",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "",
+
+      "LastModify": "2019-08-07T08:32:40.977"
+
+    },
+
+    {
+
+      "Id": 139,
+
+      "Organizer": "\r\nIon Calafel",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "",
+
+      "Name": "Deus in Licentia",
+
+      "ActivityDate": "2019-08-18T10:00:00",
+
+      "Place": "Sala REV",
+
+      "Type": "REV",
+
+      "Participants": "13",
+
+      "MaxParticipants": 13,
+
+      "Duration": 120,
+
+      "Summary": "Dios no está y nadie sabe a dónde ha ido",
+
+      "Comments": "Dios no está y nadie sabe a dónde ha ido. Se reúnen Jesus, San Pedro, los 7 Arcángeles, el Metatrón y una delegación infernal de tres demonios para discutir qué hacer y cómo solucionar este lío.",
+
+      "Enabled": false,
+
+      "Needs": "",
+
+      "LastModify": "2019-08-07T08:32:40.993"
+
+    },
+
+    {
+
+      "Id": 138,
+
+      "Organizer": "\r\nGabriel Antonio",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Jugger Pamplona",
+
+      "Name": "Jugger",
+
+      "ActivityDate": "2019-08-18T10:00:00",
+
+      "Place": "Exterior",
+
+      "Type": "Otros",
+
+      "Participants": "10-50",
+
+      "MaxParticipants": 50,
+
+      "Duration": 120,
+
+      "Summary": "Juego de habilidad y estrategia",
+
+      "Comments": "Se trata de un deporte mixto de contacto entre dos equipos de cinco jugadores, originado en Alemania a principios de la década de 1990. Aunque en esencia es muy parecido al rugby, añade elementos de esgrima, minimizando así el contacto entre jugadores. La finalidad de cada equipo es hacerse con la pelota en el centro del campo y llevarla hasta la base contraria para marcar un tanto. El equipo que más anote, será el ganador.",
+
+      "Enabled": false,
+
+      "Needs": "Un campo donde jugar",
+
+      "LastModify": "2019-08-07T08:32:40.983"
+
+    },
+
+    {
+
+      "Id": 140,
+
+      "Organizer": "\r\nPedro Toledo",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "8 Terras",
+
+      "Name": "8 Terras: Conflictos Oktoversales",
+
+      "ActivityDate": "2019-08-18T10:30:00",
+
+      "Place": "Zona reservada",
+
+      "Type": "Rol de mesa",
+
+      "Participants": "1-8",
+
+      "MaxParticipants": 8,
+
+      "Duration": 210,
+
+      "Summary": "Las más diversas aventuras pueden ocurrir en el Oktoversum. Tú decides... ven y pruébalo",
+
+      "Comments": "Las más diversas aventuras pueden ocurrir en el Oktoversum.\n Juega con Romanos, Atlantes, Cruzados, Nazis, Marines (tu eliges) contra Terroristas, Vampiros, Organizaciones Secretas, Dragones, Imperios Alienígenas, Dioses (lo que te toque)... ¡Un módulo distinto y nuevo cada partida!\n \n Tú decides... ven y prueba 8 Terras de la mano de Pedro Toledo, creador del juego.\n \n Partidas continuadas de diversos y originales módulos de 8 TERRAS sin parar todo el finde.\n \n Actividad para mayores de 16 años. Se pueden hacer excepciones para grupos mixtos.",
+
+      "Enabled": false,
+
+      "Needs": "Mesa y sillas. Preferiblemente la misma para todo el fin de semana",
+
+      "LastModify": "2019-08-07T08:32:41"
+
+    },
+
+    {
+
+      "Id": 142,
+
+      "Organizer": "\r\nCarlos Pileño",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Txarly Factory",
+
+      "Name": "Demo Jumble Jam",
+
+      "ActivityDate": "2019-08-18T11:00:00",
+
+      "Place": "Pabellon",
+
+      "Type": "Juegos de mesa",
+
+      "Participants": "2-10",
+
+      "MaxParticipants": 10,
+
+      "Duration": 60,
+
+      "Summary": "Partidas demostrativas del juego de mesa Jumble Jam",
+
+      "Comments": "Partidas demostrativas del juego de mesa Jumble Jam",
+
+      "Enabled": false,
+
+      "Needs": "1-2 Mesas y sillas, preferiblemente junto al stand",
+
+      "LastModify": "2019-08-07T08:32:41.02"
+
+    },
+
+    {
+
+      "Id": 143,
+
+      "Organizer": "\r\nPeio Soria",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "",
+
+      "Name": "Los laberintos de Krommar",
+
+      "ActivityDate": "2019-08-18T11:00:00",
+
+      "Place": "Pabellon",
+
+      "Type": "Juegos de mesa",
+
+      "Participants": "2-4",
+
+      "MaxParticipants": 4,
+
+      "Duration": 120,
+
+      "Summary": "Testear Juego de cartas familiar",
+
+      "Comments": "Juego de cartas para max. 4 jugadores en el que cada jugador avanza sus 3 héroes por un laberinto para ocupar uno o más tronos. Gana el que más tronos ocupe. Juego competitivo o cooperativo dependiendo de qué quieran los jugadores.",
+
+      "Enabled": false,
+
+      "Needs": "Juego de cartas para max. 4 jugadores en el que cada jugador avanza sus 3 héroes por un laberinto para ocupar uno o más tronos. Gana el que más tronos ocupe. Juego competitivo o cooperativo dependiendo de qué quieran los jugadores.\n \n Para alcanzar la gloria, tu clan debe conquistar por lo menos un trono del mítico laberinto de Krommar. ¡Oh, Krommar, tú que creaste los tronos nosotros los ocuparemos por tu gloria!\n Hay cuatro clanes con tres héroes cada uno. Cada clan que juega debe avanzar a sus héroes por las cuadrículas de laberinto (cada clan tiene su laberinto).\n \n En el medio de la mesa hay un mazo con cartas de acción (con las que ayudar a tus héroes, perjudicar a los de los otros clanes, o a los otros jugadores o para protegerte tú).\n \n Cada jugador tendrá su carta de clan para los combates (porque puedes avanzar a tus héroes por los laberintos de otros jugadores y hacer combates).\n \n La partida termina cuando todos los tronos queden ocupados. ¡Competir o cooperar es decisión tuya!",
+
+      "LastModify": "2019-08-07T08:32:41.027"
+
+    },
+
+    {
+
+      "Id": 144,
+
+      "Organizer": "\r\nCarlos Pileño",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Txarly Factory",
+
+      "Name": "Demo Rising for the Throne",
+
+      "ActivityDate": "2019-08-18T12:00:00",
+
+      "Place": "Pabellon",
+
+      "Type": "Juegos de mesa",
+
+      "Participants": "2-10",
+
+      "MaxParticipants": 10,
+
+      "Duration": 60,
+
+      "Summary": "Partidas demostrativas del juego de mesa Rising for the Throne",
+
+      "Comments": "Partidas demostrativas del juego de mesa Rising for the Throne",
+
+      "Enabled": false,
+
+      "Needs": "1-2 Mesas y sillas, preferiblemente junto al stand",
+
+      "LastModify": "2019-08-07T08:32:41.033"
+
+    },
+
+    {
+
+      "Id": 145,
+
+      "Organizer": "\r\n",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Alter Paradox",
+
+      "Name": "Evento de clausura",
+
+      "ActivityDate": "2019-08-18T13:00:00",
+
+      "Place": "",
+
+      "Type": "Otros",
+
+      "Participants": "1-100",
+
+      "MaxParticipants": 100,
+
+      "Duration": 60,
+
+      "Summary": "Evento de clausura",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "",
+
+      "LastModify": "2019-08-07T08:32:41.043"
+
+    },
+
+    {
+
+      "Id": 146,
+
+      "Organizer": "\r\n",
+
+      "Email": "",
+
+      "Phone": "",
+
+      "Association": "Alter Paradox",
+
+      "Name": "Comida en el Hotel Don Carlos",
+
+      "ActivityDate": "2019-08-18T14:30:00",
+
+      "Place": "",
+
+      "Type": "Otros",
+
+      "Participants": "1-100",
+
+      "MaxParticipants": 100,
+
+      "Duration": 120,
+
+      "Summary": "Comida en el Hotel Don Carlos",
+
+      "Comments": "",
+
+      "Enabled": false,
+
+      "Needs": "",
+
+      "LastModify": "2019-08-07T08:32:41.05"
+
+    }
+
+  ],
+
+  "MensajeError": ""
+
+}

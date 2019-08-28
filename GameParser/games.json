@@ -218,6 +218,33 @@
       "Status": 0
     },
     {
+      "Id": 282,
+      "TheGame": {
+        "Id": 11,
+        "Name": "Black Stories",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 5,
+        "Years": 12,
+        "PlayerMin": 2,
+        "PlayerMax": 15,
+        "Difficulty": 1,
+        "Duration": 20,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4-6"
+      },
+      "Association": {
+        "Id": 3,
+        "Name": "Ion Calafel",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
       "Id": 174,
       "TheGame": {
         "Id": 11,
@@ -344,6 +371,33 @@
       "Association": {
         "Id": 2,
         "Name": "Atlas",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 301,
+      "TheGame": {
+        "Id": 17,
+        "Name": "Cacao",
+        "Editorial": "",
+        "Family": 1,
+        "Type": 0,
+        "Years": 8,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 1,
+        "Duration": 45,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 3"
+      },
+      "Association": {
+        "Id": 4,
+        "Name": "Aventum",
         "Contact": null,
         "Email": null,
         "Phone": null,
@@ -587,6 +641,33 @@
       "Association": {
         "Id": 1,
         "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 284,
+      "TheGame": {
+        "Id": 31,
+        "Name": "Criaturas y Cultistas",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 5,
+        "Years": 8,
+        "PlayerMin": 2,
+        "PlayerMax": 5,
+        "Difficulty": 1,
+        "Duration": 30,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: "
+      },
+      "Association": {
+        "Id": 3,
+        "Name": "Ion Calafel",
         "Contact": null,
         "Email": null,
         "Phone": null,
@@ -1028,6 +1109,33 @@
       "Status": 0
     },
     {
+      "Id": 289,
+      "TheGame": {
+        "Id": 48,
+        "Name": "El Espía (que se perdió)",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 2,
+        "Years": 12,
+        "PlayerMin": 3,
+        "PlayerMax": 8,
+        "Difficulty": 1,
+        "Duration": 15,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 6"
+      },
+      "Association": {
+        "Id": 3,
+        "Name": "Ion Calafel",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
       "Id": 106,
       "TheGame": {
         "Id": 49,
@@ -1244,6 +1352,33 @@
       "Status": 0
     },
     {
+      "Id": 315,
+      "TheGame": {
+        "Id": 57,
+        "Name": "Fuga de Colditz",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 5,
+        "Years": 12,
+        "PlayerMin": 2,
+        "PlayerMax": 6,
+        "Difficulty": 2,
+        "Duration": 180,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4"
+      },
+      "Association": {
+        "Id": 4,
+        "Name": "Aventum",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
       "Id": 79,
       "TheGame": {
         "Id": 59,
@@ -1289,6 +1424,33 @@
       "Association": {
         "Id": 1,
         "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 312,
+      "TheGame": {
+        "Id": 60,
+        "Name": "Galaxy Trucker",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 5,
+        "Years": 10,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 2,
+        "Duration": 60,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4"
+      },
+      "Association": {
+        "Id": 4,
+        "Name": "Aventum",
         "Contact": null,
         "Email": null,
         "Phone": null,
@@ -1838,6 +2000,33 @@
       "Status": 0
     },
     {
+      "Id": 283,
+      "TheGame": {
+        "Id": 100,
+        "Name": "Noviembre Rojo",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 3,
+        "Years": 10,
+        "PlayerMin": 1,
+        "PlayerMax": 8,
+        "Difficulty": 2,
+        "Duration": 120,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4"
+      },
+      "Association": {
+        "Id": 3,
+        "Name": "Ion Calafel",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
       "Id": 144,
       "TheGame": {
         "Id": 100,
@@ -2351,6 +2540,33 @@
       "Status": 0
     },
     {
+      "Id": 299,
+      "TheGame": {
+        "Id": 121,
+        "Name": "Sombras sobre Londres (Letters from Whitechapel)",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 3,
+        "Years": 12,
+        "PlayerMin": 2,
+        "PlayerMax": 6,
+        "Difficulty": 2,
+        "Duration": 120,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 2"
+      },
+      "Association": {
+        "Id": 4,
+        "Name": "Aventum",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
       "Id": 141,
       "TheGame": {
         "Id": 123,
@@ -2675,6 +2891,33 @@
       "Status": 0
     },
     {
+      "Id": 317,
+      "TheGame": {
+        "Id": 136,
+        "Name": "Terraforming Mars",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 3,
+        "Years": 12,
+        "PlayerMin": 1,
+        "PlayerMax": 5,
+        "Difficulty": 2,
+        "Duration": 120,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 3-4"
+      },
+      "Association": {
+        "Id": 4,
+        "Name": "Aventum",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
       "Id": 117,
       "TheGame": {
         "Id": 137,
@@ -2747,6 +2990,33 @@
       "Association": {
         "Id": 1,
         "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 310,
+      "TheGame": {
+        "Id": 141,
+        "Name": "Tigris y Eufrates",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 3,
+        "Years": 12,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 2,
+        "Duration": 90,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4"
+      },
+      "Association": {
+        "Id": 4,
+        "Name": "Aventum",
         "Contact": null,
         "Email": null,
         "Phone": null,
@@ -2999,6 +3269,33 @@
       "Status": 0
     },
     {
+      "Id": 305,
+      "TheGame": {
+        "Id": 155,
+        "Name": "XCOM: El juego de tablero",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 5,
+        "Years": 12,
+        "PlayerMin": 1,
+        "PlayerMax": 4,
+        "Difficulty": 3,
+        "Duration": 90,
+        "IsExpansion": 0,
+        "Comments": "Jugadores recomendados: 4"
+      },
+      "Association": {
+        "Id": 4,
+        "Name": "Aventum",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
       "Id": 99,
       "TheGame": {
         "Id": 156,
@@ -3152,6 +3449,33 @@
       "Association": {
         "Id": 2,
         "Name": "Atlas",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 285,
+      "TheGame": {
+        "Id": 197,
+        "Name": "Ciudadelas",
+        "Editorial": "Edge",
+        "Family": 0,
+        "Type": 3,
+        "Years": 6,
+        "PlayerMin": 2,
+        "PlayerMax": 7,
+        "Difficulty": 0,
+        "Duration": 60,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 3,
+        "Name": "Ion Calafel",
         "Contact": null,
         "Email": null,
         "Phone": null,
@@ -3422,6 +3746,33 @@
       "Association": {
         "Id": 2,
         "Name": "Atlas",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 303,
+      "TheGame": {
+        "Id": 210,
+        "Name": "Sherif de Nottingham",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 0,
+        "Years": 14,
+        "PlayerMin": 3,
+        "PlayerMax": 5,
+        "Difficulty": 0,
+        "Duration": 60,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 4,
+        "Name": "Aventum",
         "Contact": null,
         "Email": null,
         "Phone": null,
@@ -3782,6 +4133,33 @@
       "Status": 0
     },
     {
+      "Id": 291,
+      "TheGame": {
+        "Id": 257,
+        "Name": "Toledo",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 5,
+        "Years": 10,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 1,
+        "Duration": 45,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 3,
+        "Name": "Ion Calafel",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
       "Id": 256,
       "TheGame": {
         "Id": 259,
@@ -3800,6 +4178,33 @@
       "Association": {
         "Id": 2,
         "Name": "Atlas",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 290,
+      "TheGame": {
+        "Id": 269,
+        "Name": "Domaine",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 3,
+        "Years": 12,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 2,
+        "Duration": 60,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 3,
+        "Name": "Ion Calafel",
         "Contact": null,
         "Email": null,
         "Phone": null,
@@ -3944,6 +4349,87 @@
       "Status": 0
     },
     {
+      "Id": 288,
+      "TheGame": {
+        "Id": 284,
+        "Name": "Principes de Florencia",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 5,
+        "Years": 12,
+        "PlayerMin": 2,
+        "PlayerMax": 5,
+        "Difficulty": 2,
+        "Duration": 120,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 3,
+        "Name": "Ion Calafel",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 287,
+      "TheGame": {
+        "Id": 285,
+        "Name": "Stone Age",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 6,
+        "Years": 10,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 2,
+        "Duration": 90,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 3,
+        "Name": "Ion Calafel",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 286,
+      "TheGame": {
+        "Id": 288,
+        "Name": "Way out West",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 6,
+        "Years": 13,
+        "PlayerMin": 3,
+        "PlayerMax": 5,
+        "Difficulty": 2,
+        "Duration": 120,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 3,
+        "Name": "Ion Calafel",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
       "Id": 281,
       "TheGame": {
         "Id": 290,
@@ -4052,6 +4538,60 @@
       "Status": 0
     },
     {
+      "Id": 308,
+      "TheGame": {
+        "Id": 358,
+        "Name": "Colonos del Imperio",
+        "Editorial": "edge",
+        "Family": 0,
+        "Type": 0,
+        "Years": 10,
+        "PlayerMin": 1,
+        "PlayerMax": 7,
+        "Difficulty": 0,
+        "Duration": 45,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 4,
+        "Name": "Aventum",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 313,
+      "TheGame": {
+        "Id": 364,
+        "Name": "Barony",
+        "Editorial": "Matagot",
+        "Family": 2,
+        "Type": 0,
+        "Years": 14,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 0,
+        "Duration": 45,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 4,
+        "Name": "Aventum",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
       "Id": 271,
       "TheGame": {
         "Id": 366,
@@ -4097,6 +4637,60 @@
       "Association": {
         "Id": 1,
         "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 316,
+      "TheGame": {
+        "Id": 367,
+        "Name": "Sagrada",
+        "Editorial": "",
+        "Family": 1,
+        "Type": 5,
+        "Years": 13,
+        "PlayerMin": 1,
+        "PlayerMax": 4,
+        "Difficulty": 2,
+        "Duration": 30,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 4,
+        "Name": "Aventum",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 304,
+      "TheGame": {
+        "Id": 368,
+        "Name": "Twilight Struggle",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 3,
+        "Years": 14,
+        "PlayerMin": 2,
+        "PlayerMax": 2,
+        "Difficulty": 3,
+        "Duration": 180,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 4,
+        "Name": "Aventum",
         "Contact": null,
         "Email": null,
         "Phone": null,
@@ -4187,6 +4781,114 @@
       "Status": 0
     },
     {
+      "Id": 314,
+      "TheGame": {
+        "Id": 371,
+        "Name": "Alta tensión",
+        "Editorial": "edge",
+        "Family": 2,
+        "Type": 0,
+        "Years": 12,
+        "PlayerMin": 2,
+        "PlayerMax": 6,
+        "Difficulty": 0,
+        "Duration": 120,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 4,
+        "Name": "Aventum",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 311,
+      "TheGame": {
+        "Id": 374,
+        "Name": "Miguel Strogoff",
+        "Editorial": "Devir Iberia",
+        "Family": 2,
+        "Type": 0,
+        "Years": 12,
+        "PlayerMin": 1,
+        "PlayerMax": 5,
+        "Difficulty": 0,
+        "Duration": 60,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 4,
+        "Name": "Aventum",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 297,
+      "TheGame": {
+        "Id": 375,
+        "Name": "Rescate",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 5,
+        "Years": 10,
+        "PlayerMin": 2,
+        "PlayerMax": 6,
+        "Difficulty": 0,
+        "Duration": 45,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 4,
+        "Name": "Aventum",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 302,
+      "TheGame": {
+        "Id": 377,
+        "Name": "Arriba y Abajo",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 3,
+        "Years": 13,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 0,
+        "Duration": 90,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 4,
+        "Name": "Aventum",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
       "Id": 97,
       "TheGame": {
         "Id": 377,
@@ -4205,6 +4907,60 @@
       "Association": {
         "Id": 1,
         "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 323,
+      "TheGame": {
+        "Id": 384,
+        "Name": "Istanbul",
+        "Editorial": "Devir",
+        "Family": 2,
+        "Type": 6,
+        "Years": 10,
+        "PlayerMin": 2,
+        "PlayerMax": 5,
+        "Difficulty": 0,
+        "Duration": 40,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 4,
+        "Name": "Aventum",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 306,
+      "TheGame": {
+        "Id": 386,
+        "Name": "Jerusalem",
+        "Editorial": "",
+        "Family": 2,
+        "Type": 6,
+        "Years": 12,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 2,
+        "Duration": 90,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 4,
+        "Name": "Aventum",
         "Contact": null,
         "Email": null,
         "Phone": null,
@@ -4523,6 +5279,33 @@
         "PlayerMax": 6,
         "Difficulty": 0,
         "Duration": 20,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 343,
+      "TheGame": {
+        "Id": 437,
+        "Name": "Underwater Cities",
+        "Editorial": "Arrakis Games",
+        "Family": 2,
+        "Type": 3,
+        "Years": 14,
+        "PlayerMin": 1,
+        "PlayerMax": 4,
+        "Difficulty": 0,
+        "Duration": 40,
         "IsExpansion": 0,
         "Comments": ""
       },
@@ -5186,6 +5969,33 @@
       "Status": 0
     },
     {
+      "Id": 300,
+      "TheGame": {
+        "Id": 461,
+        "Name": "Imagine",
+        "Editorial": "Cocktail Games",
+        "Family": 0,
+        "Type": 0,
+        "Years": 12,
+        "PlayerMin": 3,
+        "PlayerMax": 8,
+        "Difficulty": 0,
+        "Duration": 30,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 4,
+        "Name": "Aventum",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
       "Id": 39,
       "TheGame": {
         "Id": 462,
@@ -5240,6 +6050,33 @@
       "Status": 0
     },
     {
+      "Id": 341,
+      "TheGame": {
+        "Id": 464,
+        "Name": "Mysterium",
+        "Editorial": "Libellud",
+        "Family": 2,
+        "Type": 8,
+        "Years": 10,
+        "PlayerMin": 2,
+        "PlayerMax": 7,
+        "Difficulty": 0,
+        "Duration": 42,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
       "Id": 33,
       "TheGame": {
         "Id": 465,
@@ -5252,6 +6089,33 @@
         "PlayerMax": 6,
         "Difficulty": 0,
         "Duration": 45,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 318,
+      "TheGame": {
+        "Id": 466,
+        "Name": "El monstruo de colores",
+        "Editorial": "Devir",
+        "Family": 4,
+        "Type": 1,
+        "Years": 4,
+        "PlayerMin": 2,
+        "PlayerMax": 5,
+        "Difficulty": 0,
+        "Duration": 20,
         "IsExpansion": 0,
         "Comments": ""
       },
@@ -5969,6 +6833,33 @@
       "Status": 0
     },
     {
+      "Id": 296,
+      "TheGame": {
+        "Id": 494,
+        "Name": "Pocimas y brebajes",
+        "Editorial": "Devir",
+        "Family": 2,
+        "Type": 3,
+        "Years": 10,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 0,
+        "Duration": 45,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 4,
+        "Name": "Aventum",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
       "Id": 65,
       "TheGame": {
         "Id": 495,
@@ -6122,6 +7013,33 @@
       "Association": {
         "Id": 1,
         "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 309,
+      "TheGame": {
+        "Id": 501,
+        "Name": "Bienvenido a la mazmorra",
+        "Editorial": "Devir",
+        "Family": 0,
+        "Type": 2,
+        "Years": 10,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 0,
+        "Duration": 30,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 4,
+        "Name": "Aventum",
         "Contact": null,
         "Email": null,
         "Phone": null,
@@ -6473,6 +7391,33 @@
       "Association": {
         "Id": 1,
         "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 307,
+      "TheGame": {
+        "Id": 513,
+        "Name": "Hadara",
+        "Editorial": "Devir",
+        "Family": 2,
+        "Type": 6,
+        "Years": 10,
+        "PlayerMin": 2,
+        "PlayerMax": 5,
+        "Difficulty": 0,
+        "Duration": 45,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 4,
+        "Name": "Aventum",
         "Contact": null,
         "Email": null,
         "Phone": null,
@@ -7292,6 +8237,33 @@
       "Status": 0
     },
     {
+      "Id": 298,
+      "TheGame": {
+        "Id": 544,
+        "Name": "Catan",
+        "Editorial": "Devir",
+        "Family": 2,
+        "Type": 3,
+        "Years": 10,
+        "PlayerMin": 3,
+        "PlayerMax": 4,
+        "Difficulty": 0,
+        "Duration": 75,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 4,
+        "Name": "Aventum",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
       "Id": 250,
       "TheGame": {
         "Id": 545,
@@ -7553,6 +8525,816 @@
       "Association": {
         "Id": 2,
         "Name": "Atlas",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 292,
+      "TheGame": {
+        "Id": 556,
+        "Name": "Camelot Legends",
+        "Editorial": "Z-Man Games",
+        "Family": 0,
+        "Type": 8,
+        "Years": 10,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 0,
+        "Duration": 60,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 3,
+        "Name": "Ion Calafel",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 293,
+      "TheGame": {
+        "Id": 557,
+        "Name": "Ave Caesar",
+        "Editorial": "Proludo",
+        "Family": 2,
+        "Type": 5,
+        "Years": 12,
+        "PlayerMin": 3,
+        "PlayerMax": 6,
+        "Difficulty": 2,
+        "Duration": 0,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 3,
+        "Name": "Ion Calafel",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 294,
+      "TheGame": {
+        "Id": 558,
+        "Name": "El Señor de los Anillos Trivia",
+        "Editorial": "Devir",
+        "Family": 0,
+        "Type": 2,
+        "Years": 12,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 0,
+        "Duration": 60,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 3,
+        "Name": "Ion Calafel",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 295,
+      "TheGame": {
+        "Id": 559,
+        "Name": "Formula Dé Expansiones",
+        "Editorial": "Descartes Editeur",
+        "Family": 7,
+        "Type": 8,
+        "Years": 0,
+        "PlayerMin": 0,
+        "PlayerMax": 0,
+        "Difficulty": 0,
+        "Duration": 0,
+        "IsExpansion": 1,
+        "Comments": ">Expansión del 11 al 26"
+      },
+      "Association": {
+        "Id": 3,
+        "Name": "Ion Calafel",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 319,
+      "TheGame": {
+        "Id": 561,
+        "Name": "Aventureros al tren - Vuelta al mundo",
+        "Editorial": "Days of Wonder",
+        "Family": 2,
+        "Type": 0,
+        "Years": 10,
+        "PlayerMin": 2,
+        "PlayerMax": 5,
+        "Difficulty": 2,
+        "Duration": 120,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 4,
+        "Name": "Aventum",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 320,
+      "TheGame": {
+        "Id": 562,
+        "Name": "8 Bit Box",
+        "Editorial": "Devir",
+        "Family": 5,
+        "Type": 5,
+        "Years": 6,
+        "PlayerMin": 3,
+        "PlayerMax": 6,
+        "Difficulty": 0,
+        "Duration": 15,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 4,
+        "Name": "Aventum",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 321,
+      "TheGame": {
+        "Id": 563,
+        "Name": "Flamme Rouge",
+        "Editorial": "Devir",
+        "Family": 2,
+        "Type": 5,
+        "Years": 8,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 2,
+        "Duration": 45,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 4,
+        "Name": "Aventum",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 322,
+      "TheGame": {
+        "Id": 564,
+        "Name": "Beowulf",
+        "Editorial": "Fantasy Flight",
+        "Family": 2,
+        "Type": 5,
+        "Years": 10,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 2,
+        "Duration": 60,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 4,
+        "Name": "Aventum",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 325,
+      "TheGame": {
+        "Id": 565,
+        "Name": "Plenus",
+        "Editorial": "Devir",
+        "Family": 5,
+        "Type": 8,
+        "Years": 8,
+        "PlayerMin": 1,
+        "PlayerMax": 6,
+        "Difficulty": 1,
+        "Duration": 20,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 4,
+        "Name": "Aventum",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 324,
+      "TheGame": {
+        "Id": 566,
+        "Name": "Yangtze",
+        "Editorial": "Devir",
+        "Family": 0,
+        "Type": 5,
+        "Years": 8,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 2,
+        "Duration": 45,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 4,
+        "Name": "Aventum",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 326,
+      "TheGame": {
+        "Id": 567,
+        "Name": "La Villa",
+        "Editorial": "Ludo Nova",
+        "Family": 2,
+        "Type": 6,
+        "Years": 1,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 2,
+        "Duration": 12,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 4,
+        "Name": "Aventum",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 327,
+      "TheGame": {
+        "Id": 568,
+        "Name": "Los Pilares de la Tierra",
+        "Editorial": "Devir",
+        "Family": 2,
+        "Type": 3,
+        "Years": 12,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 0,
+        "Duration": 90,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 4,
+        "Name": "Aventum",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 328,
+      "TheGame": {
+        "Id": 569,
+        "Name": "H.P. Lovecraft - Kingsport Festival",
+        "Editorial": "Devir",
+        "Family": 2,
+        "Type": 5,
+        "Years": 13,
+        "PlayerMin": 3,
+        "PlayerMax": 5,
+        "Difficulty": 3,
+        "Duration": 90,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 4,
+        "Name": "Aventum",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 329,
+      "TheGame": {
+        "Id": 570,
+        "Name": "Carcassonne Safari",
+        "Editorial": "Devir",
+        "Family": 1,
+        "Type": 5,
+        "Years": 2,
+        "PlayerMin": 5,
+        "PlayerMax": 7,
+        "Difficulty": 2,
+        "Duration": 35,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 4,
+        "Name": "Aventum",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 330,
+      "TheGame": {
+        "Id": 571,
+        "Name": "Brains",
+        "Editorial": "SD Games",
+        "Family": 7,
+        "Type": 0,
+        "Years": 8,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 1,
+        "Duration": 15,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 4,
+        "Name": "Aventum",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 347,
+      "TheGame": {
+        "Id": 572,
+        "Name": "Dungeon Fighter",
+        "Editorial": "Edge",
+        "Family": 0,
+        "Type": 5,
+        "Years": 14,
+        "PlayerMin": 1,
+        "PlayerMax": 6,
+        "Difficulty": 1,
+        "Duration": 45,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 4,
+        "Name": "Aventum",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 331,
+      "TheGame": {
+        "Id": 573,
+        "Name": "Luxor",
+        "Editorial": "Devir",
+        "Family": 2,
+        "Type": 5,
+        "Years": 8,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 1,
+        "Duration": 45,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 4,
+        "Name": "Aventum",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 332,
+      "TheGame": {
+        "Id": 574,
+        "Name": "A través del desierto",
+        "Editorial": "Fantasy Flight Games",
+        "Family": 2,
+        "Type": 5,
+        "Years": 10,
+        "PlayerMin": 2,
+        "PlayerMax": 5,
+        "Difficulty": 1,
+        "Duration": 45,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 4,
+        "Name": "Aventum",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 333,
+      "TheGame": {
+        "Id": 575,
+        "Name": "La Busqueda del anillo",
+        "Editorial": "Devir",
+        "Family": 2,
+        "Type": 5,
+        "Years": 13,
+        "PlayerMin": 2,
+        "PlayerMax": 5,
+        "Difficulty": 2,
+        "Duration": 90,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 4,
+        "Name": "Aventum",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 334,
+      "TheGame": {
+        "Id": 576,
+        "Name": "Doodle Rush",
+        "Editorial": "SD Games",
+        "Family": 4,
+        "Type": 2,
+        "Years": 10,
+        "PlayerMin": 3,
+        "PlayerMax": 6,
+        "Difficulty": 1,
+        "Duration": 10,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 4,
+        "Name": "Aventum",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 335,
+      "TheGame": {
+        "Id": 577,
+        "Name": "Loony quest",
+        "Editorial": "Libellud",
+        "Family": 4,
+        "Type": 1,
+        "Years": 8,
+        "PlayerMin": 2,
+        "PlayerMax": 5,
+        "Difficulty": 1,
+        "Duration": 20,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 4,
+        "Name": "Aventum",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 336,
+      "TheGame": {
+        "Id": 578,
+        "Name": "Adios Amigos",
+        "Editorial": "Pegasus",
+        "Family": 0,
+        "Type": 0,
+        "Years": 8,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 1,
+        "Duration": 20,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 4,
+        "Name": "Aventum",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 337,
+      "TheGame": {
+        "Id": 579,
+        "Name": "El Banquete de Odin",
+        "Editorial": "Devir",
+        "Family": 2,
+        "Type": 3,
+        "Years": 12,
+        "PlayerMin": 1,
+        "PlayerMax": 4,
+        "Difficulty": 0,
+        "Duration": 30,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 4,
+        "Name": "Aventum",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 338,
+      "TheGame": {
+        "Id": 580,
+        "Name": "Las montañas de la locura",
+        "Editorial": "Devir",
+        "Family": 2,
+        "Type": 5,
+        "Years": 12,
+        "PlayerMin": 3,
+        "PlayerMax": 5,
+        "Difficulty": 2,
+        "Duration": 60,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 4,
+        "Name": "Aventum",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 339,
+      "TheGame": {
+        "Id": 581,
+        "Name": "Age of Mythology ",
+        "Editorial": "Eagle Games",
+        "Family": 2,
+        "Type": 3,
+        "Years": 10,
+        "PlayerMin": 2,
+        "PlayerMax": 4,
+        "Difficulty": 2,
+        "Duration": 120,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 4,
+        "Name": "Aventum",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 340,
+      "TheGame": {
+        "Id": 582,
+        "Name": "Patchwork",
+        "Editorial": "Maldito Games",
+        "Family": 1,
+        "Type": 4,
+        "Years": 6,
+        "PlayerMin": 2,
+        "PlayerMax": 2,
+        "Difficulty": 1,
+        "Duration": 15,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 342,
+      "TheGame": {
+        "Id": 583,
+        "Name": "Gothic Invasión",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 0,
+        "Years": 0,
+        "PlayerMin": 0,
+        "PlayerMax": 0,
+        "Difficulty": 0,
+        "Duration": 0,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 2,
+        "Name": "Atlas",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 344,
+      "TheGame": {
+        "Id": 584,
+        "Name": "Fuga",
+        "Editorial": "Edge",
+        "Family": 0,
+        "Type": 0,
+        "Years": 12,
+        "PlayerMin": 1,
+        "PlayerMax": 4,
+        "Difficulty": 2,
+        "Duration": 0,
+        "IsExpansion": 0,
+        "Comments": "Donado por Maite Ramirez\r\n"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 345,
+      "TheGame": {
+        "Id": 586,
+        "Name": "moon (1110011)",
+        "Editorial": "ludo",
+        "Family": 0,
+        "Type": 3,
+        "Years": 11,
+        "PlayerMin": 1,
+        "PlayerMax": 4,
+        "Difficulty": 2,
+        "Duration": 15,
+        "IsExpansion": 0,
+        "Comments": "Edicion prototipo kickstarter, instrucciones aparte"
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
+        "Contact": null,
+        "Email": null,
+        "Phone": null,
+        "Comments": null
+      },
+      "Comments": null,
+      "Status": 0
+    },
+    {
+      "Id": 346,
+      "TheGame": {
+        "Id": 588,
+        "Name": "dados",
+        "Editorial": "",
+        "Family": 0,
+        "Type": 0,
+        "Years": 0,
+        "PlayerMin": 0,
+        "PlayerMax": 0,
+        "Difficulty": 0,
+        "Duration": 0,
+        "IsExpansion": 0,
+        "Comments": ""
+      },
+      "Association": {
+        "Id": 1,
+        "Name": "Alter Paradox",
         "Contact": null,
         "Email": null,
         "Phone": null,

@@ -6,10 +6,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="activities.json" />
     <Content Remove="games.json" />
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="activities.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Include="games.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
